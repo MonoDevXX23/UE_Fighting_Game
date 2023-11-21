@@ -1,3 +1,3 @@
 # UE_Fighting_Game
-<br>
-# Objectives
+
+<h1><strong>Objectives</strong></h1>
