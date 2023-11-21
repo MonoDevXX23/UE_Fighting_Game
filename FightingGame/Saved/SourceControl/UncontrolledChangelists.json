@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/giant/Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/M_Lvl1.umap",
+				"C:/Users/giant/Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/props_TileSet.uasset",
+				"C:/Users/giant/Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS_Props.uasset",
+				"C:/Users/giant/Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TM_Stage.uasset",
+				"C:/Users/giant/Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/back.uasset",
+				"C:/Users/giant/Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/middle.uasset",
+				"C:/Users/giant/Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/props.uasset"
+			]
+		}
+	]
+}
