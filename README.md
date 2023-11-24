@@ -11,3 +11,11 @@
   <li>Added assets to the project</li>
   <li>Created the stage</li>
 </ul>
+
+<h2>Day 2 - Minor work</h2>
+<ul>
+  <li>Looked for character assets</li>
+  <li>Placed stage into viewport</li>
+  <li>Found and recorded minor bug</li>
+  <li>Reorganised Trello board and updated tasks</li>
+</ul>
