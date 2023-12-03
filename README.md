@@ -32,3 +32,8 @@
   <li>Keybinded movement and combat keys</li>
   <li>Planned for Combat system</li>
 </ul>
+
+<h2>Day 4 - PaperZD</h2>
+<ul>
+  <li>Converted to PaperZD and redid some animations</li>
+</ul>
