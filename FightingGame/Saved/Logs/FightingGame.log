@@ -1853,3 +1853,21 @@ UnknownFunction []
 [2023.12.04-17.52.49:932][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 2.23 sec)
 [2023.12.04-17.52.49:933][661]AssetCheck: New page: Asset Save: Testing_Area
 [2023.12.04-17.52.49:933][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Testing_Area.Testing_Area
+[2023.12.04-17.59.35:373][770]LogSlate: Window 'ABP_Player' being destroyed
+[2023.12.04-17.59.35:377][770]LogSlate: Window 'ABP_Player' being destroyed
+[2023.12.04-17.59.35:389][770]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-17.59.35:389][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-17.59.35:468][770]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.04-17.59.35:468][770]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-17.59.35:468][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-17.59.35:527][770]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-17.59.35:527][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-17.59.35:566][770]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-17.59.35:566][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-17.59.37:765][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.04-17.59.37:775][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-17.59.37:803][831]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack2
+[2023.12.04-17.59.37:804][831]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2CFA8ACD04BD9E65AB5636392418750B0.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack2.uasset'
+[2023.12.04-17.59.37:809][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 2.26 sec)
+[2023.12.04-17.59.37:811][831]AssetCheck: New page: Asset Save: AS_Attack2
+[2023.12.04-17.59.37:812][831]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
