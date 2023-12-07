@@ -4284,3 +4284,60 @@ UnknownFunction []
 [2023.12.07-19.04.15:194][610]AssetCheck: New page: Asset Save: AS_Attack2
 [2023.12.07-19.04.15:194][610]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
 [2023.12.07-19.04.17:251][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.07-19.08.16:065][670]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-19.08.16:080][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-19.08.16:080][670]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 19:08:16)
+[2023.12.07-19.08.16:080][670]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-19.08.16:082][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002022s)
+[2023.12.07-19.08.16:083][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.002069s)
+[2023.12.07-19.08.16:109][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.12.07-19.08.16:110][670]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-19.08.16:110][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-19.08.16:111][670]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-19.08.16:111][670]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2023.12.07-19.08.16:111][670]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.12.07-19.08.16:111][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-19.08.16:111][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-19.08.16:111][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-19.08.16:111][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-19.08.16:111][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-19.08.16:111][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-19.08.16:111][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-19.08.16:111][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-19.08.16:112][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-19.08.16:112][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-19.08.16:112][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-19.08.16:116][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-19.08.16:188][670]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-19.08.16:189][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-19.08.16:189][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-19.08.16:189][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-19.08.16:190][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.12.07-19.08.16:190][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.12.07-19.08.16:192][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.12.07-19.08.16:192][670]LogInit: FAudioDevice initialized with ID 35.
+[2023.12.07-19.08.16:192][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.12.07-19.08.16:192][670]LogAudio: Display: Audio Device (ID: 35) registered with world 'Testing_Area'.
+[2023.12.07-19.08.16:192][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2023.12.07-19.08.16:194][670]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-19.08.16:196][670]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-19.08.16
+[2023.12.07-19.08.16:196][670]LogWorld: Bringing up level for play took: 0.002005
+[2023.12.07-19.08.16:199][670]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.12.07-19.08.16:200][670]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-19.08.16:200][670]PIE: Server logged in
+[2023.12.07-19.08.16:201][670]PIE: Play in editor total start time 0.121 seconds.
+[2023.12.07-19.08.19:202][782]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.08.20:509][833]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.08.22:482][910]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.08.22:483][910]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.08.23:393][945]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.08.23:393][945]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.08.24:119][973]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.08.24:119][973]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.08.26:059][ 49]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.08.26:059][ 49]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.08.26:746][ 76]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.08.26:746][ 76]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.08.27:410][102]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.08.27:410][102]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.09.54:099][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
