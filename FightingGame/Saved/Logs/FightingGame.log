@@ -3062,3 +3062,1225 @@ UnknownFunction []
 [2023.12.07-16.27.35:389][182]AssetCheck: New page: Asset Save: multiple assets
 [2023.12.07-16.27.35:389][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/PZD_Player.PZD_Player
 [2023.12.07-16.27.35:389][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Enemy/Enemy.Enemy
+[2023.12.07-16.33.05:315][376]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-16.33.05:333][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-16.33.05:333][376]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 16:33:05)
+[2023.12.07-16.33.05:333][376]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-16.33.05:335][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001688s)
+[2023.12.07-16.33.05:335][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001724s)
+[2023.12.07-16.33.05:359][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.12.07-16.33.05:361][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-16.33.05:361][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-16.33.05:362][376]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-16.33.05:363][376]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2023.12.07-16.33.05:363][376]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.12.07-16.33.05:363][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-16.33.05:363][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-16.33.05:363][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-16.33.05:363][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-16.33.05:363][376]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-16.33.05:363][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-16.33.05:363][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-16.33.05:363][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-16.33.05:364][376]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-16.33.05:364][376]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-16.33.05:364][376]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-16.33.05:367][376]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-16.33.05:440][376]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-16.33.05:440][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-16.33.05:440][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-16.33.05:440][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-16.33.05:441][376]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.12.07-16.33.05:441][376]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.12.07-16.33.05:443][376]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.12.07-16.33.05:443][376]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.12.07-16.33.05:443][376]LogInit: FAudioDevice initialized with ID 24.
+[2023.12.07-16.33.05:443][376]LogAudio: Display: Audio Device (ID: 24) registered with world 'Testing_Area'.
+[2023.12.07-16.33.05:443][376]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.12.07-16.33.05:445][376]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-16.33.05:448][376]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-16.33.05
+[2023.12.07-16.33.05:448][376]LogWorld: Bringing up level for play took: 0.002924
+[2023.12.07-16.33.05:450][376]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.12.07-16.33.05:452][376]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-16.33.05:452][376]PIE: Server logged in
+[2023.12.07-16.33.05:453][376]PIE: Play in editor total start time 0.123 seconds.
+[2023.12.07-16.33.21:016][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-16.33.21:016][ 13]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-16.33.21:016][ 13]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-16.33.21:016][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-16.33.21:032][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-16.33.21:038][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-16.33.21:054][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-16.33.21:054][ 13]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.12.07-16.33.21:054][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.12.07-16.33.21:056][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.12.07-16.33.21:065][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.07-16.33.21:137][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.12.07-16.33.56:156][  5]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.12.07-16.33.56:156][  5]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9536
+[2023.12.07-16.33.56:490][  6]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3e379e91-05fd-4e4c-b8b2-9402a485b4f8}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=320.10
+[2023.12.07-16.33.56:490][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.07-16.33.56:492][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.07-16.33.57:329][  9]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.12.07-17.16.35:042][ 10]LogAutomationController: Ignoring very large delta of 2557.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: 00000514EB99DC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: 00000514EB99DC00: libcurl info message cache 0 (Too old connection (2585 seconds idle), disconnect it)
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: 00000514EB99DC00: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: 00000514EB99DC00: libcurl info message cache 2 (Closing connection)
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: 00000514EB99DC00: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: 00000514EB99DC00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: 00000514EB99DC00: libcurl info message cache 5 (Closing connection)
+[2023.12.07-17.16.35:588][ 12]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B177037D2-41AC-F9A6-92CF-9CB18D6DD914%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ebe905940cca263928fdf9fbee954df%7C7215e8c196f74a129128ec38bc685c28%7C4ff12869-c186-46db-b82e-c19a7debf2df&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.07-17.17.01:367][ 89]LogDerivedDataCache: C:/Users/giant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 923 files in 1515 folders with total size 4 MiB.
+[2023.12.07-17.22.36:257][710]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.12.07-17.24.07:199][795]LogAutomationController: Ignoring very large delta of 31.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.07-17.24.08:187][796]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [36 Seconds] waiting for h/w. InstanceID=1
+[2023.12.07-17.24.08:404][796]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9536
+[2023.12.07-17.24.09:474][800]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x80040154: REGDB_E_CLASSNOTREG (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3e379e91-05fd-4e4c-b8b2-9402a485b4f8} Name=Speakers (Realtek(R) Audio))
+[2023.12.07-17.24.10:747][803]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3e379e91-05fd-4e4c-b8b2-9402a485b4f8}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnSessionDisconnect() - Other, InstanceID=1, DurationMS=341.94
+[2023.12.07-17.24.10:748][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.07-17.24.10:751][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.07-17.24.23:501][ 45]LogSlate: Took 0.001291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.07-17.24.45:947][508]BlueprintLog: New page: Compile Enemy
+[2023.12.07-17.24.46:022][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2023.12.07-17.30.58:954][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.07-17.30.58:957][ 82]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.024
+[2023.12.07-17.30.58:958][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/Enemy/Enemy] ([2] browsable assets)...
+[2023.12.07-17.30.58:958][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/Enemy/Enemy]
+[2023.12.07-17.30.58:984][ 82]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/Enemy/Enemy_Auto2
+[2023.12.07-17.30.58:985][ 82]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Enemy_Auto24A71BE664D360612E3C72BBDA1528627.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/Enemy/Enemy_Auto2.uasset'
+[2023.12.07-17.30.58:988][ 82]LogFileHelpers: Auto-saving content packages took 0.030
+[2023.12.07-17.34.32:068][890]LogViewport: Scene viewport resized to 1158x687, mode Windowed.
+[2023.12.07-17.34.44:980][234]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/PaperZD/PZD_Player.PZD_Player
+[2023.12.07-17.34.44:980][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-17.34.44:980][234]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.34.45:284][234]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.12.07-17.34.55:026][489]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.07-17.34.55:027][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-17.34.55:027][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.35.52:068][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-17.35.52:143][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/ABP_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset" SILENT=true
+[2023.12.07-17.35.52:162][973]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/ABP_Player
+[2023.12.07-17.35.52:163][973]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_Player15016C034C88DC462C26F89EABF7E01E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset'
+[2023.12.07-17.35.52:170][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 428 ms)
+[2023.12.07-17.35.52:173][973]AssetCheck: New page: Asset Save: ABP_Player
+[2023.12.07-17.35.52:173][973]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.07-17.35.52:777][991]BlueprintLog: New page: Compile ABP_Player
+[2023.12.07-17.35.52:818][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.07-17.35.56:933][106]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-17.35.56:955][106]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.07-17.35.56:958][106]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2023.12.07-17.35.57:057][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.12.07-17.35.57:060][106]LogPlayLevel: PlayLevel: Blueprint regeneration took 104 ms (1 blueprints)
+[2023.12.07-17.35.57:060][106]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 17:35:57)
+[2023.12.07-17.35.57:060][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-17.35.57:062][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001497s)
+[2023.12.07-17.35.57:062][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001536s)
+[2023.12.07-17.35.57:080][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.07-17.35.57:081][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-17.35.57:081][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.35.57:082][106]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-17.35.57:083][106]LogPlayLevel: PIE: World Init took: (0.001795s)
+[2023.12.07-17.35.57:083][106]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.12.07-17.35.57:083][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-17.35.57:083][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-17.35.57:083][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-17.35.57:083][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-17.35.57:083][106]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-17.35.57:083][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-17.35.57:083][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-17.35.57:083][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-17.35.57:085][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-17.35.57:085][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-17.35.57:085][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-17.35.57:087][106]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-17.35.57:174][106]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-17.35.57:174][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-17.35.57:174][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-17.35.57:174][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-17.35.57:174][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.12.07-17.35.57:174][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.12.07-17.35.57:176][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.12.07-17.35.57:176][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.12.07-17.35.57:176][106]LogInit: FAudioDevice initialized with ID 25.
+[2023.12.07-17.35.57:176][106]LogAudio: Display: Audio Device (ID: 25) registered with world 'Testing_Area'.
+[2023.12.07-17.35.57:176][106]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.12.07-17.35.57:179][106]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-17.35.57:182][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-17.35.57
+[2023.12.07-17.35.57:183][106]LogWorld: Bringing up level for play took: 0.003949
+[2023.12.07-17.35.57:186][106]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.12.07-17.35.57:188][106]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-17.35.57:188][106]PIE: Server logged in
+[2023.12.07-17.35.57:189][106]PIE: Play in editor total start time 0.238 seconds.
+[2023.12.07-17.36.29:426][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.36.29:426][413]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-17.36.29:426][413]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-17.36.29:426][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.36.29:432][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-17.36.29:438][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-17.36.29:459][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-17.36.29:460][413]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.12.07-17.36.29:460][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.12.07-17.36.29:462][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.12.07-17.36.29:468][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-17.36.29:472][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.07-17.36.29:548][414]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.12.07-17.45.19:623][948]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Assets/PaperZD/A_Source.A_Source
+[2023.12.07-17.45.19:691][948]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-17.45.19:691][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-17.45.19:768][948]LogSlate: Took 0.001697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.07-17.45.19:780][948]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2023.12.07-17.45.19:792][948]LogViewport: Scene viewport resized to 1139x908, mode Windowed.
+[2023.12.07-17.45.23:498][ 21]LogViewport: Scene viewport resized to 1139x541, mode Windowed.
+[2023.12.07-17.45.37:880][304]LogTemp: Warning: Particle Notify: Particle system is null for particle notify 'ParticleEffect' in anim: '/Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2'
+[2023.12.07-17.45.38:595][318]LogTemp: Warning: Particle Notify: Particle system is null for particle notify 'ParticleEffect' in anim: '/Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2'
+[2023.12.07-17.45.39:214][330]LogTemp: Warning: Particle Notify: Particle system is null for particle notify 'ParticleEffect' in anim: '/Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2'
+[2023.12.07-17.46.07:404][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.12.07-17.46.07:407][442]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.018
+[2023.12.07-17.46.07:410][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2] ([1] browsable assets)...
+[2023.12.07-17.46.07:411][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2]
+[2023.12.07-17.46.07:414][442]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto3
+[2023.12.07-17.46.07:414][442]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2_Auto3C46BA9284D40115CE8718EB9E18BCE0E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto3.uasset'
+[2023.12.07-17.46.07:416][442]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.12.07-17.54.12:015][ 10]LogSlate: Window 'Save Asset As' being destroyed
+[2023.12.07-17.54.12:033][ 11]LogAutomationController: Ignoring very large delta of 3.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.07-17.56.08:001][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.07-17.56.08:003][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.015
+[2023.12.07-17.56.08:003][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2] ([1] browsable assets)...
+[2023.12.07-17.56.08:003][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2]
+[2023.12.07-17.56.08:006][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto4
+[2023.12.07-17.56.08:006][784]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2_Auto4905CEC43418BF1895336E2B2920DBABB.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto4.uasset'
+[2023.12.07-17.56.08:007][784]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.12.07-18.07.26:236][953]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.07-18.07.26:250][953]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.07-18.07.26:255][953]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.07-18.07.26:263][954]LogAutomationController: Ignoring very large delta of 8.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.07-18.07.26:273][954]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.07-18.07.32:794][151]LogContentBrowser: Attempting asset rename: NewBlueprint -> Anim_Notify
+[2023.12.07-18.07.32:819][151]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.07-18.07.34:079][190]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.07.34:079][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.07.34:079][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.10.25:383][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.07-18.10.25:384][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.021
+[2023.12.07-18.10.25:384][811]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/Anim_Notify] ([2] browsable assets)...
+[2023.12.07-18.10.25:384][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/Anim_Notify]
+[2023.12.07-18.10.25:390][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto5
+[2023.12.07-18.10.25:390][811]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_Notify_Auto5727D931E4B38C8EDF740A9A45FA2DCFC.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto5.uasset'
+[2023.12.07-18.10.25:391][811]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.12.07-18.15.54:127][662]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-18.16.02:872][832]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-18.16.32:252][378]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-18.16.32:272][378]LogAutomationController: Ignoring very large delta of 3.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.07-18.16.54:796][872]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.16.54:840][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.07-18.16.58:036][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.07-18.16.58:040][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.16.58:072][950]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack2
+[2023.12.07-18.16.58:074][950]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2BD43A2CF40148012FACE9C9F6B053DBA.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack2.uasset'
+[2023.12.07-18.16.58:076][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Enemy/Enemy" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Enemy/Enemy.uasset" SILENT=true
+[2023.12.07-18.16.58:099][950]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Enemy/Enemy
+[2023.12.07-18.16.58:100][950]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/EnemyC518CD5D472A686F204FA4B38D271F35.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Enemy/Enemy.uasset'
+[2023.12.07-18.16.58:102][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.16.58:108][950]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.16.58:108][950]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyD121A3EC4E2BCE51EBC079B1A9CAC655.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.16.58:119][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 507 ms)
+[2023.12.07-18.16.58:122][950]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.07-18.16.58:122][950]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
+[2023.12.07-18.16.58:122][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Enemy/Enemy.Enemy
+[2023.12.07-18.16.58:122][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.17.20:095][370]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-18.17.20:124][371]LogAutomationController: Ignoring very large delta of 3.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.07-18.17.28:125][571]LogDerivedDataCache: C:/Users/giant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.112 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 923 files in 1515 folders with total size 4 MiB.
+[2023.12.07-18.17.35:945][742]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.17.35:988][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.12.07-18.21.49:036][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.07-18.21.49:037][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.016
+[2023.12.07-18.21.49:037][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2] ([1] browsable assets)...
+[2023.12.07-18.21.49:037][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2]
+[2023.12.07-18.21.49:041][803]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto6
+[2023.12.07-18.21.49:041][803]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2_Auto6203EA93E4EF4B2AF861129B0E5818E79.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto6.uasset'
+[2023.12.07-18.21.49:042][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/Anim_Notify] ([2] browsable assets)...
+[2023.12.07-18.21.49:042][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/Anim_Notify]
+[2023.12.07-18.21.49:049][803]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto6
+[2023.12.07-18.21.49:049][803]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_Notify_Auto6E2EDC687435884958503A9B1FFF85D1E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto6.uasset'
+[2023.12.07-18.21.49:050][803]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.12.07-18.26.24:327][815]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.26.24:370][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.12.07-18.26.25:270][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-18.26.25:287][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-18.26.25:287][839]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 18:26:25)
+[2023.12.07-18.26.25:287][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.26.25:289][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001794s)
+[2023.12.07-18.26.25:289][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001846s)
+[2023.12.07-18.26.25:311][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.07-18.26.25:312][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.26.25:313][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.26.25:313][839]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-18.26.25:314][839]LogPlayLevel: PIE: World Init took: (0.001831s)
+[2023.12.07-18.26.25:314][839]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.12.07-18.26.25:314][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-18.26.25:314][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-18.26.25:314][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-18.26.25:314][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-18.26.25:314][839]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-18.26.25:314][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-18.26.25:314][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-18.26.25:314][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-18.26.25:315][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-18.26.25:315][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-18.26.25:315][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-18.26.25:318][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-18.26.25:398][839]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-18.26.25:399][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-18.26.25:399][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-18.26.25:399][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-18.26.25:400][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.12.07-18.26.25:400][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.12.07-18.26.25:401][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.12.07-18.26.25:401][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.12.07-18.26.25:401][839]LogInit: FAudioDevice initialized with ID 26.
+[2023.12.07-18.26.25:401][839]LogAudio: Display: Audio Device (ID: 26) registered with world 'Testing_Area'.
+[2023.12.07-18.26.25:401][839]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.12.07-18.26.25:408][839]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-18.26.25:411][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-18.26.25
+[2023.12.07-18.26.25:411][839]LogWorld: Bringing up level for play took: 0.002997
+[2023.12.07-18.26.25:414][839]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.12.07-18.26.25:416][839]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-18.26.25:416][839]PIE: Server logged in
+[2023.12.07-18.26.25:417][839]PIE: Play in editor total start time 0.131 seconds.
+[2023.12.07-18.26.31:597][ 74]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.31:597][ 74]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.31:597][ 74]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.31:597][ 74]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.33:869][164]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.33:869][164]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.33:869][164]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.35:097][213]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.35:097][213]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.35:097][213]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.35:097][213]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.36:128][254]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.36:128][254]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.36:128][254]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.36:128][254]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.36:852][283]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.36:852][283]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.36:852][283]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.36:852][283]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.37:552][311]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.37:552][311]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.37:552][311]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.37:552][311]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.38:260][339]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.38:260][339]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.38:260][339]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.38:260][339]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.39:397][383]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.39:397][383]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.39:397][383]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.39:397][383]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.43:030][528]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.43:030][528]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.43:030][528]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.43:030][528]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.46:191][654]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.46:191][654]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.46:191][654]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.46:191][654]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.49:224][774]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.49:224][774]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.49:224][774]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.49:224][774]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.52:040][886]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.52:040][886]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.52:040][886]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.54:020][965]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.54:020][965]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.54:020][965]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.56:228][ 53]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.26.56:228][ 53]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.26.56:228][ 53]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.26.56:228][ 53]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.26.57:677][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.26.57:677][109]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.26.57:677][109]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.26.57:677][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.26.57:687][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-18.26.57:693][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.26.57:711][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.26.57:711][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.12.07-18.26.57:711][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.12.07-18.26.57:713][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.12.07-18.26.57:724][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.07-18.26.57:803][110]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.12.07-18.30.25:312][585]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-18.30.25:328][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-18.30.25:328][585]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 18:30:25)
+[2023.12.07-18.30.25:328][585]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.30.25:330][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002001s)
+[2023.12.07-18.30.25:330][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.002050s)
+[2023.12.07-18.30.25:358][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.12.07-18.30.25:359][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.30.25:359][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.30.25:360][585]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-18.30.25:360][585]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2023.12.07-18.30.25:360][585]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.12.07-18.30.25:361][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-18.30.25:361][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-18.30.25:361][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-18.30.25:361][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-18.30.25:361][585]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-18.30.25:361][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-18.30.25:361][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-18.30.25:361][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-18.30.25:362][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-18.30.25:362][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-18.30.25:362][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-18.30.25:365][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-18.30.25:439][585]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-18.30.25:439][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-18.30.25:439][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-18.30.25:439][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-18.30.25:440][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.12.07-18.30.25:440][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.12.07-18.30.25:442][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.12.07-18.30.25:442][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.12.07-18.30.25:442][585]LogInit: FAudioDevice initialized with ID 27.
+[2023.12.07-18.30.25:442][585]LogAudio: Display: Audio Device (ID: 27) registered with world 'Testing_Area'.
+[2023.12.07-18.30.25:442][585]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.12.07-18.30.25:444][585]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-18.30.25:446][585]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-18.30.25
+[2023.12.07-18.30.25:446][585]LogWorld: Bringing up level for play took: 0.002035
+[2023.12.07-18.30.25:448][585]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.12.07-18.30.25:450][585]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-18.30.25:450][585]PIE: Server logged in
+[2023.12.07-18.30.25:451][585]PIE: Play in editor total start time 0.123 seconds.
+[2023.12.07-18.30.27:832][678]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.30.27:832][678]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.30.27:832][678]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.30.27:832][678]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.30.28:528][705]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.30.28:529][705]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.30.28:529][705]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.30.29:244][733]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.30.29:244][733]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.30.29:244][733]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.30.29:872][758]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.30.29:872][758]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.30.29:872][758]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.30.38:204][ 92]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.30.38:204][ 92]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.30.38:204][ 92]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.30.41:230][211]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.30.41:230][211]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.30.41:230][211]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.30.58:313][893]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.30.58:314][893]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.30.58:314][893]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.30.58:314][893]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.31.00:079][962]LogBlueprintUserMessages: [Anim_Notify_C_0] PZD_Player0
+[2023.12.07-18.31.00:079][962]LogBlueprintUserMessages: [Anim_Notify_C_0] TM_Stage
+[2023.12.07-18.31.00:079][962]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.31.24:426][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.31.24:426][933]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.31.24:426][933]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.31.24:426][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.31.24:447][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-18.31.24:452][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.31.24:471][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.31.24:472][933]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.12.07-18.31.24:472][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.12.07-18.31.24:473][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.12.07-18.31.24:482][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.07-18.31.24:562][934]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.12.07-18.32.24:984][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.32.25:062][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.32.25:072][455]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.32.25:073][455]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_Notify526EDDD34DFC6F6AEB0645A539620DF0.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.32.25:080][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 602 ms)
+[2023.12.07-18.32.25:080][455]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.32.25:080][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.32.26:131][484]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.32.26:201][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.12.07-18.32.35:194][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.32.35:269][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.32.35:279][716]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.32.35:280][716]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyD867A52D459FA04EDFAB538736DC2D42.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.32.35:286][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 694 ms)
+[2023.12.07-18.32.35:287][716]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.32.35:287][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.32.35:951][735]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.32.35:994][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.12.07-18.32.38:380][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-18.32.38:396][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-18.32.38:396][800]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 18:32:38)
+[2023.12.07-18.32.38:396][800]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.32.38:398][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001723s)
+[2023.12.07-18.32.38:398][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001759s)
+[2023.12.07-18.32.38:418][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.12.07-18.32.38:421][800]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.32.38:422][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.32.38:422][800]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-18.32.38:422][800]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2023.12.07-18.32.38:422][800]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.12.07-18.32.38:423][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-18.32.38:423][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-18.32.38:423][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-18.32.38:423][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-18.32.38:423][800]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-18.32.38:423][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-18.32.38:423][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-18.32.38:423][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-18.32.38:423][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-18.32.38:423][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-18.32.38:423][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-18.32.38:426][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-18.32.38:501][800]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-18.32.38:501][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-18.32.38:501][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-18.32.38:501][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-18.32.38:501][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.12.07-18.32.38:501][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.12.07-18.32.38:503][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.12.07-18.32.38:503][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.12.07-18.32.38:503][800]LogInit: FAudioDevice initialized with ID 28.
+[2023.12.07-18.32.38:503][800]LogAudio: Display: Audio Device (ID: 28) registered with world 'Testing_Area'.
+[2023.12.07-18.32.38:503][800]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.07-18.32.38:505][800]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-18.32.38:507][800]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-18.32.38
+[2023.12.07-18.32.38:507][800]LogWorld: Bringing up level for play took: 0.001572
+[2023.12.07-18.32.38:509][800]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.12.07-18.32.38:511][800]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-18.32.38:511][800]PIE: Server logged in
+[2023.12.07-18.32.38:512][800]PIE: Play in editor total start time 0.116 seconds.
+[2023.12.07-18.32.42:120][941]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.32.43:731][  5]LogBlueprintUserMessages: [Anim_Notify_C_0] Enemy
+[2023.12.07-18.32.43:731][  5]LogBlueprintUserMessages: [Anim_Notify_C_0] No actors found
+[2023.12.07-18.32.44:835][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.32.44:835][ 46]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.32.44:835][ 46]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.32.44:836][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.32.44:841][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-18.32.44:847][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.32.44:868][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.32.44:868][ 46]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.07-18.32.44:868][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.07-18.32.44:870][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.07-18.32.44:879][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.12.07-18.32.44:960][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.12.07-18.33.40:824][773]Cmd: SELECT NONE
+[2023.12.07-18.35.42:066][909]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.35.42:081][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.35.42:081][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.35.42:232][909]LogViewport: Scene viewport resized to 1523x908, mode Windowed.
+[2023.12.07-18.36.07:824][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.07-18.36.07:825][381]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.015
+[2023.12.07-18.36.07:825][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2] ([1] browsable assets)...
+[2023.12.07-18.36.07:826][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2]
+[2023.12.07-18.36.07:829][381]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto7
+[2023.12.07-18.36.07:829][381]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2_Auto74D8989934820D6AC06073F90E6EFC2AE.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto7.uasset'
+[2023.12.07-18.36.07:830][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/Anim_Notify] ([2] browsable assets)...
+[2023.12.07-18.36.07:830][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/Anim_Notify]
+[2023.12.07-18.36.07:838][381]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto7
+[2023.12.07-18.36.07:838][381]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_Notify_Auto76044256146E362CA79BD079EBE79453B.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto7.uasset'
+[2023.12.07-18.36.07:840][381]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.12.07-18.46.54:960][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.46.55:074][441]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.46.55:075][441]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_4182958D1497FD894F65601A7CB6F2C79.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.46.55:085][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 818 ms)
+[2023.12.07-18.46.55:086][441]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.46.55:086][441]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.48.11:046][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.07-18.48.11:047][467]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.018
+[2023.12.07-18.48.11:047][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/Anim_Notify] ([2] browsable assets)...
+[2023.12.07-18.48.11:047][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/Anim_Notify]
+[2023.12.07-18.48.11:056][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto8
+[2023.12.07-18.48.11:057][467]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_Notify_Auto87102D3E844A1E78F92344D81F8720CDA.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/Anim_Notify_Auto8.uasset'
+[2023.12.07-18.48.11:058][467]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.12.07-18.48.35:930][144]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.48.35:978][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.12.07-18.48.37:055][174]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-18.48.37:070][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-18.48.37:070][174]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 18:48:37)
+[2023.12.07-18.48.37:070][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.48.37:072][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001983s)
+[2023.12.07-18.48.37:072][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.002021s)
+[2023.12.07-18.48.37:095][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.12.07-18.48.37:097][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.48.37:097][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.48.37:098][174]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-18.48.37:099][174]LogPlayLevel: PIE: World Init took: (0.002782s)
+[2023.12.07-18.48.37:099][174]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.12.07-18.48.37:099][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-18.48.37:099][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-18.48.37:099][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-18.48.37:099][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-18.48.37:099][174]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-18.48.37:099][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-18.48.37:099][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-18.48.37:099][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-18.48.37:100][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-18.48.37:100][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-18.48.37:100][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-18.48.37:104][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-18.48.37:180][174]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-18.48.37:181][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-18.48.37:181][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-18.48.37:181][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-18.48.37:182][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.12.07-18.48.37:182][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.12.07-18.48.37:183][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.12.07-18.48.37:183][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.12.07-18.48.37:183][174]LogInit: FAudioDevice initialized with ID 29.
+[2023.12.07-18.48.37:183][174]LogAudio: Display: Audio Device (ID: 29) registered with world 'Testing_Area'.
+[2023.12.07-18.48.37:183][174]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.07-18.48.37:188][174]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-18.48.37:191][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-18.48.37
+[2023.12.07-18.48.37:191][174]LogWorld: Bringing up level for play took: 0.003105
+[2023.12.07-18.48.37:193][174]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.12.07-18.48.37:195][174]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-18.48.37:195][174]PIE: Server logged in
+[2023.12.07-18.48.37:196][174]PIE: Play in editor total start time 0.126 seconds.
+[2023.12.07-18.48.39:295][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.48.39:295][237]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.48.39:295][237]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.48.39:295][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.48.39:312][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-18.48.39:321][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.48.39:341][237]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-18.48.39:341][237]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.07-18.48.39:341][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.07-18.48.39:343][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.07-18.48.39:350][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.48.39:352][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.07-18.48.39:387][238]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.12.07-18.48.43:598][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.48.43:648][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.48.43:657][353]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.48.43:658][353]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyCA15655C423C83C606B62DB0D6A878BE.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.48.43:664][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 885 ms)
+[2023.12.07-18.48.43:665][353]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.48.43:665][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.48.58:208][669]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.48.58:248][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.07-18.49.12:455][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.49.12:533][232]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.49.12:534][232]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_4303E7DEF4FFA8F3B0FE7449405422FB2.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.49.12:538][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 968 ms)
+[2023.12.07-18.49.12:539][232]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.49.12:539][232]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.49.24:554][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.49.24:622][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/A_Source" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/A_Source.uasset" SILENT=true
+[2023.12.07-18.49.24:626][480]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/A_Source
+[2023.12.07-18.49.24:627][480]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/A_Source3E360236473004397C4CA4A6E94D3282.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/A_Source.uasset'
+[2023.12.07-18.49.24:633][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.04 sec)
+[2023.12.07-18.49.24:634][480]AssetCheck: New page: Asset Save: A_Source
+[2023.12.07-18.49.24:634][480]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/Assets/PaperZD/A_Source.A_Source
+[2023.12.07-18.49.28:113][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.49.28:196][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/A_Source" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/A_Source.uasset" SILENT=true
+[2023.12.07-18.49.28:199][558]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/A_Source
+[2023.12.07-18.49.28:200][558]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/A_SourceA182E2D24BCBF0DA9B0B3397E6AB3F52.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/A_Source.uasset'
+[2023.12.07-18.49.28:207][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.14 sec)
+[2023.12.07-18.49.28:208][558]AssetCheck: New page: Asset Save: A_Source
+[2023.12.07-18.49.28:208][558]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/Assets/PaperZD/A_Source.A_Source
+[2023.12.07-18.49.28:691][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.49.28:779][570]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack2
+[2023.12.07-18.49.28:780][570]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2EC034F1347B4C787B67E79BA5A877F2B.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack2.uasset'
+[2023.12.07-18.49.28:787][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.23 sec)
+[2023.12.07-18.49.28:788][570]AssetCheck: New page: Asset Save: AS_Attack2
+[2023.12.07-18.49.28:788][570]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
+[2023.12.07-18.49.58:245][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.49.58:357][211]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.49.58:358][211]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_487EA4FDF41AF757C630C5BA6B3CEB788.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.49.58:363][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.35 sec)
+[2023.12.07-18.49.58:364][211]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.49.58:364][211]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.00:176][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.50.00:259][246]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.00:260][246]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_4E357A845485EC69050E0C39C61B24039.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.50.00:264][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.44 sec)
+[2023.12.07-18.50.00:265][246]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.00:265][246]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.00:601][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.50.00:715][254]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.00:716][254]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_42BA683C94B560197E24AB0A77A7623FB.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.50.00:720][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.56 sec)
+[2023.12.07-18.50.00:720][254]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.00:720][254]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.20:205][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.50.20:317][726]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.20:318][726]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_4D245CC37441F9E27F65090A974C37BAB.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.50.20:324][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.68 sec)
+[2023.12.07-18.50.20:325][726]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.20:325][726]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.50.23:437][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.50.23:487][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.50.23:497][800]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.50.23:498][800]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyA03B8389402EDF3C6A9BB3A0310906AF.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.50.23:505][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.75 sec)
+[2023.12.07-18.50.23:506][800]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.50.23:506][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.50.24:702][833]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.50.24:739][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.12.07-18.51.22:218][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.51.22:327][252]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.22:328][252]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_4DD1BC4A2494BF4F4BBD2E5B9455AEEDB.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.51.22:333][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.86 sec)
+[2023.12.07-18.51.22:334][252]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.22:334][252]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.23:493][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.51.23:577][275]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.23:578][275]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_46D3027DD4DC3651CE9DD009658334180.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.51.23:583][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.95 sec)
+[2023.12.07-18.51.23:584][275]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.23:584][275]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.35:377][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.51.35:489][505]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.35:489][505]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_4E259F0CB4607E5625A72A9849822E634.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.uasset'
+[2023.12.07-18.51.35:495][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.07 sec)
+[2023.12.07-18.51.35:496][505]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.35:496][505]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_4.Player_Punch_64x64_Sprite_4
+[2023.12.07-18.51.47:512][883]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Textures/Characters/Player/Attack/FB_Punch.FB_Punch
+[2023.12.07-18.51.47:513][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.51.47:513][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.51.47:696][883]LogViewport: Scene viewport resized to 1523x741, mode Windowed.
+[2023.12.07-18.52.56:526][444]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_6.Player_Punch_64x64_Sprite_6
+[2023.12.07-18.52.56:526][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.52.56:526][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.52.56:667][444]LogViewport: Scene viewport resized to 1523x908, mode Windowed.
+[2023.12.07-18.53.04:150][580]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.53.04:150][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.53.07:531][654]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_5.Player_Punch_64x64_Sprite_5
+[2023.12.07-18.53.07:531][654]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.53.07:531][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.53.07:676][654]LogViewport: Scene viewport resized to 1523x908, mode Windowed.
+[2023.12.07-18.53.34:113][329]LogSlate: Window 'Sprite List' being destroyed
+[2023.12.07-18.55.15:939][664]LogSlate: Window 'Sprite List' being destroyed
+[2023.12.07-18.55.17:461][692]LogViewport: Scene viewport resized to 1297x786, mode Windowed.
+[2023.12.07-18.55.19:800][717]LogViewport: Scene viewport resized to 1523x908, mode Windowed.
+[2023.12.07-18.55.32:786][ 64]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Textures/Characters/Player/Attack/FB_Punch.FB_Punch
+[2023.12.07-18.55.32:787][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.55.32:787][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.55.32:931][ 64]LogViewport: Scene viewport resized to 1523x741, mode Windowed.
+[2023.12.07-18.55.44:923][312]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.55.44:968][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.12.07-18.55.47:905][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.55.47:978][383]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_5
+[2023.12.07-18.55.47:979][383]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_5272056AA4D79A22838C9CC8010874515.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_5.uasset'
+[2023.12.07-18.55.47:986][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.15 sec)
+[2023.12.07-18.55.47:987][383]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_5
+[2023.12.07-18.55.47:987][383]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_5.Player_Punch_64x64_Sprite_5
+[2023.12.07-18.55.50:041][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.55.50:126][421]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_6
+[2023.12.07-18.55.50:127][421]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_69EEF679742BB70564FAB3F86E78D54DB.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_6.uasset'
+[2023.12.07-18.55.50:132][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.24 sec)
+[2023.12.07-18.55.50:132][421]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_6
+[2023.12.07-18.55.50:133][421]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_6.Player_Punch_64x64_Sprite_6
+[2023.12.07-18.55.51:491][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.07-18.55.51:495][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.55.51:517][476]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack2
+[2023.12.07-18.55.51:518][476]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack240835C57408E344F86AF7884E8F07FC5.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack2.uasset'
+[2023.12.07-18.55.51:519][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.55.51:528][476]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.55.51:529][476]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyC8552686423E0A9EB992C49EB776636E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.55.51:535][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 2.28 sec)
+[2023.12.07-18.55.51:538][476]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.07-18.55.51:538][476]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
+[2023.12.07-18.55.51:538][476]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.55.52:533][495]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.55.52:533][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.56.42:508][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.56.42:582][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.56.42:592][611]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.56.42:593][611]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyFDE23EA447D25034E2D67D8870EFCC2F.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.56.42:598][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.37 sec)
+[2023.12.07-18.56.42:599][611]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.56.42:599][611]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.56.58:070][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.56.58:184][909]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/FB_Punch
+[2023.12.07-18.56.58:185][909]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/FB_Punch153DC69B4F315E410931418B39C1FD29.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/FB_Punch.uasset'
+[2023.12.07-18.56.58:192][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.49 sec)
+[2023.12.07-18.56.58:193][909]AssetCheck: New page: Asset Save: FB_Punch
+[2023.12.07-18.56.58:193][909]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Textures/Characters/Player/Attack/FB_Punch.FB_Punch
+[2023.12.07-18.56.58:746][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.56.58:823][921]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/FB_Punch
+[2023.12.07-18.56.58:824][921]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/FB_PunchFA47123041B283AF12358BB60AEC5D59.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/FB_Punch.uasset'
+[2023.12.07-18.56.58:829][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.58 sec)
+[2023.12.07-18.56.58:830][921]AssetCheck: New page: Asset Save: FB_Punch
+[2023.12.07-18.56.58:830][921]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Textures/Characters/Player/Attack/FB_Punch.FB_Punch
+[2023.12.07-18.57.17:958][285]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.57.18:004][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.12.07-18.57.20:290][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.57.20:362][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.57.20:372][346]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.57.20:373][346]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyDA5CA3794DE6B10B9EBED1B68F36B260.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.57.20:379][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.67 sec)
+[2023.12.07-18.57.20:381][346]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.57.20:381][346]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.57.48:680][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.57.48:760][905]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/FB_Punch
+[2023.12.07-18.57.48:761][905]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/FB_Punch05299E9A4CECD4E8CA3D928F78C03673.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/FB_Punch.uasset'
+[2023.12.07-18.57.48:767][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 2.75 sec)
+[2023.12.07-18.57.48:768][905]AssetCheck: New page: Asset Save: FB_Punch
+[2023.12.07-18.57.48:768][905]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Textures/Characters/Player/Attack/FB_Punch.FB_Punch
+[2023.12.07-18.58.05:572][258]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-18.58.05:584][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-18.58.05:584][258]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 18:58:05)
+[2023.12.07-18.58.05:584][258]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.58.05:585][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2023.12.07-18.58.05:585][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001370s)
+[2023.12.07-18.58.05:604][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.07-18.58.05:606][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.58.05:606][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.58.05:606][258]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-18.58.05:606][258]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2023.12.07-18.58.05:606][258]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.12.07-18.58.05:606][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-18.58.05:606][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-18.58.05:606][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-18.58.05:607][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-18.58.05:607][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-18.58.05:607][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-18.58.05:607][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-18.58.05:607][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-18.58.05:607][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-18.58.05:607][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-18.58.05:607][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-18.58.05:610][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-18.58.05:680][258]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-18.58.05:681][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-18.58.05:681][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-18.58.05:681][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-18.58.05:681][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.12.07-18.58.05:681][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.12.07-18.58.05:683][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.12.07-18.58.05:683][258]LogInit: FAudioDevice initialized with ID 30.
+[2023.12.07-18.58.05:683][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.12.07-18.58.05:683][258]LogAudio: Display: Audio Device (ID: 30) registered with world 'Testing_Area'.
+[2023.12.07-18.58.05:683][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.07-18.58.05:685][258]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-18.58.05:687][258]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-18.58.05
+[2023.12.07-18.58.05:688][258]LogWorld: Bringing up level for play took: 0.002150
+[2023.12.07-18.58.05:690][258]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.12.07-18.58.05:692][258]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-18.58.05:692][258]PIE: Server logged in
+[2023.12.07-18.58.05:693][258]PIE: Play in editor total start time 0.109 seconds.
+[2023.12.07-18.58.08:940][381]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.10:212][431]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.12:225][510]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.14:074][583]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.15:118][624]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.15:968][656]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.16:808][689]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.17:571][719]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.18:333][749]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.19:044][777]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.19:776][806]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.58.21:166][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.58.21:166][859]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.58.21:166][859]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.58.21:166][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.58.21:171][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-18.58.21:176][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.58.21:198][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.58.21:198][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.07-18.58.21:198][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.07-18.58.21:200][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.07-18.58.21:208][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.07-18.58.21:241][860]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.12.07-18.58.57:803][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.58.57:877][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.58.57:886][705]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.58.57:888][705]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_NotifyE3944C4B43D6C4076802E69FD8A081AC.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.58.57:893][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.84 sec)
+[2023.12.07-18.58.57:894][705]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.58.57:894][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.58.59:681][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.07-18.58.59:688][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.58.59:737][753]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack2
+[2023.12.07-18.58.59:738][753]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack22AAF6CE9462B64E078E47C8356BD15D2.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack2.uasset'
+[2023.12.07-18.58.59:744][753]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/FB_Punch
+[2023.12.07-18.58.59:745][753]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/FB_PunchB5983166428D72564D5ADCBBC8057E5D.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/FB_Punch.uasset'
+[2023.12.07-18.58.59:750][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.90 sec)
+[2023.12.07-18.58.59:751][753]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.07-18.58.59:751][753]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
+[2023.12.07-18.58.59:751][753]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Assets/Textures/Characters/Player/Attack/FB_Punch.FB_Punch
+[2023.12.07-18.59.00:968][787]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.59.01:021][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.12.07-18.59.03:906][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-18.59.03:921][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-18.59.03:921][869]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 18:59:03)
+[2023.12.07-18.59.03:922][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.59.03:924][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001725s)
+[2023.12.07-18.59.03:924][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001769s)
+[2023.12.07-18.59.03:949][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.12.07-18.59.03:951][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.59.03:951][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.59.03:951][869]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-18.59.03:952][869]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2023.12.07-18.59.03:952][869]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.12.07-18.59.03:952][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-18.59.03:952][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-18.59.03:952][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-18.59.03:952][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-18.59.03:952][869]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-18.59.03:952][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-18.59.03:952][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-18.59.03:952][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-18.59.03:953][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-18.59.03:953][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-18.59.03:953][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-18.59.03:955][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-18.59.04:028][869]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-18.59.04:028][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-18.59.04:028][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-18.59.04:028][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-18.59.04:029][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.12.07-18.59.04:029][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.12.07-18.59.04:031][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.12.07-18.59.04:031][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.12.07-18.59.04:031][869]LogInit: FAudioDevice initialized with ID 31.
+[2023.12.07-18.59.04:031][869]LogAudio: Display: Audio Device (ID: 31) registered with world 'Testing_Area'.
+[2023.12.07-18.59.04:031][869]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.07-18.59.04:032][869]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-18.59.04:035][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-18.59.04
+[2023.12.07-18.59.04:035][869]LogWorld: Bringing up level for play took: 0.002173
+[2023.12.07-18.59.04:037][869]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.12.07-18.59.04:039][869]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-18.59.04:039][869]PIE: Server logged in
+[2023.12.07-18.59.04:039][869]PIE: Play in editor total start time 0.118 seconds.
+[2023.12.07-18.59.05:649][930]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.05:650][930]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.08:086][ 25]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.08:835][ 54]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.10:062][102]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.10:062][102]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.10:801][131]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.10:801][131]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.11:417][155]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.11:418][155]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.12:640][203]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.13:245][227]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.13:911][253]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.13:911][253]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.14:623][281]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.14:623][281]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.15:362][310]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.15:362][310]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.16:126][340]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.16:126][340]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.17:042][376]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.17:042][376]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.20:540][512]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.20:540][512]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.21:770][560]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.21:770][560]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.23:793][639]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.23:793][639]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.24:621][672]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.24:621][672]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.25:231][696]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.25:231][696]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.25:892][722]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.25:892][722]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.26:816][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.59.26:816][757]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.59.26:816][757]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-18.59.26:816][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.59.26:830][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-18.59.26:835][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-18.59.26:855][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-18.59.26:855][757]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.07-18.59.26:855][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.07-18.59.26:857][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.07-18.59.26:866][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.07-18.59.26:900][758]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.12.07-18.59.38:281][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.59.38:355][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Anim_Notify" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset" SILENT=true
+[2023.12.07-18.59.38:365][ 21]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Anim_Notify
+[2023.12.07-18.59.38:365][ 21]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Anim_Notify23A610E54B6F1EA7F2FBD6A73D4FC11E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Anim_Notify.uasset'
+[2023.12.07-18.59.38:371][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.99 sec)
+[2023.12.07-18.59.38:372][ 21]AssetCheck: New page: Asset Save: Anim_Notify
+[2023.12.07-18.59.38:372][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Anim_Notify.Anim_Notify
+[2023.12.07-18.59.38:954][ 38]BlueprintLog: New page: Compile Anim_Notify
+[2023.12.07-18.59.39:004][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.12.07-18.59.42:632][117]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-18.59.42:647][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-18.59.42:647][117]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 18:59:42)
+[2023.12.07-18.59.42:647][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-18.59.42:649][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001888s)
+[2023.12.07-18.59.42:649][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001948s)
+[2023.12.07-18.59.42:673][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.12.07-18.59.42:677][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-18.59.42:677][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-18.59.42:677][117]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-18.59.42:678][117]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2023.12.07-18.59.42:678][117]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.12.07-18.59.42:678][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-18.59.42:678][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-18.59.42:678][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-18.59.42:678][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-18.59.42:678][117]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-18.59.42:678][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-18.59.42:678][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-18.59.42:678][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-18.59.42:678][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-18.59.42:678][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-18.59.42:678][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-18.59.42:680][117]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-18.59.42:751][117]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-18.59.42:751][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-18.59.42:751][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-18.59.42:751][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-18.59.42:752][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.12.07-18.59.42:752][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.12.07-18.59.42:754][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.12.07-18.59.42:754][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.12.07-18.59.42:754][117]LogInit: FAudioDevice initialized with ID 32.
+[2023.12.07-18.59.42:754][117]LogAudio: Display: Audio Device (ID: 32) registered with world 'Testing_Area'.
+[2023.12.07-18.59.42:754][117]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.12.07-18.59.42:756][117]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-18.59.42:758][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-18.59.42
+[2023.12.07-18.59.42:758][117]LogWorld: Bringing up level for play took: 0.002281
+[2023.12.07-18.59.42:761][117]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.12.07-18.59.42:762][117]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-18.59.42:762][117]PIE: Server logged in
+[2023.12.07-18.59.42:763][117]PIE: Play in editor total start time 0.116 seconds.
+[2023.12.07-18.59.44:220][172]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.45:624][227]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.46:952][279]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.49:636][384]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.50:904][432]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.51:902][471]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.52:950][512]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.53:535][535]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.53:535][535]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.54:240][563]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.54:241][563]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.54:955][591]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.55:570][615]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.56:158][638]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.56:718][660]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.57:357][685]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.57:947][708]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.58:583][733]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.58:583][733]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.59:198][757]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-18.59.59:956][787]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-18.59.59:956][787]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.00.00:375][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-19.00.00:375][801]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-19.00.00:375][801]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-19.00.00:376][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-19.00.00:383][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-19.00.00:392][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-19.00.00:415][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-19.00.00:415][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.12.07-19.00.00:415][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.12.07-19.00.00:422][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.12.07-19.00.00:434][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.07-19.00.00:472][802]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.12.07-19.00.51:676][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.12.07-19.00.51:677][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.016
+[2023.12.07-19.00.51:677][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2] ([1] browsable assets)...
+[2023.12.07-19.00.51:678][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PaperZD/AnimSequences/AS_Attack2]
+[2023.12.07-19.00.51:681][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto9
+[2023.12.07-19.00.51:681][109]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2_Auto9CBA2A9D34DDA326423904F9A751AC1B7.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/AnimSequences/AS_Attack2_Auto9.uasset'
+[2023.12.07-19.00.51:682][109]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.12.07-19.01.12:320][675]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.07-19.01.12:320][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-19.01.12:320][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-19.02.30:389][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-19.02.30:463][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/ABP_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset" SILENT=true
+[2023.12.07-19.02.30:483][750]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/ABP_Player
+[2023.12.07-19.02.30:484][750]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_Player4BFDB97C4EEFBF475C0BEF9B36AC0540.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset'
+[2023.12.07-19.02.30:490][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 3.10 sec)
+[2023.12.07-19.02.30:492][750]AssetCheck: New page: Asset Save: ABP_Player
+[2023.12.07-19.02.30:492][750]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.07-19.02.31:270][773]BlueprintLog: New page: Compile ABP_Player
+[2023.12.07-19.02.31:309][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.12.07-19.02.34:250][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-19.02.34:265][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-19.02.34:265][858]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 19:02:34)
+[2023.12.07-19.02.34:266][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-19.02.34:268][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001867s)
+[2023.12.07-19.02.34:268][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001910s)
+[2023.12.07-19.02.34:292][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.12.07-19.02.34:293][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-19.02.34:293][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-19.02.34:294][858]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-19.02.34:294][858]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2023.12.07-19.02.34:294][858]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.12.07-19.02.34:294][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-19.02.34:294][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-19.02.34:294][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-19.02.34:294][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-19.02.34:294][858]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-19.02.34:294][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-19.02.34:294][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-19.02.34:294][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-19.02.34:295][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-19.02.34:295][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-19.02.34:295][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-19.02.34:298][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-19.02.34:374][858]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-19.02.34:375][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-19.02.34:375][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-19.02.34:375][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-19.02.34:375][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.12.07-19.02.34:375][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.12.07-19.02.34:377][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.12.07-19.02.34:377][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.12.07-19.02.34:377][858]LogInit: FAudioDevice initialized with ID 33.
+[2023.12.07-19.02.34:377][858]LogAudio: Display: Audio Device (ID: 33) registered with world 'Testing_Area'.
+[2023.12.07-19.02.34:377][858]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.12.07-19.02.34:379][858]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-19.02.34:381][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-19.02.34
+[2023.12.07-19.02.34:381][858]LogWorld: Bringing up level for play took: 0.001817
+[2023.12.07-19.02.34:384][858]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.12.07-19.02.34:385][858]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-19.02.34:385][858]PIE: Server logged in
+[2023.12.07-19.02.34:386][858]PIE: Play in editor total start time 0.12 seconds.
+[2023.12.07-19.02.36:132][925]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.02.37:645][984]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.02.39:687][ 65]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.02.40:595][101]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.02.40:595][101]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.02.41:277][128]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.02.41:277][128]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.02.43:015][197]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.02.45:495][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-19.02.45:495][295]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-19.02.45:495][295]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-19.02.45:495][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-19.02.45:516][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-19.02.45:522][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-19.02.45:543][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-19.02.45:543][295]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.12.07-19.02.45:543][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.12.07-19.02.45:545][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.12.07-19.02.45:554][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.07-19.02.45:585][296]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.12.07-19.02.48:060][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-19.02.48:139][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/ABP_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset" SILENT=true
+[2023.12.07-19.02.48:161][348]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/ABP_Player
+[2023.12.07-19.02.48:162][348]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_Player52B9B76043F72BA74D102595D3E8CE35.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset'
+[2023.12.07-19.02.48:169][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 3.21 sec)
+[2023.12.07-19.02.48:170][348]AssetCheck: New page: Asset Save: ABP_Player
+[2023.12.07-19.02.48:170][348]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.07-19.03.29:318][416]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_3.Player_Punch_64x64_Sprite_3
+[2023.12.07-19.03.29:319][416]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-19.03.29:319][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-19.03.29:486][416]LogViewport: Scene viewport resized to 1523x908, mode Windowed.
+[2023.12.07-19.03.42:637][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-19.03.42:751][653]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_3
+[2023.12.07-19.03.42:752][653]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_3DD235DE54F6D9BDE658C89A56E82195E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_3.uasset'
+[2023.12.07-19.03.42:760][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.33 sec)
+[2023.12.07-19.03.42:761][653]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_3
+[2023.12.07-19.03.42:761][653]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_3.Player_Punch_64x64_Sprite_3
+[2023.12.07-19.03.44:238][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-19.03.44:350][682]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_3
+[2023.12.07-19.03.44:351][682]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Player_Punch_64x64_Sprite_3DEBCD2E74FDE53C6AC03C3842789A35F.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_3.uasset'
+[2023.12.07-19.03.44:357][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 3.45 sec)
+[2023.12.07-19.03.44:358][682]AssetCheck: New page: Asset Save: Player_Punch_64x64_Sprite_3
+[2023.12.07-19.03.44:358][682]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Assets/Textures/Characters/Player/Attack/Player_Punch_64x64_Sprite_3.Player_Punch_64x64_Sprite_3
+[2023.12.07-19.03.56:711][949]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-19.03.56:727][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-19.03.56:727][949]PIE: New page: PIE session: Testing_Area (7 Dec 2023, 19:03:56)
+[2023.12.07-19.03.56:727][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-19.03.56:729][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001487s)
+[2023.12.07-19.03.56:729][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001539s)
+[2023.12.07-19.03.56:754][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.12.07-19.03.56:755][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-19.03.56:756][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-19.03.56:756][949]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.07-19.03.56:757][949]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2023.12.07-19.03.56:757][949]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.12.07-19.03.56:757][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-19.03.56:757][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-19.03.56:757][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-19.03.56:757][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-19.03.56:757][949]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-19.03.56:757][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.07-19.03.56:757][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-19.03.56:757][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-19.03.56:758][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-19.03.56:758][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-19.03.56:758][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-19.03.56:761][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-19.03.56:833][949]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.12.07-19.03.56:833][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-19.03.56:833][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-19.03.56:833][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-19.03.56:834][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.12.07-19.03.56:834][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.12.07-19.03.56:836][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.12.07-19.03.56:836][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.12.07-19.03.56:836][949]LogInit: FAudioDevice initialized with ID 34.
+[2023.12.07-19.03.56:836][949]LogAudio: Display: Audio Device (ID: 34) registered with world 'Testing_Area'.
+[2023.12.07-19.03.56:836][949]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2023.12.07-19.03.56:838][949]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.07-19.03.56:839][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.07-19.03.56
+[2023.12.07-19.03.56:840][949]LogWorld: Bringing up level for play took: 0.001915
+[2023.12.07-19.03.56:842][949]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.12.07-19.03.56:843][949]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.07-19.03.56:843][949]PIE: Server logged in
+[2023.12.07-19.03.56:844][949]PIE: Play in editor total start time 0.117 seconds.
+[2023.12.07-19.03.59:009][ 32]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.03.59:746][ 61]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.04.00:886][106]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.04.02:123][153]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.04.03:673][214]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.04.03:673][214]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.04.05:019][267]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.04.05:019][267]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.04.06:160][312]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.04.06:160][312]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.04.06:838][339]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.07-19.04.06:838][339]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.07-19.04.07:145][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-19.04.07:145][350]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.07-19.04.07:145][350]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-19.04.07:145][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-19.04.07:164][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-19.04.07:170][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-19.04.07:189][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-19.04.07:189][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2023.12.07-19.04.07:189][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.12.07-19.04.07:191][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.12.07-19.04.07:198][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-19.04.07:200][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.07-19.04.07:233][351]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.12.07-19.04.15:146][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.12.07-19.04.15:150][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-19.04.15:187][610]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack2
+[2023.12.07-19.04.15:188][610]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack27B7BECD84D685B9949A0189EE55AC775.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack2.uasset'
+[2023.12.07-19.04.15:194][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 3.49 sec)
+[2023.12.07-19.04.15:194][610]AssetCheck: New page: Asset Save: AS_Attack2
+[2023.12.07-19.04.15:194][610]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
+[2023.12.07-19.04.17:251][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
