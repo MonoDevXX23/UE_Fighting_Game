@@ -37,3 +37,19 @@
 <ul>
   <li>Converted to PaperZD and redid some animations</li>
 </ul>
+
+<h2>Day 5 - Enemy AI</h2>
+<ul>
+  <li>Created animations of Enemy pawn</li>
+  <li>Made Ai walk back and forth over certain distance</li>
+</ul>
+
+<h2>Day 6 - Enemy AI & Hit Detection</h2>
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/c3a2c6d5-84f1-4059-8bdd-34a459f7ab24)<br>
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/1bb655f1-283f-4982-b0a1-c2d931036cdb)
+
+<ul>
+  <li>Continued AI</li>
+  <li>Fixed collision bug</li>
+  <li>Worked with hit detection</li>
+</ul>
