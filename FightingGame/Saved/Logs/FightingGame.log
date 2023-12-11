@@ -4957,3 +4957,22 @@ UnknownFunction []
 [2023.12.11-11.05.53:872][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 2.02 sec)
 [2023.12.11-11.05.53:873][398]AssetCheck: New page: Asset Save: Testing_Area
 [2023.12.11-11.05.53:873][398]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Testing_Area.Testing_Area
+[2023.12.11-11.06.55:704][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.06.55:817][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.11-11.06.55:825][614]LogSavePackage: Moving output files for package: /Game/Maps/Testing_Area
+[2023.12.11-11.06.55:826][614]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Testing_Area420DEDB048A0E934FBC6ECB0A5710CB9.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Testing_Area.umap'
+[2023.12.11-11.06.55:837][614]LogFileHelpers: Saving map 'Testing_Area' took 0.068
+[2023.12.11-11.06.55:844][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.16 sec)
+[2023.12.11-11.06.55:845][614]AssetCheck: New page: Asset Save: Testing_Area
+[2023.12.11-11.06.55:845][614]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Testing_Area.Testing_Area
+[2023.12.11-11.06.58:443][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.11-11.06.58:449][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.06.58:477][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/PZD_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/PZD_Player.uasset" SILENT=true
+[2023.12.11-11.06.58:495][739]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/PZD_Player
+[2023.12.11-11.06.58:496][739]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/PZD_Player6F662E0946F7948634BE5DB8070FDB04.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/PZD_Player.uasset'
+[2023.12.11-11.06.58:500][739]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Death
+[2023.12.11-11.06.58:500][739]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_DeathE856C1744AE30D411B74989DDDABFFCD.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Death.uasset'
+[2023.12.11-11.06.58:507][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.21 sec)
+[2023.12.11-11.06.58:510][739]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.11-11.06.58:510][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/PZD_Player.PZD_Player
+[2023.12.11-11.06.58:510][739]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Death.AS_Death
