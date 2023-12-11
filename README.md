@@ -53,3 +53,11 @@
   <li>Fixed collision bug</li>
   <li>Worked with hit detection</li>
 </ul>
+
+<h2>Day 7 & 8 - Player hit detection & Animation</h2>
+
+<ul>
+  <li>Damage can now be applied to both player and enemy</li>
+  <li>Both enemy and player have death animations</li>
+  <li>Hit dectection for both player and enemy are now working</li>
+</ul>
