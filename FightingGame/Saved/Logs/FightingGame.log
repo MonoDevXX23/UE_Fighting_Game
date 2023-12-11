@@ -3707,3 +3707,1253 @@ UnknownFunction []
 [2023.12.11-10.51.30:528][570]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/PaperZD/Enemy/Enemy_Auto2
 [2023.12.11-10.51.30:529][570]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Enemy_Auto2E27CA03E49A8074E2EFC75B00E46C198.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Assets/PaperZD/Enemy/Enemy_Auto2.uasset'
 [2023.12.11-10.51.30:530][570]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.12.11-10.54.37:287][275]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.11-10.54.37:305][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.11-10.54.37:305][275]PIE: New page: PIE session: Testing_Area (11 Dec 2023, 10:54:37)
+[2023.12.11-10.54.37:306][275]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-10.54.37:308][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002704s)
+[2023.12.11-10.54.37:308][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.002822s)
+[2023.12.11-10.54.37:339][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.12.11-10.54.37:341][275]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-10.54.37:341][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-10.54.37:342][275]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.11-10.54.37:342][275]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2023.12.11-10.54.37:343][275]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.11-10.54.37:343][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.11-10.54.37:343][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.11-10.54.37:343][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.11-10.54.37:343][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.11-10.54.37:343][275]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.11-10.54.37:343][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.11-10.54.37:343][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.11-10.54.37:343][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.11-10.54.37:345][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.11-10.54.37:345][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.11-10.54.37:345][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.11-10.54.37:349][275]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.11-10.54.37:429][275]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.11-10.54.37:429][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.11-10.54.37:429][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.11-10.54.37:429][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.11-10.54.37:430][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.11-10.54.37:430][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.11-10.54.37:432][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.11-10.54.37:432][275]LogInit: FAudioDevice initialized with ID 15.
+[2023.12.11-10.54.37:432][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.11-10.54.37:432][275]LogAudio: Display: Audio Device (ID: 15) registered with world 'Testing_Area'.
+[2023.12.11-10.54.37:432][275]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.11-10.54.37:435][275]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.11-10.54.37:437][275]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 0) at 2023.12.11-10.54.37
+[2023.12.11-10.54.37:438][275]LogWorld: Bringing up level for play took: 0.002109
+[2023.12.11-10.54.37:440][275]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.12.11-10.54.37:442][275]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.11-10.54.37:442][275]LogBlueprintUserMessages: [Enemy_C_1] PZD_Player_C_0
+[2023.12.11-10.54.37:442][275]PIE: Server logged in
+[2023.12.11-10.54.37:443][275]PIE: Play in editor total start time 0.137 seconds.
+[2023.12.11-10.54.38:480][314]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.38:505][315]LogBlueprintUserMessages: [Enemy_C_1] 9.0
+[2023.12.11-10.54.38:530][316]LogBlueprintUserMessages: [Enemy_C_1] 8.0
+[2023.12.11-10.54.38:555][317]LogBlueprintUserMessages: [Enemy_C_1] 7.0
+[2023.12.11-10.54.38:580][318]LogBlueprintUserMessages: [Enemy_C_1] 6.0
+[2023.12.11-10.54.38:605][319]LogBlueprintUserMessages: [Enemy_C_1] 5.0
+[2023.12.11-10.54.38:630][320]LogBlueprintUserMessages: [Enemy_C_1] 4.0
+[2023.12.11-10.54.38:655][321]LogBlueprintUserMessages: [Enemy_C_1] 3.0
+[2023.12.11-10.54.38:679][322]LogBlueprintUserMessages: [Enemy_C_1] 2.0
+[2023.12.11-10.54.38:704][323]LogBlueprintUserMessages: [Enemy_C_1] 1.0
+[2023.12.11-10.54.38:729][324]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.38:754][325]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.38:778][326]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.38:803][327]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.38:828][328]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.38:853][329]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.38:878][330]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.38:903][331]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.38:928][332]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.38:953][333]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.38:977][334]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:003][335]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:028][336]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:053][337]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:077][338]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:102][339]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:126][340]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:152][341]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:175][342]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:201][343]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:225][344]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:250][345]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:275][346]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:299][347]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:324][348]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:349][349]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:373][350]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:398][351]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:422][352]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:448][353]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:473][354]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:498][355]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:522][356]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:548][357]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:572][358]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:598][359]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:643][360]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:650][361]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:672][362]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:695][363]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:720][364]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:744][365]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:769][366]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:794][367]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:818][368]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:844][369]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:868][370]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:894][371]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:918][372]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:943][373]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.39:967][374]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.39:993][375]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:017][376]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:043][377]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:066][378]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:091][379]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:116][380]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:141][381]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:165][382]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:191][383]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:215][384]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:240][385]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:264][386]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:289][387]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:313][388]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:338][389]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:363][390]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:388][391]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:413][392]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:438][393]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:462][394]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:487][395]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:511][396]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:536][397]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-10.54.40:561][398]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-10.54.40:590][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-10.54.40:590][398]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-10.54.40:591][398]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-10.54.40:591][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-10.54.40:605][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.11-10.54.40:611][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-10.54.40:631][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-10.54.40:631][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.11-10.54.40:631][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.11-10.54.40:633][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.11-10.54.40:641][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.11-10.54.40:709][399]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.12.11-10.55.20:887][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-10.55.20:959][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/PZD_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/PZD_Player.uasset" SILENT=true
+[2023.12.11-10.55.20:977][856]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/PZD_Player
+[2023.12.11-10.55.20:978][856]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/PZD_PlayerB0DDBFA7494F40F23AB62697AC33DBFC.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/PZD_Player.uasset'
+[2023.12.11-10.55.20:985][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.21 sec)
+[2023.12.11-10.55.20:986][856]AssetCheck: New page: Asset Save: PZD_Player
+[2023.12.11-10.55.20:986][856]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/PZD_Player.PZD_Player
+[2023.12.11-10.55.22:860][907]BlueprintLog: New page: Compile PZD_Player
+[2023.12.11-10.55.22:920][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.11-10.55.31:228][234]LogEditorTransaction: Undo Edit Player Health
+[2023.12.11-10.55.33:952][363]LogEditorTransaction: Redo Edit Player Health
+[2023.12.11-10.57.44:536][250]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.11-10.57.44:555][250]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.11-10.57.55:675][560]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.11-10.57.55:699][560]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.11-10.57.59:468][666]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.11-10.57.59:489][666]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.11-10.58.03:328][774]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.11-10.58.03:349][774]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.11-10.58.45:987][258]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.11-10.58.46:010][258]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.11-10.58.50:911][406]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.11-10.58.50:927][406]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.11-10.59.39:071][781]LogDerivedDataCache: C:/Users/giant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 927 files in 1521 folders with total size 4 MiB.
+[2023.12.11-11.00.34:184][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.12.11-11.00.34:203][979]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.11-11.00.36:133][ 40]BlueprintLog: New page: Compile Enemy
+[2023.12.11-11.00.36:193][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.12.11-11.00.37:236][ 62]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.11-11.00.37:251][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.11-11.00.37:251][ 62]PIE: New page: PIE session: Testing_Area (11 Dec 2023, 11:00:37)
+[2023.12.11-11.00.37:252][ 62]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.00.37:253][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001820s)
+[2023.12.11-11.00.37:253][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001890s)
+[2023.12.11-11.00.37:273][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.12.11-11.00.37:277][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-11.00.37:277][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-11.00.37:277][ 62]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.11-11.00.37:278][ 62]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2023.12.11-11.00.37:278][ 62]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.12.11-11.00.37:278][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.11-11.00.37:278][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.11-11.00.37:278][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.11-11.00.37:278][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.11-11.00.37:278][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.11-11.00.37:278][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.11-11.00.37:278][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.11-11.00.37:278][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.11-11.00.37:278][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.11-11.00.37:279][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.11-11.00.37:279][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.11-11.00.37:281][ 62]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.11-11.00.37:355][ 62]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.11-11.00.37:355][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.11-11.00.37:356][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.11-11.00.37:356][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.11-11.00.37:356][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.12.11-11.00.37:356][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.12.11-11.00.37:358][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.12.11-11.00.37:358][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.12.11-11.00.37:358][ 62]LogInit: FAudioDevice initialized with ID 16.
+[2023.12.11-11.00.37:358][ 62]LogAudio: Display: Audio Device (ID: 16) registered with world 'Testing_Area'.
+[2023.12.11-11.00.37:358][ 62]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.11-11.00.37:365][ 62]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.11-11.00.37:367][ 62]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 0) at 2023.12.11-11.00.37
+[2023.12.11-11.00.37:368][ 62]LogWorld: Bringing up level for play took: 0.002645
+[2023.12.11-11.00.37:371][ 62]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.12.11-11.00.37:372][ 62]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.11-11.00.37:373][ 62]LogBlueprintUserMessages: [Enemy_C_1] PZD_Player_C_0
+[2023.12.11-11.00.37:373][ 62]PIE: Server logged in
+[2023.12.11-11.00.37:373][ 62]PIE: Play in editor total start time 0.125 seconds.
+[2023.12.11-11.00.38:573][101]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.38:598][102]LogBlueprintUserMessages: [Enemy_C_1] 99.0
+[2023.12.11-11.00.38:622][103]LogBlueprintUserMessages: [Enemy_C_1] 98.0
+[2023.12.11-11.00.38:647][104]LogBlueprintUserMessages: [Enemy_C_1] 97.0
+[2023.12.11-11.00.38:673][105]LogBlueprintUserMessages: [Enemy_C_1] 96.0
+[2023.12.11-11.00.38:696][106]LogBlueprintUserMessages: [Enemy_C_1] 95.0
+[2023.12.11-11.00.38:721][107]LogBlueprintUserMessages: [Enemy_C_1] 94.0
+[2023.12.11-11.00.38:745][108]LogBlueprintUserMessages: [Enemy_C_1] 93.0
+[2023.12.11-11.00.38:769][109]LogBlueprintUserMessages: [Enemy_C_1] 92.0
+[2023.12.11-11.00.38:793][110]LogBlueprintUserMessages: [Enemy_C_1] 91.0
+[2023.12.11-11.00.38:818][111]LogBlueprintUserMessages: [Enemy_C_1] 90.0
+[2023.12.11-11.00.38:843][112]LogBlueprintUserMessages: [Enemy_C_1] 89.0
+[2023.12.11-11.00.38:868][113]LogBlueprintUserMessages: [Enemy_C_1] 88.0
+[2023.12.11-11.00.38:892][114]LogBlueprintUserMessages: [Enemy_C_1] 87.0
+[2023.12.11-11.00.38:917][115]LogBlueprintUserMessages: [Enemy_C_1] 86.0
+[2023.12.11-11.00.38:942][116]LogBlueprintUserMessages: [Enemy_C_1] 85.0
+[2023.12.11-11.00.38:966][117]LogBlueprintUserMessages: [Enemy_C_1] 84.0
+[2023.12.11-11.00.38:989][118]LogBlueprintUserMessages: [Enemy_C_1] 83.0
+[2023.12.11-11.00.39:013][119]LogBlueprintUserMessages: [Enemy_C_1] 82.0
+[2023.12.11-11.00.39:038][120]LogBlueprintUserMessages: [Enemy_C_1] 81.0
+[2023.12.11-11.00.39:063][121]LogBlueprintUserMessages: [Enemy_C_1] 80.0
+[2023.12.11-11.00.39:088][122]LogBlueprintUserMessages: [Enemy_C_1] 79.0
+[2023.12.11-11.00.39:113][123]LogBlueprintUserMessages: [Enemy_C_1] 78.0
+[2023.12.11-11.00.39:139][124]LogBlueprintUserMessages: [Enemy_C_1] 77.0
+[2023.12.11-11.00.39:164][125]LogBlueprintUserMessages: [Enemy_C_1] 76.0
+[2023.12.11-11.00.39:188][126]LogBlueprintUserMessages: [Enemy_C_1] 75.0
+[2023.12.11-11.00.39:211][127]LogBlueprintUserMessages: [Enemy_C_1] 74.0
+[2023.12.11-11.00.39:235][128]LogBlueprintUserMessages: [Enemy_C_1] 73.0
+[2023.12.11-11.00.39:260][129]LogBlueprintUserMessages: [Enemy_C_1] 72.0
+[2023.12.11-11.00.39:284][130]LogBlueprintUserMessages: [Enemy_C_1] 71.0
+[2023.12.11-11.00.39:309][131]LogBlueprintUserMessages: [Enemy_C_1] 70.0
+[2023.12.11-11.00.39:333][132]LogBlueprintUserMessages: [Enemy_C_1] 69.0
+[2023.12.11-11.00.39:358][133]LogBlueprintUserMessages: [Enemy_C_1] 68.0
+[2023.12.11-11.00.39:383][134]LogBlueprintUserMessages: [Enemy_C_1] 67.0
+[2023.12.11-11.00.39:408][135]LogBlueprintUserMessages: [Enemy_C_1] 66.0
+[2023.12.11-11.00.39:433][136]LogBlueprintUserMessages: [Enemy_C_1] 65.0
+[2023.12.11-11.00.39:457][137]LogBlueprintUserMessages: [Enemy_C_1] 64.0
+[2023.12.11-11.00.39:482][138]LogBlueprintUserMessages: [Enemy_C_1] 63.0
+[2023.12.11-11.00.39:506][139]LogBlueprintUserMessages: [Enemy_C_1] 62.0
+[2023.12.11-11.00.39:530][140]LogBlueprintUserMessages: [Enemy_C_1] 61.0
+[2023.12.11-11.00.39:554][141]LogBlueprintUserMessages: [Enemy_C_1] 60.0
+[2023.12.11-11.00.39:579][142]LogBlueprintUserMessages: [Enemy_C_1] 59.0
+[2023.12.11-11.00.39:604][143]LogBlueprintUserMessages: [Enemy_C_1] 58.0
+[2023.12.11-11.00.39:628][144]LogBlueprintUserMessages: [Enemy_C_1] 57.0
+[2023.12.11-11.00.39:652][145]LogBlueprintUserMessages: [Enemy_C_1] 56.0
+[2023.12.11-11.00.39:677][146]LogBlueprintUserMessages: [Enemy_C_1] 55.0
+[2023.12.11-11.00.39:700][147]LogBlueprintUserMessages: [Enemy_C_1] 54.0
+[2023.12.11-11.00.39:724][148]LogBlueprintUserMessages: [Enemy_C_1] 53.0
+[2023.12.11-11.00.39:748][149]LogBlueprintUserMessages: [Enemy_C_1] 52.0
+[2023.12.11-11.00.39:773][150]LogBlueprintUserMessages: [Enemy_C_1] 51.0
+[2023.12.11-11.00.39:797][151]LogBlueprintUserMessages: [Enemy_C_1] 50.0
+[2023.12.11-11.00.39:821][152]LogBlueprintUserMessages: [Enemy_C_1] 49.0
+[2023.12.11-11.00.39:846][153]LogBlueprintUserMessages: [Enemy_C_1] 48.0
+[2023.12.11-11.00.39:870][154]LogBlueprintUserMessages: [Enemy_C_1] 47.0
+[2023.12.11-11.00.39:894][155]LogBlueprintUserMessages: [Enemy_C_1] 46.0
+[2023.12.11-11.00.39:917][156]LogBlueprintUserMessages: [Enemy_C_1] 45.0
+[2023.12.11-11.00.39:942][157]LogBlueprintUserMessages: [Enemy_C_1] 44.0
+[2023.12.11-11.00.39:967][158]LogBlueprintUserMessages: [Enemy_C_1] 43.0
+[2023.12.11-11.00.39:991][159]LogBlueprintUserMessages: [Enemy_C_1] 42.0
+[2023.12.11-11.00.40:015][160]LogBlueprintUserMessages: [Enemy_C_1] 41.0
+[2023.12.11-11.00.40:039][161]LogBlueprintUserMessages: [Enemy_C_1] 40.0
+[2023.12.11-11.00.40:064][162]LogBlueprintUserMessages: [Enemy_C_1] 39.0
+[2023.12.11-11.00.40:088][163]LogBlueprintUserMessages: [Enemy_C_1] 38.0
+[2023.12.11-11.00.40:112][164]LogBlueprintUserMessages: [Enemy_C_1] 37.0
+[2023.12.11-11.00.40:137][165]LogBlueprintUserMessages: [Enemy_C_1] 36.0
+[2023.12.11-11.00.40:161][166]LogBlueprintUserMessages: [Enemy_C_1] 35.0
+[2023.12.11-11.00.40:185][167]LogBlueprintUserMessages: [Enemy_C_1] 34.0
+[2023.12.11-11.00.40:209][168]LogBlueprintUserMessages: [Enemy_C_1] 33.0
+[2023.12.11-11.00.40:234][169]LogBlueprintUserMessages: [Enemy_C_1] 32.0
+[2023.12.11-11.00.40:259][170]LogBlueprintUserMessages: [Enemy_C_1] 31.0
+[2023.12.11-11.00.40:283][171]LogBlueprintUserMessages: [Enemy_C_1] 30.0
+[2023.12.11-11.00.40:306][172]LogBlueprintUserMessages: [Enemy_C_1] 29.0
+[2023.12.11-11.00.40:330][173]LogBlueprintUserMessages: [Enemy_C_1] 28.0
+[2023.12.11-11.00.40:355][174]LogBlueprintUserMessages: [Enemy_C_1] 27.0
+[2023.12.11-11.00.40:379][175]LogBlueprintUserMessages: [Enemy_C_1] 26.0
+[2023.12.11-11.00.40:403][176]LogBlueprintUserMessages: [Enemy_C_1] 25.0
+[2023.12.11-11.00.40:428][177]LogBlueprintUserMessages: [Enemy_C_1] 24.0
+[2023.12.11-11.00.40:452][178]LogBlueprintUserMessages: [Enemy_C_1] 23.0
+[2023.12.11-11.00.40:477][179]LogBlueprintUserMessages: [Enemy_C_1] 22.0
+[2023.12.11-11.00.40:501][180]LogBlueprintUserMessages: [Enemy_C_1] 21.0
+[2023.12.11-11.00.40:525][181]LogBlueprintUserMessages: [Enemy_C_1] 20.0
+[2023.12.11-11.00.40:549][182]LogBlueprintUserMessages: [Enemy_C_1] 19.0
+[2023.12.11-11.00.40:573][183]LogBlueprintUserMessages: [Enemy_C_1] 18.0
+[2023.12.11-11.00.40:597][184]LogBlueprintUserMessages: [Enemy_C_1] 17.0
+[2023.12.11-11.00.40:620][185]LogBlueprintUserMessages: [Enemy_C_1] 16.0
+[2023.12.11-11.00.40:644][186]LogBlueprintUserMessages: [Enemy_C_1] 15.0
+[2023.12.11-11.00.40:667][187]LogBlueprintUserMessages: [Enemy_C_1] 14.0
+[2023.12.11-11.00.40:692][188]LogBlueprintUserMessages: [Enemy_C_1] 13.0
+[2023.12.11-11.00.40:716][189]LogBlueprintUserMessages: [Enemy_C_1] 12.0
+[2023.12.11-11.00.40:740][190]LogBlueprintUserMessages: [Enemy_C_1] 11.0
+[2023.12.11-11.00.40:765][191]LogBlueprintUserMessages: [Enemy_C_1] 10.0
+[2023.12.11-11.00.40:789][192]LogBlueprintUserMessages: [Enemy_C_1] 9.0
+[2023.12.11-11.00.40:813][193]LogBlueprintUserMessages: [Enemy_C_1] 8.0
+[2023.12.11-11.00.40:838][194]LogBlueprintUserMessages: [Enemy_C_1] 7.0
+[2023.12.11-11.00.40:862][195]LogBlueprintUserMessages: [Enemy_C_1] 6.0
+[2023.12.11-11.00.40:886][196]LogBlueprintUserMessages: [Enemy_C_1] 5.0
+[2023.12.11-11.00.40:910][197]LogBlueprintUserMessages: [Enemy_C_1] 4.0
+[2023.12.11-11.00.40:935][198]LogBlueprintUserMessages: [Enemy_C_1] 3.0
+[2023.12.11-11.00.40:959][199]LogBlueprintUserMessages: [Enemy_C_1] 2.0
+[2023.12.11-11.00.40:984][200]LogBlueprintUserMessages: [Enemy_C_1] 1.0
+[2023.12.11-11.00.41:008][201]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:032][202]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:055][203]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:080][204]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:104][205]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:129][206]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:154][207]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:179][208]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:204][209]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:229][210]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:252][211]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:277][212]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:302][213]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:327][214]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:351][215]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:375][216]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:400][217]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:424][218]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:449][219]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:474][220]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:498][221]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:522][222]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:547][223]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:572][224]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:596][225]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:621][226]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:645][227]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:670][228]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:694][229]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:719][230]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:744][231]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:768][232]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:793][233]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:817][234]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:841][235]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:866][236]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:891][237]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:916][238]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:940][239]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.41:965][240]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.41:990][241]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:015][242]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:039][243]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:064][244]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:089][245]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:113][246]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:138][247]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:163][248]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:187][249]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:211][250]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:236][251]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:261][252]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:285][253]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:311][254]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:335][255]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:359][256]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:382][257]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:408][258]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:433][259]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:458][260]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:482][261]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:507][262]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:532][263]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:556][264]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:581][265]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:606][266]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:630][267]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:656][268]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:680][269]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:705][270]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:730][271]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:754][272]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:779][273]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:804][274]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:828][275]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:853][276]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:877][277]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:901][278]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:926][279]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.42:951][280]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.42:974][281]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:000][282]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:025][283]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:050][284]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:074][285]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:100][286]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:123][287]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:148][288]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:172][289]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:197][290]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:221][291]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:246][292]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:271][293]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:296][294]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:320][295]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:344][296]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:369][297]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:393][298]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:418][299]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:442][300]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:466][301]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:490][302]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:514][303]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:539][304]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:564][305]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:589][306]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:614][307]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:640][308]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:665][309]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:693][310]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:720][311]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:747][312]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:774][313]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:802][314]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:828][315]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:855][316]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:880][317]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:908][318]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:935][319]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.43:963][320]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.43:991][321]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:020][322]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:048][323]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:075][324]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:102][325]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:129][326]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:156][327]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:183][328]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:210][329]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:237][330]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:264][331]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:292][332]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:323][333]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:351][334]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:379][335]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:407][336]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:434][337]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:460][338]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:484][339]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:510][340]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:536][341]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:562][342]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:590][343]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:614][344]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:642][345]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:666][346]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:693][347]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:723][348]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:746][349]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:774][350]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:799][351]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:823][352]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:848][353]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:873][354]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:898][355]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:923][356]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:947][357]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.44:973][358]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.44:997][359]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:021][360]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:046][361]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:070][362]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:095][363]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:121][364]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:145][365]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:170][366]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:194][367]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:219][368]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:243][369]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:268][370]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:292][371]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:317][372]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:342][373]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:367][374]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:391][375]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:415][376]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:440][377]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:465][378]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:490][379]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:514][380]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:539][381]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:788][391]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:813][392]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:838][393]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:863][394]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:888][395]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:912][396]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:937][397]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.45:961][398]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.45:985][399]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:010][400]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:034][401]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:059][402]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:083][403]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:108][404]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:133][405]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:158][406]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:182][407]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:206][408]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:231][409]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:255][410]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:280][411]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:304][412]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:329][413]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:353][414]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:377][415]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:402][416]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:426][417]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:451][418]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:475][419]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:499][420]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:524][421]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:548][422]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:573][423]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:597][424]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:622][425]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:646][426]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:671][427]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:696][428]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:723][429]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:748][430]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:776][431]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:801][432]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:827][433]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:852][434]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:877][435]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:902][436]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:926][437]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.46:950][438]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.46:975][439]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:000][440]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:024][441]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:049][442]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:074][443]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:098][444]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:122][445]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:147][446]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:171][447]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:196][448]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:221][449]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:245][450]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:270][451]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:295][452]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:320][453]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:344][454]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:368][455]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:393][456]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:417][457]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:442][458]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:466][459]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:490][460]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:514][461]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:538][462]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:564][463]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:587][464]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:612][465]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:637][466]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:662][467]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:686][468]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:711][469]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:735][470]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:761][471]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:785][472]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:810][473]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:834][474]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:859][475]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:883][476]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:908][477]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:933][478]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.47:956][479]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.47:980][480]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:005][481]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:029][482]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:054][483]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:079][484]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:103][485]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:127][486]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:152][487]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:176][488]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:201][489]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:226][490]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:250][491]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:274][492]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:299][493]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:324][494]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:349][495]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:373][496]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:397][497]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:422][498]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:448][499]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:472][500]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:496][501]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:520][502]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:545][503]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:569][504]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:594][505]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:618][506]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:643][507]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:667][508]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:692][509]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:717][510]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:742][511]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:766][512]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:791][513]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.00.48:816][514]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.00.48:851][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.00.48:851][514]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.00.48:851][514]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-11.00.48:852][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.00.48:867][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.11-11.00.48:877][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.00.48:898][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.11-11.00.48:898][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.11-11.00.48:898][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.11-11.00.48:900][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.11-11.00.48:910][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.00.48:914][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.12.11-11.00.49:009][515]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.12.11-11.01.14:562][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.01.14:636][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/PZD_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/PZD_Player.uasset" SILENT=true
+[2023.12.11-11.01.14:653][183]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/PZD_Player
+[2023.12.11-11.01.14:654][183]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/PZD_Player35BB4A0C40F86F88EBC55A8747A7DF54.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/PZD_Player.uasset'
+[2023.12.11-11.01.14:662][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.31 sec)
+[2023.12.11-11.01.14:663][183]AssetCheck: New page: Asset Save: PZD_Player
+[2023.12.11-11.01.14:663][183]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/PZD_Player.PZD_Player
+[2023.12.11-11.01.16:683][238]BlueprintLog: New page: Compile PZD_Player
+[2023.12.11-11.01.16:778][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.12.11-11.01.21:349][367]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.11-11.01.21:349][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-11.01.21:349][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-11.01.46:572][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.12.11-11.01.46:577][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.01.46:601][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Enemy/Enemy" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Enemy/Enemy.uasset" SILENT=true
+[2023.12.11-11.01.46:644][ 27]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Enemy/Enemy
+[2023.12.11-11.01.46:645][ 27]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/EnemyF14C61464BF435BE3E82E0ABDEA80632.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Enemy/Enemy.uasset'
+[2023.12.11-11.01.46:647][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/ABP_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset" SILENT=true
+[2023.12.11-11.01.46:668][ 27]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/ABP_Player
+[2023.12.11-11.01.46:668][ 27]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_Player81EB850C41C4996ADB8EBA9D4B077EA7.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset'
+[2023.12.11-11.01.46:678][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.41 sec)
+[2023.12.11-11.01.46:682][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.11-11.01.46:682][ 27]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/PaperZD/Enemy/Enemy.Default__Enemy_C_2
+[2023.12.11-11.01.46:682][ 27]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Enemy/Enemy.Enemy
+[2023.12.11-11.01.46:682][ 27]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.11-11.02.37:440][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.02.37:512][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/ABP_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset" SILENT=true
+[2023.12.11-11.02.37:534][372]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/ABP_Player
+[2023.12.11-11.02.37:535][372]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_Player596945E642C9A34703B7919A7FF7BEBD.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset'
+[2023.12.11-11.02.37:542][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.51 sec)
+[2023.12.11-11.02.37:544][372]AssetCheck: New page: Asset Save: ABP_Player
+[2023.12.11-11.02.37:544][372]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.11-11.02.38:438][398]BlueprintLog: New page: Compile ABP_Player
+[2023.12.11-11.02.38:480][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.12.11-11.02.51:089][744]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Assets/PaperZD/A_Source.A_Source
+[2023.12.11-11.02.51:156][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-11.02.51:156][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-11.02.51:240][744]LogSlate: Took 0.001130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.11-11.02.51:253][744]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2023.12.11-11.02.51:267][744]LogViewport: Scene viewport resized to 1139x908, mode Windowed.
+[2023.12.11-11.02.51:275][744]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.11-11.02.54:582][809]LogViewport: Scene viewport resized to 1139x541, mode Windowed.
+[2023.12.11-11.03.02:116][968]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> AS_Death
+[2023.12.11-11.03.02:224][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.03.02:258][968]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Death
+[2023.12.11-11.03.02:258][968]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Death14A509E641518B2FCABEA986318FCD9B.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Death.uasset'
+[2023.12.11-11.03.02:268][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.56 sec)
+[2023.12.11-11.03.02:295][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.12.11-11.03.02:312][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.12.11-11.03.02:326][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.11-11.03.02:327][968]AssetCheck: New page: Asset Save: AS_Death
+[2023.12.11-11.03.02:327][968]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Death.AS_Death
+[2023.12.11-11.03.09:070][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.03.09:166][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/A_Source" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/A_Source.uasset" SILENT=true
+[2023.12.11-11.03.09:168][107]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/A_Source
+[2023.12.11-11.03.09:169][107]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/A_Source1E12416C48BFD35DAC1A96AC388F25A3.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/A_Source.uasset'
+[2023.12.11-11.03.09:175][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.66 sec)
+[2023.12.11-11.03.09:177][107]AssetCheck: New page: Asset Save: A_Source
+[2023.12.11-11.03.09:177][107]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/Assets/PaperZD/A_Source.A_Source
+[2023.12.11-11.03.38:918][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.03.38:995][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/ABP_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset" SILENT=true
+[2023.12.11-11.03.39:017][853]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/ABP_Player
+[2023.12.11-11.03.39:018][853]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_Player0B3C702D4B2645C613DAF49DAA80B5DD.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset'
+[2023.12.11-11.03.39:025][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.77 sec)
+[2023.12.11-11.03.39:027][853]AssetCheck: New page: Asset Save: ABP_Player
+[2023.12.11-11.03.39:027][853]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.11-11.03.39:983][880]BlueprintLog: New page: Compile ABP_Player
+[2023.12.11-11.03.40:028][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.12.11-11.03.43:003][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.11-11.03.43:019][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.11-11.03.43:019][964]PIE: New page: PIE session: Testing_Area (11 Dec 2023, 11:03:43)
+[2023.12.11-11.03.43:019][964]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.03.43:021][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001919s)
+[2023.12.11-11.03.43:021][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001978s)
+[2023.12.11-11.03.43:046][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.12.11-11.03.43:047][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-11.03.43:048][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-11.03.43:048][964]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.11-11.03.43:049][964]LogPlayLevel: PIE: World Init took: (0.002062s)
+[2023.12.11-11.03.43:050][964]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.12.11-11.03.43:050][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.11-11.03.43:050][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.11-11.03.43:050][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.11-11.03.43:050][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.11-11.03.43:050][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.11-11.03.43:050][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.11-11.03.43:050][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.11-11.03.43:050][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.11-11.03.43:051][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.11-11.03.43:051][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.11-11.03.43:051][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.11-11.03.43:053][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.11-11.03.43:137][964]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.11-11.03.43:137][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.11-11.03.43:137][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.11-11.03.43:137][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.11-11.03.43:137][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.12.11-11.03.43:137][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.12.11-11.03.43:139][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.12.11-11.03.43:139][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.12.11-11.03.43:139][964]LogInit: FAudioDevice initialized with ID 17.
+[2023.12.11-11.03.43:139][964]LogAudio: Display: Audio Device (ID: 17) registered with world 'Testing_Area'.
+[2023.12.11-11.03.43:139][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.11-11.03.43:141][964]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.11-11.03.43:143][964]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 0) at 2023.12.11-11.03.43
+[2023.12.11-11.03.43:144][964]LogWorld: Bringing up level for play took: 0.001955
+[2023.12.11-11.03.43:146][964]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.12.11-11.03.43:147][964]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.11-11.03.43:147][964]LogBlueprintUserMessages: [Enemy_C_1] PZD_Player_C_0
+[2023.12.11-11.03.43:148][964]PIE: Server logged in
+[2023.12.11-11.03.43:148][964]PIE: Play in editor total start time 0.13 seconds.
+[2023.12.11-11.03.44:209][  3]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.44:235][  4]LogBlueprintUserMessages: [Enemy_C_1] 99.0
+[2023.12.11-11.03.44:260][  5]LogBlueprintUserMessages: [Enemy_C_1] 98.0
+[2023.12.11-11.03.44:286][  6]LogBlueprintUserMessages: [Enemy_C_1] 97.0
+[2023.12.11-11.03.44:311][  7]LogBlueprintUserMessages: [Enemy_C_1] 96.0
+[2023.12.11-11.03.44:336][  8]LogBlueprintUserMessages: [Enemy_C_1] 95.0
+[2023.12.11-11.03.44:361][  9]LogBlueprintUserMessages: [Enemy_C_1] 94.0
+[2023.12.11-11.03.44:386][ 10]LogBlueprintUserMessages: [Enemy_C_1] 93.0
+[2023.12.11-11.03.44:411][ 11]LogBlueprintUserMessages: [Enemy_C_1] 92.0
+[2023.12.11-11.03.44:437][ 12]LogBlueprintUserMessages: [Enemy_C_1] 91.0
+[2023.12.11-11.03.44:462][ 13]LogBlueprintUserMessages: [Enemy_C_1] 90.0
+[2023.12.11-11.03.44:487][ 14]LogBlueprintUserMessages: [Enemy_C_1] 89.0
+[2023.12.11-11.03.44:512][ 15]LogBlueprintUserMessages: [Enemy_C_1] 88.0
+[2023.12.11-11.03.44:538][ 16]LogBlueprintUserMessages: [Enemy_C_1] 87.0
+[2023.12.11-11.03.44:563][ 17]LogBlueprintUserMessages: [Enemy_C_1] 86.0
+[2023.12.11-11.03.44:589][ 18]LogBlueprintUserMessages: [Enemy_C_1] 85.0
+[2023.12.11-11.03.44:614][ 19]LogBlueprintUserMessages: [Enemy_C_1] 84.0
+[2023.12.11-11.03.44:639][ 20]LogBlueprintUserMessages: [Enemy_C_1] 83.0
+[2023.12.11-11.03.44:665][ 21]LogBlueprintUserMessages: [Enemy_C_1] 82.0
+[2023.12.11-11.03.44:691][ 22]LogBlueprintUserMessages: [Enemy_C_1] 81.0
+[2023.12.11-11.03.44:716][ 23]LogBlueprintUserMessages: [Enemy_C_1] 80.0
+[2023.12.11-11.03.44:741][ 24]LogBlueprintUserMessages: [Enemy_C_1] 79.0
+[2023.12.11-11.03.44:766][ 25]LogBlueprintUserMessages: [Enemy_C_1] 78.0
+[2023.12.11-11.03.44:791][ 26]LogBlueprintUserMessages: [Enemy_C_1] 77.0
+[2023.12.11-11.03.44:816][ 27]LogBlueprintUserMessages: [Enemy_C_1] 76.0
+[2023.12.11-11.03.44:841][ 28]LogBlueprintUserMessages: [Enemy_C_1] 75.0
+[2023.12.11-11.03.44:865][ 29]LogBlueprintUserMessages: [Enemy_C_1] 74.0
+[2023.12.11-11.03.44:890][ 30]LogBlueprintUserMessages: [Enemy_C_1] 73.0
+[2023.12.11-11.03.44:915][ 31]LogBlueprintUserMessages: [Enemy_C_1] 72.0
+[2023.12.11-11.03.44:940][ 32]LogBlueprintUserMessages: [Enemy_C_1] 71.0
+[2023.12.11-11.03.44:965][ 33]LogBlueprintUserMessages: [Enemy_C_1] 70.0
+[2023.12.11-11.03.44:990][ 34]LogBlueprintUserMessages: [Enemy_C_1] 69.0
+[2023.12.11-11.03.45:014][ 35]LogBlueprintUserMessages: [Enemy_C_1] 68.0
+[2023.12.11-11.03.45:039][ 36]LogBlueprintUserMessages: [Enemy_C_1] 67.0
+[2023.12.11-11.03.45:064][ 37]LogBlueprintUserMessages: [Enemy_C_1] 66.0
+[2023.12.11-11.03.45:089][ 38]LogBlueprintUserMessages: [Enemy_C_1] 65.0
+[2023.12.11-11.03.45:114][ 39]LogBlueprintUserMessages: [Enemy_C_1] 64.0
+[2023.12.11-11.03.45:138][ 40]LogBlueprintUserMessages: [Enemy_C_1] 63.0
+[2023.12.11-11.03.45:163][ 41]LogBlueprintUserMessages: [Enemy_C_1] 62.0
+[2023.12.11-11.03.45:187][ 42]LogBlueprintUserMessages: [Enemy_C_1] 61.0
+[2023.12.11-11.03.45:212][ 43]LogBlueprintUserMessages: [Enemy_C_1] 60.0
+[2023.12.11-11.03.45:237][ 44]LogBlueprintUserMessages: [Enemy_C_1] 59.0
+[2023.12.11-11.03.45:261][ 45]LogBlueprintUserMessages: [Enemy_C_1] 58.0
+[2023.12.11-11.03.45:286][ 46]LogBlueprintUserMessages: [Enemy_C_1] 57.0
+[2023.12.11-11.03.45:312][ 47]LogBlueprintUserMessages: [Enemy_C_1] 56.0
+[2023.12.11-11.03.45:337][ 48]LogBlueprintUserMessages: [Enemy_C_1] 55.0
+[2023.12.11-11.03.45:362][ 49]LogBlueprintUserMessages: [Enemy_C_1] 54.0
+[2023.12.11-11.03.45:387][ 50]LogBlueprintUserMessages: [Enemy_C_1] 53.0
+[2023.12.11-11.03.45:412][ 51]LogBlueprintUserMessages: [Enemy_C_1] 52.0
+[2023.12.11-11.03.45:446][ 52]LogBlueprintUserMessages: [Enemy_C_1] 51.0
+[2023.12.11-11.03.45:466][ 53]LogBlueprintUserMessages: [Enemy_C_1] 50.0
+[2023.12.11-11.03.45:493][ 54]LogBlueprintUserMessages: [Enemy_C_1] 49.0
+[2023.12.11-11.03.45:519][ 55]LogBlueprintUserMessages: [Enemy_C_1] 48.0
+[2023.12.11-11.03.45:545][ 56]LogBlueprintUserMessages: [Enemy_C_1] 47.0
+[2023.12.11-11.03.45:571][ 57]LogBlueprintUserMessages: [Enemy_C_1] 46.0
+[2023.12.11-11.03.45:598][ 58]LogBlueprintUserMessages: [Enemy_C_1] 45.0
+[2023.12.11-11.03.45:624][ 59]LogBlueprintUserMessages: [Enemy_C_1] 44.0
+[2023.12.11-11.03.45:649][ 60]LogBlueprintUserMessages: [Enemy_C_1] 43.0
+[2023.12.11-11.03.45:674][ 61]LogBlueprintUserMessages: [Enemy_C_1] 42.0
+[2023.12.11-11.03.45:699][ 62]LogBlueprintUserMessages: [Enemy_C_1] 41.0
+[2023.12.11-11.03.45:724][ 63]LogBlueprintUserMessages: [Enemy_C_1] 40.0
+[2023.12.11-11.03.45:749][ 64]LogBlueprintUserMessages: [Enemy_C_1] 39.0
+[2023.12.11-11.03.45:774][ 65]LogBlueprintUserMessages: [Enemy_C_1] 38.0
+[2023.12.11-11.03.45:798][ 66]LogBlueprintUserMessages: [Enemy_C_1] 37.0
+[2023.12.11-11.03.45:824][ 67]LogBlueprintUserMessages: [Enemy_C_1] 36.0
+[2023.12.11-11.03.45:849][ 68]LogBlueprintUserMessages: [Enemy_C_1] 35.0
+[2023.12.11-11.03.45:875][ 69]LogBlueprintUserMessages: [Enemy_C_1] 34.0
+[2023.12.11-11.03.45:900][ 70]LogBlueprintUserMessages: [Enemy_C_1] 33.0
+[2023.12.11-11.03.45:924][ 71]LogBlueprintUserMessages: [Enemy_C_1] 32.0
+[2023.12.11-11.03.45:949][ 72]LogBlueprintUserMessages: [Enemy_C_1] 31.0
+[2023.12.11-11.03.45:974][ 73]LogBlueprintUserMessages: [Enemy_C_1] 30.0
+[2023.12.11-11.03.46:000][ 74]LogBlueprintUserMessages: [Enemy_C_1] 29.0
+[2023.12.11-11.03.46:025][ 75]LogBlueprintUserMessages: [Enemy_C_1] 28.0
+[2023.12.11-11.03.46:051][ 76]LogBlueprintUserMessages: [Enemy_C_1] 27.0
+[2023.12.11-11.03.46:076][ 77]LogBlueprintUserMessages: [Enemy_C_1] 26.0
+[2023.12.11-11.03.46:101][ 78]LogBlueprintUserMessages: [Enemy_C_1] 25.0
+[2023.12.11-11.03.46:126][ 79]LogBlueprintUserMessages: [Enemy_C_1] 24.0
+[2023.12.11-11.03.46:151][ 80]LogBlueprintUserMessages: [Enemy_C_1] 23.0
+[2023.12.11-11.03.46:176][ 81]LogBlueprintUserMessages: [Enemy_C_1] 22.0
+[2023.12.11-11.03.46:200][ 82]LogBlueprintUserMessages: [Enemy_C_1] 21.0
+[2023.12.11-11.03.46:226][ 83]LogBlueprintUserMessages: [Enemy_C_1] 20.0
+[2023.12.11-11.03.46:251][ 84]LogBlueprintUserMessages: [Enemy_C_1] 19.0
+[2023.12.11-11.03.46:276][ 85]LogBlueprintUserMessages: [Enemy_C_1] 18.0
+[2023.12.11-11.03.46:302][ 86]LogBlueprintUserMessages: [Enemy_C_1] 17.0
+[2023.12.11-11.03.46:326][ 87]LogBlueprintUserMessages: [Enemy_C_1] 16.0
+[2023.12.11-11.03.46:351][ 88]LogBlueprintUserMessages: [Enemy_C_1] 15.0
+[2023.12.11-11.03.46:376][ 89]LogBlueprintUserMessages: [Enemy_C_1] 14.0
+[2023.12.11-11.03.46:400][ 90]LogBlueprintUserMessages: [Enemy_C_1] 13.0
+[2023.12.11-11.03.46:426][ 91]LogBlueprintUserMessages: [Enemy_C_1] 12.0
+[2023.12.11-11.03.46:451][ 92]LogBlueprintUserMessages: [Enemy_C_1] 11.0
+[2023.12.11-11.03.46:476][ 93]LogBlueprintUserMessages: [Enemy_C_1] 10.0
+[2023.12.11-11.03.46:500][ 94]LogBlueprintUserMessages: [Enemy_C_1] 9.0
+[2023.12.11-11.03.46:526][ 95]LogBlueprintUserMessages: [Enemy_C_1] 8.0
+[2023.12.11-11.03.46:552][ 96]LogBlueprintUserMessages: [Enemy_C_1] 7.0
+[2023.12.11-11.03.46:576][ 97]LogBlueprintUserMessages: [Enemy_C_1] 6.0
+[2023.12.11-11.03.46:601][ 98]LogBlueprintUserMessages: [Enemy_C_1] 5.0
+[2023.12.11-11.03.46:627][ 99]LogBlueprintUserMessages: [Enemy_C_1] 4.0
+[2023.12.11-11.03.46:651][100]LogBlueprintUserMessages: [Enemy_C_1] 3.0
+[2023.12.11-11.03.46:676][101]LogBlueprintUserMessages: [Enemy_C_1] 2.0
+[2023.12.11-11.03.46:700][102]LogBlueprintUserMessages: [Enemy_C_1] 1.0
+[2023.12.11-11.03.46:725][103]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.46:750][104]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.46:776][105]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.46:801][106]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.46:826][107]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.46:851][108]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.46:877][109]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.46:902][110]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.46:928][111]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.46:954][112]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.46:979][113]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:004][114]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:031][115]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:055][116]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:080][117]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:106][118]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:131][119]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:157][120]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:182][121]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:207][122]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:232][123]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:257][124]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:283][125]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:308][126]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:334][127]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:361][128]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:387][129]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:415][130]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:443][131]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:471][132]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:498][133]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:525][134]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:553][135]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:581][136]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:608][137]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:636][138]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:664][139]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:692][140]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:719][141]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:747][142]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:774][143]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:802][144]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:830][145]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:858][146]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:886][147]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:914][148]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:942][149]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.47:970][150]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.47:997][151]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:025][152]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:054][153]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:082][154]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:110][155]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:137][156]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:162][157]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:186][158]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:211][159]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:237][160]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:262][161]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:288][162]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:313][163]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:338][164]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:364][165]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:389][166]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:414][167]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:440][168]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:465][169]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:490][170]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:515][171]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:540][172]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:565][173]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:590][174]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:615][175]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:641][176]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:666][177]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:691][178]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:716][179]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:741][180]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:767][181]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.03.48:792][182]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.03.48:820][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.03.48:821][182]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.03.48:821][182]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-11.03.48:821][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.03.48:837][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.11-11.03.48:843][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.03.48:865][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.11-11.03.48:865][182]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.11-11.03.48:865][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.11-11.03.48:867][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.11-11.03.48:891][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.03.48:893][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.11-11.03.48:975][183]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.12.11-11.03.55:776][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.03.55:851][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/ABP_Player" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset" SILENT=true
+[2023.12.11-11.03.55:874][338]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/ABP_Player
+[2023.12.11-11.03.55:875][338]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_Player582065024A90DDD3C130C198520CB910.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/ABP_Player.uasset'
+[2023.12.11-11.03.55:881][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.87 sec)
+[2023.12.11-11.03.55:883][338]AssetCheck: New page: Asset Save: ABP_Player
+[2023.12.11-11.03.55:883][338]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/ABP_Player.ABP_Player
+[2023.12.11-11.03.56:511][356]BlueprintLog: New page: Compile ABP_Player
+[2023.12.11-11.03.56:554][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.12.11-11.04.38:583][405]BlueprintLog: New page: Compile PZD_Player
+[2023.12.11-11.04.38:663][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.12.11-11.05.34:603][802]BlueprintLog: New page: Compile PZD_Player
+[2023.12.11-11.05.34:723][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.12.11-11.05.35:669][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.11-11.05.35:688][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.11-11.05.35:688][823]PIE: New page: PIE session: Testing_Area (11 Dec 2023, 11:05:35)
+[2023.12.11-11.05.35:689][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.05.35:691][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002060s)
+[2023.12.11-11.05.35:691][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.002168s)
+[2023.12.11-11.05.35:722][823]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.12.11-11.05.35:732][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-11.05.35:732][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-11.05.35:733][823]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.11-11.05.35:733][823]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2023.12.11-11.05.35:733][823]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.12.11-11.05.35:733][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.11-11.05.35:733][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.11-11.05.35:733][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.11-11.05.35:733][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.11-11.05.35:733][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.11-11.05.35:733][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.11-11.05.35:733][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.11-11.05.35:733][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.11-11.05.35:734][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.11-11.05.35:735][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.11-11.05.35:735][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.11-11.05.35:741][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.11-11.05.35:825][823]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.11-11.05.35:825][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.11-11.05.35:825][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.11-11.05.35:825][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.11-11.05.35:826][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.12.11-11.05.35:826][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.12.11-11.05.35:829][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.12.11-11.05.35:829][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.12.11-11.05.35:829][823]LogInit: FAudioDevice initialized with ID 18.
+[2023.12.11-11.05.35:829][823]LogAudio: Display: Audio Device (ID: 18) registered with world 'Testing_Area'.
+[2023.12.11-11.05.35:829][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.11-11.05.35:835][823]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.11-11.05.35:838][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 0) at 2023.12.11-11.05.35
+[2023.12.11-11.05.35:839][823]LogWorld: Bringing up level for play took: 0.002941
+[2023.12.11-11.05.35:842][823]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.12.11-11.05.35:844][823]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.11-11.05.35:844][823]LogBlueprintUserMessages: [Enemy_C_1] PZD_Player_C_0
+[2023.12.11-11.05.35:844][823]PIE: Server logged in
+[2023.12.11-11.05.35:845][823]PIE: Play in editor total start time 0.157 seconds.
+[2023.12.11-11.05.36:939][854]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.36:964][855]LogBlueprintUserMessages: [Enemy_C_1] 99.0
+[2023.12.11-11.05.36:989][856]LogBlueprintUserMessages: [Enemy_C_1] 98.0
+[2023.12.11-11.05.37:015][857]LogBlueprintUserMessages: [Enemy_C_1] 97.0
+[2023.12.11-11.05.37:042][858]LogBlueprintUserMessages: [Enemy_C_1] 96.0
+[2023.12.11-11.05.37:067][859]LogBlueprintUserMessages: [Enemy_C_1] 95.0
+[2023.12.11-11.05.37:094][860]LogBlueprintUserMessages: [Enemy_C_1] 94.0
+[2023.12.11-11.05.37:119][861]LogBlueprintUserMessages: [Enemy_C_1] 93.0
+[2023.12.11-11.05.37:144][862]LogBlueprintUserMessages: [Enemy_C_1] 92.0
+[2023.12.11-11.05.37:170][863]LogBlueprintUserMessages: [Enemy_C_1] 91.0
+[2023.12.11-11.05.37:194][864]LogBlueprintUserMessages: [Enemy_C_1] 90.0
+[2023.12.11-11.05.37:221][865]LogBlueprintUserMessages: [Enemy_C_1] 89.0
+[2023.12.11-11.05.37:245][866]LogBlueprintUserMessages: [Enemy_C_1] 88.0
+[2023.12.11-11.05.37:271][867]LogBlueprintUserMessages: [Enemy_C_1] 87.0
+[2023.12.11-11.05.37:295][868]LogBlueprintUserMessages: [Enemy_C_1] 86.0
+[2023.12.11-11.05.37:320][869]LogBlueprintUserMessages: [Enemy_C_1] 85.0
+[2023.12.11-11.05.37:345][870]LogBlueprintUserMessages: [Enemy_C_1] 84.0
+[2023.12.11-11.05.37:371][871]LogBlueprintUserMessages: [Enemy_C_1] 83.0
+[2023.12.11-11.05.37:397][872]LogBlueprintUserMessages: [Enemy_C_1] 82.0
+[2023.12.11-11.05.37:422][873]LogBlueprintUserMessages: [Enemy_C_1] 81.0
+[2023.12.11-11.05.37:447][874]LogBlueprintUserMessages: [Enemy_C_1] 80.0
+[2023.12.11-11.05.37:473][875]LogBlueprintUserMessages: [Enemy_C_1] 79.0
+[2023.12.11-11.05.37:498][876]LogBlueprintUserMessages: [Enemy_C_1] 78.0
+[2023.12.11-11.05.37:523][877]LogBlueprintUserMessages: [Enemy_C_1] 77.0
+[2023.12.11-11.05.37:548][878]LogBlueprintUserMessages: [Enemy_C_1] 76.0
+[2023.12.11-11.05.37:573][879]LogBlueprintUserMessages: [Enemy_C_1] 75.0
+[2023.12.11-11.05.37:599][880]LogBlueprintUserMessages: [Enemy_C_1] 74.0
+[2023.12.11-11.05.37:624][881]LogBlueprintUserMessages: [Enemy_C_1] 73.0
+[2023.12.11-11.05.37:649][882]LogBlueprintUserMessages: [Enemy_C_1] 72.0
+[2023.12.11-11.05.37:674][883]LogBlueprintUserMessages: [Enemy_C_1] 71.0
+[2023.12.11-11.05.37:700][884]LogBlueprintUserMessages: [Enemy_C_1] 70.0
+[2023.12.11-11.05.37:725][885]LogBlueprintUserMessages: [Enemy_C_1] 69.0
+[2023.12.11-11.05.37:750][886]LogBlueprintUserMessages: [Enemy_C_1] 68.0
+[2023.12.11-11.05.37:775][887]LogBlueprintUserMessages: [Enemy_C_1] 67.0
+[2023.12.11-11.05.37:801][888]LogBlueprintUserMessages: [Enemy_C_1] 66.0
+[2023.12.11-11.05.37:825][889]LogBlueprintUserMessages: [Enemy_C_1] 65.0
+[2023.12.11-11.05.37:850][890]LogBlueprintUserMessages: [Enemy_C_1] 64.0
+[2023.12.11-11.05.37:875][891]LogBlueprintUserMessages: [Enemy_C_1] 63.0
+[2023.12.11-11.05.37:901][892]LogBlueprintUserMessages: [Enemy_C_1] 62.0
+[2023.12.11-11.05.37:926][893]LogBlueprintUserMessages: [Enemy_C_1] 61.0
+[2023.12.11-11.05.37:951][894]LogBlueprintUserMessages: [Enemy_C_1] 60.0
+[2023.12.11-11.05.37:976][895]LogBlueprintUserMessages: [Enemy_C_1] 59.0
+[2023.12.11-11.05.38:002][896]LogBlueprintUserMessages: [Enemy_C_1] 58.0
+[2023.12.11-11.05.38:026][897]LogBlueprintUserMessages: [Enemy_C_1] 57.0
+[2023.12.11-11.05.38:051][898]LogBlueprintUserMessages: [Enemy_C_1] 56.0
+[2023.12.11-11.05.38:077][899]LogBlueprintUserMessages: [Enemy_C_1] 55.0
+[2023.12.11-11.05.38:102][900]LogBlueprintUserMessages: [Enemy_C_1] 54.0
+[2023.12.11-11.05.38:128][901]LogBlueprintUserMessages: [Enemy_C_1] 53.0
+[2023.12.11-11.05.38:153][902]LogBlueprintUserMessages: [Enemy_C_1] 52.0
+[2023.12.11-11.05.38:178][903]LogBlueprintUserMessages: [Enemy_C_1] 51.0
+[2023.12.11-11.05.38:203][904]LogBlueprintUserMessages: [Enemy_C_1] 50.0
+[2023.12.11-11.05.38:228][905]LogBlueprintUserMessages: [Enemy_C_1] 49.0
+[2023.12.11-11.05.38:254][906]LogBlueprintUserMessages: [Enemy_C_1] 48.0
+[2023.12.11-11.05.38:278][907]LogBlueprintUserMessages: [Enemy_C_1] 47.0
+[2023.12.11-11.05.38:304][908]LogBlueprintUserMessages: [Enemy_C_1] 46.0
+[2023.12.11-11.05.38:328][909]LogBlueprintUserMessages: [Enemy_C_1] 45.0
+[2023.12.11-11.05.38:352][910]LogBlueprintUserMessages: [Enemy_C_1] 44.0
+[2023.12.11-11.05.38:378][911]LogBlueprintUserMessages: [Enemy_C_1] 43.0
+[2023.12.11-11.05.38:403][912]LogBlueprintUserMessages: [Enemy_C_1] 42.0
+[2023.12.11-11.05.38:428][913]LogBlueprintUserMessages: [Enemy_C_1] 41.0
+[2023.12.11-11.05.38:454][914]LogBlueprintUserMessages: [Enemy_C_1] 40.0
+[2023.12.11-11.05.38:479][915]LogBlueprintUserMessages: [Enemy_C_1] 39.0
+[2023.12.11-11.05.38:503][916]LogBlueprintUserMessages: [Enemy_C_1] 38.0
+[2023.12.11-11.05.38:528][917]LogBlueprintUserMessages: [Enemy_C_1] 37.0
+[2023.12.11-11.05.38:554][918]LogBlueprintUserMessages: [Enemy_C_1] 36.0
+[2023.12.11-11.05.38:580][919]LogBlueprintUserMessages: [Enemy_C_1] 35.0
+[2023.12.11-11.05.38:605][920]LogBlueprintUserMessages: [Enemy_C_1] 34.0
+[2023.12.11-11.05.38:630][921]LogBlueprintUserMessages: [Enemy_C_1] 33.0
+[2023.12.11-11.05.38:655][922]LogBlueprintUserMessages: [Enemy_C_1] 32.0
+[2023.12.11-11.05.38:681][923]LogBlueprintUserMessages: [Enemy_C_1] 31.0
+[2023.12.11-11.05.38:705][924]LogBlueprintUserMessages: [Enemy_C_1] 30.0
+[2023.12.11-11.05.38:730][925]LogBlueprintUserMessages: [Enemy_C_1] 29.0
+[2023.12.11-11.05.38:755][926]LogBlueprintUserMessages: [Enemy_C_1] 28.0
+[2023.12.11-11.05.38:780][927]LogBlueprintUserMessages: [Enemy_C_1] 27.0
+[2023.12.11-11.05.38:805][928]LogBlueprintUserMessages: [Enemy_C_1] 26.0
+[2023.12.11-11.05.38:830][929]LogBlueprintUserMessages: [Enemy_C_1] 25.0
+[2023.12.11-11.05.38:855][930]LogBlueprintUserMessages: [Enemy_C_1] 24.0
+[2023.12.11-11.05.38:881][931]LogBlueprintUserMessages: [Enemy_C_1] 23.0
+[2023.12.11-11.05.38:906][932]LogBlueprintUserMessages: [Enemy_C_1] 22.0
+[2023.12.11-11.05.38:930][933]LogBlueprintUserMessages: [Enemy_C_1] 21.0
+[2023.12.11-11.05.38:955][934]LogBlueprintUserMessages: [Enemy_C_1] 20.0
+[2023.12.11-11.05.38:981][935]LogBlueprintUserMessages: [Enemy_C_1] 19.0
+[2023.12.11-11.05.39:006][936]LogBlueprintUserMessages: [Enemy_C_1] 18.0
+[2023.12.11-11.05.39:031][937]LogBlueprintUserMessages: [Enemy_C_1] 17.0
+[2023.12.11-11.05.39:055][938]LogBlueprintUserMessages: [Enemy_C_1] 16.0
+[2023.12.11-11.05.39:081][939]LogBlueprintUserMessages: [Enemy_C_1] 15.0
+[2023.12.11-11.05.39:107][940]LogBlueprintUserMessages: [Enemy_C_1] 14.0
+[2023.12.11-11.05.39:134][941]LogBlueprintUserMessages: [Enemy_C_1] 13.0
+[2023.12.11-11.05.39:160][942]LogBlueprintUserMessages: [Enemy_C_1] 12.0
+[2023.12.11-11.05.39:185][943]LogBlueprintUserMessages: [Enemy_C_1] 11.0
+[2023.12.11-11.05.39:210][944]LogBlueprintUserMessages: [Enemy_C_1] 10.0
+[2023.12.11-11.05.39:235][945]LogBlueprintUserMessages: [Enemy_C_1] 9.0
+[2023.12.11-11.05.39:261][946]LogBlueprintUserMessages: [Enemy_C_1] 8.0
+[2023.12.11-11.05.39:286][947]LogBlueprintUserMessages: [Enemy_C_1] 7.0
+[2023.12.11-11.05.39:313][948]LogBlueprintUserMessages: [Enemy_C_1] 6.0
+[2023.12.11-11.05.39:338][949]LogBlueprintUserMessages: [Enemy_C_1] 5.0
+[2023.12.11-11.05.39:363][950]LogBlueprintUserMessages: [Enemy_C_1] 4.0
+[2023.12.11-11.05.39:389][951]LogBlueprintUserMessages: [Enemy_C_1] 3.0
+[2023.12.11-11.05.39:414][952]LogBlueprintUserMessages: [Enemy_C_1] 2.0
+[2023.12.11-11.05.39:439][953]LogBlueprintUserMessages: [Enemy_C_1] 1.0
+[2023.12.11-11.05.39:464][954]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:490][955]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:515][956]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:540][957]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:566][958]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:592][959]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:617][960]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:643][961]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:669][962]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:695][963]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:720][964]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:745][965]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:770][966]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:795][967]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:821][968]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:846][969]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:872][970]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:898][971]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:922][972]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.39:947][973]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.39:973][974]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.40:000][975]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.40:025][976]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.40:052][977]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.40:076][978]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.40:101][979]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.40:127][980]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.40:153][981]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.40:178][982]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.40:204][983]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.40:229][984]LogBlueprintUserMessages: [PZD_Player_C_0] Dead
+[2023.12.11-11.05.40:255][985]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.40:281][986]PIE: Error: Blueprint Runtime Error: "Attempted to access PZD_Player_C_0 via property Player, but PZD_Player_C_0 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Enemy Blueprint:  Enemy
+[2023.12.11-11.05.42:079][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.05.42:080][ 54]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.05.42:080][ 54]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-11.05.42:080][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.05.42:083][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.11-11.05.42:089][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.05.42:110][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.11-11.05.42:110][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.12.11-11.05.42:110][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.11-11.05.42:112][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.12.11-11.05.42:120][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.05.42:123][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.12.11-11.05.42:264][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.12.11-11.05.48:550][230]LogSlate: Window 'Message Log' being destroyed
+[2023.12.11-11.05.48:595][230]LogSlate: Window 'Message Log' being destroyed
+[2023.12.11-11.05.49:109][246]LogEditorViewport: Clicking Background
+[2023.12.11-11.05.50:246][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.11-11.05.50:261][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.11-11.05.50:262][283]PIE: New page: PIE session: Testing_Area (11 Dec 2023, 11:05:50)
+[2023.12.11-11.05.50:262][283]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.05.50:264][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001780s)
+[2023.12.11-11.05.50:264][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001856s)
+[2023.12.11-11.05.50:288][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.12.11-11.05.50:291][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.11-11.05.50:291][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.11-11.05.50:291][283]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.11-11.05.50:292][283]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2023.12.11-11.05.50:292][283]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.12.11-11.05.50:292][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.11-11.05.50:292][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.11-11.05.50:292][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.11-11.05.50:292][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.11-11.05.50:292][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.11-11.05.50:292][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.11-11.05.50:292][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.11-11.05.50:292][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.11-11.05.50:293][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.11-11.05.50:293][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.11-11.05.50:293][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.11-11.05.50:295][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.11-11.05.50:385][283]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.11-11.05.50:386][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.11-11.05.50:386][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.11-11.05.50:386][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.11-11.05.50:386][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.12.11-11.05.50:386][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.12.11-11.05.50:388][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.12.11-11.05.50:388][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.12.11-11.05.50:389][283]LogInit: FAudioDevice initialized with ID 19.
+[2023.12.11-11.05.50:389][283]LogAudio: Display: Audio Device (ID: 19) registered with world 'Testing_Area'.
+[2023.12.11-11.05.50:389][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.11-11.05.50:390][283]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.11-11.05.50:392][283]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 0) at 2023.12.11-11.05.50
+[2023.12.11-11.05.50:392][283]LogWorld: Bringing up level for play took: 0.001623
+[2023.12.11-11.05.50:395][283]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.12.11-11.05.50:396][283]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.11-11.05.50:396][283]LogBlueprintUserMessages: [Enemy_C_1] PZD_Player_C_0
+[2023.12.11-11.05.50:396][283]PIE: Server logged in
+[2023.12.11-11.05.50:397][283]PIE: Play in editor total start time 0.136 seconds.
+[2023.12.11-11.05.51:447][322]LogBlueprintUserMessages: [Enemy_C_1] 
+[2023.12.11-11.05.51:473][323]LogBlueprintUserMessages: [Enemy_C_1] 99.0
+[2023.12.11-11.05.51:500][324]LogBlueprintUserMessages: [Enemy_C_1] 98.0
+[2023.12.11-11.05.51:527][325]LogBlueprintUserMessages: [Enemy_C_1] 97.0
+[2023.12.11-11.05.51:554][326]LogBlueprintUserMessages: [Enemy_C_1] 96.0
+[2023.12.11-11.05.51:579][327]LogBlueprintUserMessages: [Enemy_C_1] 95.0
+[2023.12.11-11.05.51:606][328]LogBlueprintUserMessages: [Enemy_C_1] 94.0
+[2023.12.11-11.05.51:632][329]LogBlueprintUserMessages: [Enemy_C_1] 93.0
+[2023.12.11-11.05.51:658][330]LogBlueprintUserMessages: [Enemy_C_1] 92.0
+[2023.12.11-11.05.51:684][331]LogBlueprintUserMessages: [Enemy_C_1] 91.0
+[2023.12.11-11.05.51:710][332]LogBlueprintUserMessages: [Enemy_C_1] 90.0
+[2023.12.11-11.05.51:736][333]LogBlueprintUserMessages: [Enemy_C_1] 89.0
+[2023.12.11-11.05.51:762][334]LogBlueprintUserMessages: [Enemy_C_1] 88.0
+[2023.12.11-11.05.51:787][335]LogBlueprintUserMessages: [Enemy_C_1] 87.0
+[2023.12.11-11.05.51:813][336]LogBlueprintUserMessages: [Enemy_C_1] 86.0
+[2023.12.11-11.05.51:840][337]LogBlueprintUserMessages: [Enemy_C_1] 85.0
+[2023.12.11-11.05.51:865][338]LogBlueprintUserMessages: [Enemy_C_1] 84.0
+[2023.12.11-11.05.51:891][339]LogBlueprintUserMessages: [Enemy_C_1] 83.0
+[2023.12.11-11.05.51:917][340]LogBlueprintUserMessages: [Enemy_C_1] 82.0
+[2023.12.11-11.05.51:943][341]LogBlueprintUserMessages: [Enemy_C_1] 81.0
+[2023.12.11-11.05.51:969][342]LogBlueprintUserMessages: [Enemy_C_1] 80.0
+[2023.12.11-11.05.51:995][343]LogBlueprintUserMessages: [Enemy_C_1] 79.0
+[2023.12.11-11.05.52:019][344]LogBlueprintUserMessages: [Enemy_C_1] 78.0
+[2023.12.11-11.05.52:045][345]LogBlueprintUserMessages: [Enemy_C_1] 77.0
+[2023.12.11-11.05.52:071][346]LogBlueprintUserMessages: [Enemy_C_1] 76.0
+[2023.12.11-11.05.52:097][347]LogBlueprintUserMessages: [Enemy_C_1] 75.0
+[2023.12.11-11.05.52:123][348]LogBlueprintUserMessages: [Enemy_C_1] 74.0
+[2023.12.11-11.05.52:149][349]LogBlueprintUserMessages: [Enemy_C_1] 73.0
+[2023.12.11-11.05.52:175][350]LogBlueprintUserMessages: [Enemy_C_1] 72.0
+[2023.12.11-11.05.52:202][351]LogBlueprintUserMessages: [Enemy_C_1] 71.0
+[2023.12.11-11.05.52:225][352]LogBlueprintUserMessages: [Enemy_C_1] 70.0
+[2023.12.11-11.05.52:251][353]LogBlueprintUserMessages: [Enemy_C_1] 69.0
+[2023.12.11-11.05.52:277][354]LogBlueprintUserMessages: [Enemy_C_1] 68.0
+[2023.12.11-11.05.52:303][355]LogBlueprintUserMessages: [Enemy_C_1] 67.0
+[2023.12.11-11.05.52:329][356]LogBlueprintUserMessages: [Enemy_C_1] 66.0
+[2023.12.11-11.05.52:355][357]LogBlueprintUserMessages: [Enemy_C_1] 65.0
+[2023.12.11-11.05.52:382][358]LogBlueprintUserMessages: [Enemy_C_1] 64.0
+[2023.12.11-11.05.52:407][359]LogBlueprintUserMessages: [Enemy_C_1] 63.0
+[2023.12.11-11.05.52:433][360]LogBlueprintUserMessages: [Enemy_C_1] 62.0
+[2023.12.11-11.05.52:459][361]LogBlueprintUserMessages: [Enemy_C_1] 61.0
+[2023.12.11-11.05.52:486][362]LogBlueprintUserMessages: [Enemy_C_1] 60.0
+[2023.12.11-11.05.52:512][363]LogBlueprintUserMessages: [Enemy_C_1] 59.0
+[2023.12.11-11.05.52:538][364]LogBlueprintUserMessages: [Enemy_C_1] 58.0
+[2023.12.11-11.05.52:563][365]LogBlueprintUserMessages: [Enemy_C_1] 57.0
+[2023.12.11-11.05.52:589][366]LogBlueprintUserMessages: [Enemy_C_1] 56.0
+[2023.12.11-11.05.52:614][367]LogBlueprintUserMessages: [Enemy_C_1] 55.0
+[2023.12.11-11.05.52:640][368]LogBlueprintUserMessages: [Enemy_C_1] 54.0
+[2023.12.11-11.05.52:668][369]LogBlueprintUserMessages: [Enemy_C_1] 53.0
+[2023.12.11-11.05.52:745][372]LogBlueprintUserMessages: [Enemy_C_1] 52.0
+[2023.12.11-11.05.52:770][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.05.52:770][372]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.11-11.05.52:770][372]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.11-11.05.52:770][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.05.52:775][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.11-11.05.52:780][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.11-11.05.52:800][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.11-11.05.52:800][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.12.11-11.05.52:801][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.11-11.05.52:802][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.12.11-11.05.52:811][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.12.11-11.05.52:852][373]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.12.11-11.05.53:730][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.11-11.05.53:840][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.11-11.05.53:851][398]LogSavePackage: Moving output files for package: /Game/Maps/Testing_Area
+[2023.12.11-11.05.53:851][398]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Testing_Area7AA416FB41FC12E7F85C318590765D98.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Testing_Area.umap'
+[2023.12.11-11.05.53:862][398]LogFileHelpers: Saving map 'Testing_Area' took 0.069
+[2023.12.11-11.05.53:872][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 2.02 sec)
+[2023.12.11-11.05.53:873][398]AssetCheck: New page: Asset Save: Testing_Area
+[2023.12.11-11.05.53:873][398]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Testing_Area.Testing_Area
