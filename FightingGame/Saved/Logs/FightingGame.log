@@ -3332,3 +3332,224 @@ Make sure 'Anim_Notify2_C' has been compiled for  Get Base Damage
 [2023.12.13-11.31.01:679][ 65]AssetCheck: New page: Asset Save: Testing_Area
 [2023.12.13-11.31.01:679][ 65]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Testing_Area.Testing_Area
 [2023.12.13-11.31.05:033][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.12.13-11.32.06:991][489]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.Blueprint
+[2023.12.13-11.32.10:677][589]LogSlate: Window 'Asset Audit' being destroyed
+[2023.12.13-11.32.10:716][589]LogSlate: Window 'Asset Audit' being destroyed
+[2023.12.13-11.33.18:141][ 22]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.13-11.33.18:152][ 22]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.13-11.33.18:167][ 23]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.13-11.33.21:338][122]LogContentBrowser: Attempting asset rename: NewFolder -> Notifies
+[2023.12.13-11.33.21:339][122]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.13-11.33.29:756][376]LogContentBrowser: Attempting asset rename: Notifies -> Player
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player_C' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_State_0.Idle.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Root_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_State_1.Run.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Transition_0.Transition.PaperZDTransitionGraphNode_Result_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Transition_1.Transition_1.PaperZDTransitionGraphNode_Result_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Transition_9.Transition_5.PaperZDTransitionGraphNode_Result_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_State_2.Sword.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Transition_6.Transition_2.PaperZDTransitionGraphNode_Result_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Transition_8.Transition_4.PaperZDTransitionGraphNode_Result_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Transition_7.Transition_3.PaperZDTransitionGraphNode_Result_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_State_3.Punch.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_Transition_2.Transition_6.PaperZDTransitionGraphNode_Result_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player:AnimGraph.PaperZDAnimGraphNode_StateMachine_0.New State Machine.PaperZDStateGraphNode_State_4.Death.PaperZDAnimGraphNode_Sink_0' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.SKEL_ABP_Player_C' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.ABP_Player_C:OnInit' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.SKEL_ABP_Player_C:OnTick' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:561][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/ABP_Player.SKEL_ABP_Player_C:OnInit' ref from Metadata '/Game/Assets/PaperZD/ABP_Player.PackageMetaData'
+[2023.12.13-11.33.33:577][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Punch.Note_Punch_C' ref from Metadata '/Game/Assets/PaperZD/Note_Punch.PackageMetaData'
+[2023.12.13-11.33.33:577][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Punch.Note_Punch_C:OnReceiveNotify' ref from Metadata '/Game/Assets/PaperZD/Note_Punch.PackageMetaData'
+[2023.12.13-11.33.33:577][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Punch.SKEL_Note_Punch_C' ref from Metadata '/Game/Assets/PaperZD/Note_Punch.PackageMetaData'
+[2023.12.13-11.33.33:577][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Punch.SKEL_Note_Punch_C:OnReceiveNotify' ref from Metadata '/Game/Assets/PaperZD/Note_Punch.PackageMetaData'
+[2023.12.13-11.33.33:591][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Sword.Note_Sword_C' ref from Metadata '/Game/Assets/PaperZD/Note_Sword.PackageMetaData'
+[2023.12.13-11.33.33:591][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Sword.Note_Sword_C:OnReceiveNotify' ref from Metadata '/Game/Assets/PaperZD/Note_Sword.PackageMetaData'
+[2023.12.13-11.33.33:591][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Sword.SKEL_Note_Sword_C' ref from Metadata '/Game/Assets/PaperZD/Note_Sword.PackageMetaData'
+[2023.12.13-11.33.33:591][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/Note_Sword.SKEL_Note_Sword_C:OnReceiveNotify' ref from Metadata '/Game/Assets/PaperZD/Note_Sword.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.PZD_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.PZD_Player_C' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.PZD_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.SKEL_PZD_Player_C' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.SKEL_PZD_Player_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.SKEL_PZD_Player_C:ReceiveAnyDamage' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.SKEL_PZD_Player_C:UserConstructionScript' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.PZD_Player_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:607][487]LogMetaData: Removing '/Game/Assets/PaperZD/Player/PZD_Player.PZD_Player_C:ReceiveAnyDamage' ref from Metadata '/Game/Assets/PaperZD/PZD_Player.PackageMetaData'
+[2023.12.13-11.33.33:626][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.13-11.33.33:659][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Run
+[2023.12.13-11.33.33:660][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_RunBBBAD15E4AD0171A8A9BA0A34B06DB01.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Run.uasset'
+[2023.12.13-11.33.33:664][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Idle
+[2023.12.13-11.33.33:665][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Idle54939AD24726A3659B6B86A8D5CAD2C1.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Idle.uasset'
+[2023.12.13-11.33.33:669][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack2
+[2023.12.13-11.33.33:669][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack28347D9044DBAEF215EA3EEBB5EAC42D0.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack2.uasset'
+[2023.12.13-11.33.33:673][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Attack1
+[2023.12.13-11.33.33:674][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack106BEB2904F4E501414C58B97120C3830.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Attack1.uasset'
+[2023.12.13-11.33.33:678][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/AnimSequences/AS_Death
+[2023.12.13-11.33.33:679][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Death821B2FB84058E6EA2A2826AF94549651.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/AnimSequences/AS_Death.uasset'
+[2023.12.13-11.33.33:681][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Gamemode" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/BP_Gamemode.uasset" SILENT=true
+[2023.12.13-11.33.33:686][487]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Gamemode
+[2023.12.13-11.33.33:687][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/BP_GamemodeDBD060874CB9E245185432BA77F04C4D.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/BP_Gamemode.uasset'
+[2023.12.13-11.33.33:689][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PaperZD/Enemy/Enemy" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Enemy/Enemy.uasset" SILENT=true
+[2023.12.13-11.33.33:728][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Enemy/Enemy
+[2023.12.13-11.33.33:729][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Enemy00C006C64EF27E3C2C0C208C40213276.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Enemy/Enemy.uasset'
+[2023.12.13-11.33.33:734][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/A_Source
+[2023.12.13-11.33.33:734][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/A_SourceF63E4B7D4130BD611D8AF4AD267AB44F.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/A_Source.uasset'
+[2023.12.13-11.33.33:757][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/ABP_Player
+[2023.12.13-11.33.33:757][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_PlayerB104AA7345FEA19269323D8D654EFDEE.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/ABP_Player.uasset'
+[2023.12.13-11.33.33:772][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/Note_Punch
+[2023.12.13-11.33.33:772][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Punch709C9FC548E6132E6D75C388197BCE4F.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/Note_Punch.uasset'
+[2023.12.13-11.33.33:787][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/Note_Sword
+[2023.12.13-11.33.33:787][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword5ABC78E847696DB287691EB6AD29EE77.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/Note_Sword.uasset'
+[2023.12.13-11.33.33:810][487]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/PZD_Player
+[2023.12.13-11.33.33:810][487]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/PZD_Player3C65EF68467FD46EB78F82B4D08AB359.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/PZD_Player.uasset'
+[2023.12.13-11.33.33:820][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 4.05 sec)
+[2023.12.13-11.33.33:868][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.13-11.33.33:882][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.13-11.33.33:897][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.12.13-11.33.33:910][487]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Run.AS_Run
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Idle.AS_Idle
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack2.AS_Attack2
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Attack1.AS_Attack1
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/AnimSequences/AS_Death.AS_Death
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Gamemode.BP_Gamemode
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/PaperZD/Enemy/Enemy.Default__Enemy_C_2
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Enemy/Enemy.Enemy
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/Assets/PaperZD/Player/A_Source.A_Source
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/Player/ABP_Player.ABP_Player
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Player/Note_Punch.Note_Punch
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Player/Note_Sword.Note_Sword
+[2023.12.13-11.33.33:910][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Player/PZD_Player.PZD_Player
+[2023.12.13-11.33.34:783][515]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.12.13-11.33.34:783][515]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.12.13-11.33.36:051][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.13-11.33.36:092][550]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/ABP_Player
+[2023.12.13-11.33.36:093][550]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/ABP_PlayerF464683945E5FEBE21CC0687EE33DECC.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/ABP_Player.uasset'
+[2023.12.13-11.33.36:097][550]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/AnimSequences/AS_Attack1
+[2023.12.13-11.33.36:097][550]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack1762F7A4E434DB17AD6F354BD64FF6CB6.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/AnimSequences/AS_Attack1.uasset'
+[2023.12.13-11.33.36:103][550]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/AnimSequences/AS_Attack2
+[2023.12.13-11.33.36:103][550]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Attack2B5BEA5ED48BEB5EF01AA12BEBFCF43FC.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/AnimSequences/AS_Attack2.uasset'
+[2023.12.13-11.33.36:107][550]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/AnimSequences/AS_Death
+[2023.12.13-11.33.36:107][550]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Death8F931B1245E33840C5534A94CDE67356.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/AnimSequences/AS_Death.uasset'
+[2023.12.13-11.33.36:110][550]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/AnimSequences/AS_Idle
+[2023.12.13-11.33.36:110][550]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Idle0CAA28844369710279F47E83D40A1129.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/AnimSequences/AS_Idle.uasset'
+[2023.12.13-11.33.36:114][550]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/AnimSequences/AS_Run
+[2023.12.13-11.33.36:114][550]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AS_Run2008788A4C5B9893868202934AED60CF.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/AnimSequences/AS_Run.uasset'
+[2023.12.13-11.33.36:122][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 4.12 sec)
+[2023.12.13-11.33.36:171][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.13-11.33.36:187][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.13-11.33.36:202][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.13-11.33.36:224][550]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.13-11.33.36:224][550]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Assets/PaperZD/Player/ABP_Player.ABP_Player
+[2023.12.13-11.33.36:224][550]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/Player/AnimSequences/AS_Attack1.AS_Attack1
+[2023.12.13-11.33.36:224][550]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2
+[2023.12.13-11.33.36:224][550]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/Player/AnimSequences/AS_Death.AS_Death
+[2023.12.13-11.33.36:224][550]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/Player/AnimSequences/AS_Idle.AS_Idle
+[2023.12.13-11.33.36:224][550]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Assets/PaperZD/Player/AnimSequences/AS_Run.AS_Run
+[2023.12.13-11.33.39:669][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.13-11.33.39:779][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.13-11.33.39:786][659]LogSavePackage: Moving output files for package: /Game/Maps/Testing_Area
+[2023.12.13-11.33.39:787][659]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Testing_Area7292C35A4D45BD82202AD29FC9BD5206.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Testing_Area.umap'
+[2023.12.13-11.33.39:797][659]LogFileHelpers: Saving map 'Testing_Area' took 0.062
+[2023.12.13-11.33.39:802][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 4.26 sec)
+[2023.12.13-11.33.39:803][659]AssetCheck: New page: Asset Save: Testing_Area
+[2023.12.13-11.33.39:803][659]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Testing_Area.Testing_Area
+[2023.12.13-11.38.05:078][ 40]LogViewport: Scene viewport resized to 1158x564, mode Windowed.
+[2023.12.13-11.38.11:340][147]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.13-11.38.13:876][200]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.13-11.38.13:892][200]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.13-11.38.13:906][200]LogPlayLevel: [PlayLevel] Compiling PZD_Player before play...
+[2023.12.13-11.38.14:040][200]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2023.12.13-11.38.14:076][200]LogPlayLevel: [PlayLevel] Compiling Note_Sword before play...
+[2023.12.13-11.38.14:099][200]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2023.12.13-11.38.14:131][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.13-11.38.14:132][200]LogPlayLevel: PlayLevel: Blueprint regeneration took 241 ms (4 blueprints)
+[2023.12.13-11.38.14:132][200]PIE: New page: PIE session: Testing_Area (13 Dec 2023, 11:38:14)
+[2023.12.13-11.38.14:132][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.13-11.38.14:134][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001541s)
+[2023.12.13-11.38.14:134][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001570s)
+[2023.12.13-11.38.14:151][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.13-11.38.14:151][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.13-11.38.14:151][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.13-11.38.14:152][200]LogAIModule: Creating AISystem for world Testing_Area
+[2023.12.13-11.38.14:152][200]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2023.12.13-11.38.14:152][200]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.12.13-11.38.14:152][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.13-11.38.14:152][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.13-11.38.14:152][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.13-11.38.14:152][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.13-11.38.14:152][200]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.13-11.38.14:152][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.13-11.38.14:152][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.13-11.38.14:152][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.13-11.38.14:153][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.13-11.38.14:153][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.13-11.38.14:153][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.13-11.38.14:155][200]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.13-11.38.14:235][200]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.13-11.38.14:236][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.13-11.38.14:236][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.13-11.38.14:236][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.13-11.38.14:236][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.12.13-11.38.14:236][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.12.13-11.38.14:238][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.12.13-11.38.14:238][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.12.13-11.38.14:238][200]LogInit: FAudioDevice initialized with ID 20.
+[2023.12.13-11.38.14:238][200]LogAudio: Display: Audio Device (ID: 20) registered with world 'Testing_Area'.
+[2023.12.13-11.38.14:238][200]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.13-11.38.14:241][200]LogLoad: Game class is 'BP_Gamemode_C'
+[2023.12.13-11.38.14:244][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2023.12.13-11.38.14
+[2023.12.13-11.38.14:245][200]LogWorld: Bringing up level for play took: 0.003537
+[2023.12.13-11.38.14:247][200]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.12.13-11.38.14:249][200]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.12.13-11.38.14:249][200]LogBlueprintUserMessages: [Enemy_C_1] PZD_Player_C_0
+[2023.12.13-11.38.14:249][200]PIE: Server logged in
+[2023.12.13-11.38.14:249][200]PIE: Play in editor total start time 0.358 seconds.
+[2023.12.13-11.38.15:976][267]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.13-11.38.15:976][267]LogBlueprintUserMessages: [Enemy_C_1] 1.0
+[2023.12.13-11.38.15:976][267]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.13-11.38.16:639][294]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.13-11.38.17:689][337]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.13-11.38.17:689][337]LogBlueprintUserMessages: [Enemy_C_1] 1.0
+[2023.12.13-11.38.17:689][337]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.13-11.38.18:352][364]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2023.12.13-11.38.18:352][364]LogBlueprintUserMessages: [Enemy_C_1] 1.0
+[2023.12.13-11.38.18:352][364]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2023.12.13-11.38.18:746][380]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2023.12.13-11.38.19:411][407]LogBlueprintUserMessages: [Anim_Notify2_C_0] Enemy
+[2023.12.13-11.38.19:411][407]LogBlueprintUserMessages: [Enemy_C_1] 5.0
+[2023.12.13-11.38.19:411][407]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2023.12.13-11.38.20:185][438]LogBlueprintUserMessages: [Anim_Notify2_C_0] Enemy
+[2023.12.13-11.38.20:185][438]LogBlueprintUserMessages: [Enemy_C_1] 5.0
+[2023.12.13-11.38.20:185][438]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2023.12.13-11.38.23:645][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.13-11.38.23:645][575]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2023.12.13-11.38.23:645][575]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2023.12.13-11.38.23:645][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.13-11.38.23:649][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.13-11.38.23:655][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.13-11.38.23:676][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.13-11.38.23:676][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.12.13-11.38.23:676][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.13-11.38.23:678][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.12.13-11.38.23:686][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.13-11.38.23:760][576]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.12.13-11.40.35:162][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.13-11.40.35:273][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.13-11.40.35:283][749]LogSavePackage: Moving output files for package: /Game/Maps/Testing_Area
+[2023.12.13-11.40.35:284][749]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Testing_AreaAA618AF34AD4B2D9BE8A0F89CA93AF28.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Testing_Area.umap'
+[2023.12.13-11.40.35:294][749]LogFileHelpers: Saving map 'Testing_Area' took 0.069
+[2023.12.13-11.40.35:297][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 4.39 sec)
+[2023.12.13-11.40.35:299][749]AssetCheck: New page: Asset Save: Testing_Area
+[2023.12.13-11.40.35:299][749]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Testing_Area.Testing_Area
+[2023.12.13-11.40.36:909][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.13-11.40.36:913][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.13-11.40.36:960][798]LogSavePackage: Moving output files for package: /Game/Assets/PaperZD/Player/PZD_Player
+[2023.12.13-11.40.36:961][798]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/PZD_Player79677FBE438918D0760458842B24FBEA.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/PaperZD/Player/PZD_Player.uasset'
+[2023.12.13-11.40.36:967][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 4.45 sec)
+[2023.12.13-11.40.36:969][798]AssetCheck: New page: Asset Save: PZD_Player
+[2023.12.13-11.40.36:969][798]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/PaperZD/Player/PZD_Player.PZD_Player
