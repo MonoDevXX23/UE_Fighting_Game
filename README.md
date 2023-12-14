@@ -65,14 +65,10 @@
 
 <ul>
   <li>Set up the second attack for the player using the same code block as the first attack</li>
-  <li>Player death animation and implementation</li>
   <li>Reorganised some folders and branches ready for the next system</li>
+  <li>Created, implemented charge attack (but no damage calculation)</li>
   <li>Blueprint cleanup</li>
 </ul>
 
-<h2>Day 11 - Charge Attack</h2>
-<ul>
-  <li>Created, implemented charge attack (but no damage calculation)</li>
-</ul>
 
 
