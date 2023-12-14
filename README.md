@@ -64,7 +64,6 @@
 <h2>Day 9 & 10 - Second Attack work </h2>
 
 <ul>
-  <li>Set up the second attack for the player using the same code block as the first attack</li>
   <li>Reorganised some folders and branches ready for the next system</li>
   <li>Created, implemented charge attack (but no damage calculation)</li>
   <li>Blueprint cleanup</li>
