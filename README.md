@@ -55,9 +55,24 @@
 </ul>
 
 <h2>Day 7 & 8 - Player hit detection & Animation</h2>
-
 <ul>
   <li>Damage can now be applied to both player and enemy</li>
   <li>Both enemy and player have death animations</li>
   <li>Hit dectection for both player and enemy are now working</li>
 </ul>
+
+<h2>Day 9 & 10 - Second Attack work </h2>
+
+<ul>
+  <li>Set up the second attack for the player using the same code block as the first attack</li>
+  <li>Player death animation and implementation</li>
+  <li>Reorganised some folders and branches ready for the next system</li>
+  <li>Blueprint cleanup</li>
+</ul>
+
+<h2>Day 11 - Charge Attack</h2>
+<ul>
+  <li>Created, implemented charge attack (but no damage calculation)</li>
+</ul>
+
+
