@@ -3,7 +3,8 @@
 <h1><strong>Objectives</strong></h1>
 <p>Create a 2D fighting game in Unreal Engine 5 using a mixture of 2D and 3D assets</p>
 
-<h2> Day 1 - Setting up the Map </h2>
+<h2> Day 1 - Setting up the Map </h2><br>
+
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/8f8de914-5746-417f-a948-08bec53a3936)
 <ul>
   <li>Looked for the assets</li>
@@ -20,8 +21,7 @@
   <li>Reorganised Trello board and updated tasks</li>
 </ul>
 
-<h2>Day 3 - Animations</h2>
-<br>
+<h2>Day 3 - Animations</h2><br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/7a9cc830-dfd3-4d2a-b274-dde859caefd8)<br>
 
@@ -73,8 +73,7 @@
   <li>Blueprint cleanup</li>
 </ul>
 
-<h2>Day 11 & 12 - Bug fixing and UI</h2>
-<br>
+<h2>Day 11 & 12 - Bug fixing and UI</h2><br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/536e50d8-7fbf-4ab4-8c70-f57f6a81ebad)
 
