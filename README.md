@@ -66,8 +66,22 @@
 <ul>
   <li>Reorganised some folders and branches ready for the next system</li>
   <li>Created, implemented charge attack (but no damage calculation)</li>
+  <li>Implemented a simple spawner for enemies</li>
   <li>Blueprint cleanup</li>
 </ul>
 
+<h2>Day 11 & 12 - Bug fixing and UI</h2>
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/9671b574-ff78-4b98-b01f-45eb387b517d)<br>
+
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/9f4bbc74-58f9-471d-bb51-ad5b326d474c)
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/65455a1b-641f-419e-b07a-4c932c1425b3)
+
+
+
+<ul>
+  <li>Started on the UI for the player, implementing a healthbar</li>
+  <li>Improved the player and enemy launch when receiving damage: Player and Enemy will now launch in the opposite direction of where each other is facing.</li>
+  <li>Minor bug fixing for the enemy attack, making it only apply damage once per attack.</li>
+</ul>
 
 
