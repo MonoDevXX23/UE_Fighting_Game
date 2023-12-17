@@ -21,6 +21,7 @@
 </ul>
 
 <h2>Day 3 - Animations</h2>
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/7a9cc830-dfd3-4d2a-b274-dde859caefd8)<br>
 
@@ -45,7 +46,8 @@
   <li>Made Ai walk back and forth over certain distance</li>
 </ul>
 
-<h2>Day 6 - Enemy AI & Hit Detection</h2>
+<h2>Day 6 - Enemy AI & Hit Detection</h2><br>
+
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/c3a2c6d5-84f1-4059-8bdd-34a459f7ab24)<br>
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/1bb655f1-283f-4982-b0a1-c2d931036cdb)
 
