@@ -75,13 +75,7 @@
 
 <h2>Day 11 & 12 - Bug fixing and UI</h2><br>
 
-<figure>
-  
-  ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/536e50d8-7fbf-4ab4-8c70-f57f6a81ebad)<br>
-  <figcaption>Figure 1 - DoOnce node applied to Attack function</figcaption>
-</figure>
-
-
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/536e50d8-7fbf-4ab4-8c70-f57f6a81ebad)
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/9f4bbc74-58f9-471d-bb51-ad5b326d474c)
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/65455a1b-641f-419e-b07a-4c932c1425b3)
 
