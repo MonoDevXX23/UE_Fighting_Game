@@ -21,6 +21,7 @@
 </ul>
 
 <h2>Day 3 - Animations</h2>
+
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/7a9cc830-dfd3-4d2a-b274-dde859caefd8)<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/3530776a-af96-489e-8b8e-ab4f1e96bace)<br>
