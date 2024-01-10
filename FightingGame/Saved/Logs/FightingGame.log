@@ -1644,3 +1644,248 @@ UnknownFunction []
 [2024.01.10-17.25.12:390][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.01.10-17.25.12:392][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2024.01.10-17.25.12:448][507]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.01.10-17.33.40:728][404]LogSlate: Window 'Delete Variable' being destroyed
+[2024.01.10-17.34.24:361][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.34.24:407][ 14]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword
+[2024.01.10-17.34.24:408][ 14]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword47F8CCCD4125C9183210D7833A605705.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword.uasset'
+[2024.01.10-17.34.24:414][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 692 ms)
+[2024.01.10-17.34.24:416][ 14]AssetCheck: New page: Asset Save: Note_Sword
+[2024.01.10-17.34.24:416][ 14]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword.Note_Sword
+[2024.01.10-17.34.25:824][ 99]BlueprintLog: New page: Compile Note_Sword
+[2024.01.10-17.34.25:851][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.10-17.34.44:779][211]BlueprintLog: New page: Compile Note_Sword
+[2024.01.10-17.34.44:808][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.10-17.36.23:861][126]BlueprintLog: New page: Compile Note_Sword
+[2024.01.10-17.36.23:877][126]LogBlueprint: Error: [AssetLog] C:\Users\giant\Desktop\Work\Github_Reps\UE_FG\UE_Fighting_Game\FightingGame\Content\Blueprints\PaperZD\Player\Note_Sword.uasset: [Compiler] This blueprint (self) is not a PaperZDAnimInstance, therefore ' Target ' must have a connection.
+[2024.01.10-17.36.23:908][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.10-17.36.50:187][679]BlueprintLog: New page: Compile Note_Sword
+[2024.01.10-17.36.50:217][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.10-17.37.13:877][ 91]BlueprintLog: New page: Compile Note_Sword
+[2024.01.10-17.37.13:912][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.10-17.37.21:209][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.37.21:259][524]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword
+[2024.01.10-17.37.21:260][524]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword077B74274AA37AEAC6F495BADF1F8AA2.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword.uasset'
+[2024.01.10-17.37.21:265][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 747 ms)
+[2024.01.10-17.37.21:267][524]AssetCheck: New page: Asset Save: Note_Sword
+[2024.01.10-17.37.21:267][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword.Note_Sword
+[2024.01.10-17.37.23:181][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.10-17.37.23:194][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.10-17.37.23:194][611]PIE: New page: PIE session: Testing_Area (10 Jan 2024, 17:37:23)
+[2024.01.10-17.37.23:194][611]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.01.10-17.37.23:195][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001461s)
+[2024.01.10-17.37.23:195][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001489s)
+[2024.01.10-17.37.23:208][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.10-17.37.23:210][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-17.37.23:210][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-17.37.23:210][611]LogAIModule: Creating AISystem for world Testing_Area
+[2024.01.10-17.37.23:211][611]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2024.01.10-17.37.23:211][611]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.10-17.37.23:211][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.10-17.37.23:211][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.10-17.37.23:211][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.10-17.37.23:211][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.10-17.37.23:211][611]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.10-17.37.23:211][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.10-17.37.23:211][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.10-17.37.23:211][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.10-17.37.23:211][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.10-17.37.23:211][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.10-17.37.23:211][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.10-17.37.23:213][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.10-17.37.23:310][611]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.10-17.37.23:311][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.10-17.37.23:311][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.10-17.37.23:311][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.10-17.37.23:311][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.10-17.37.23:311][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.10-17.37.23:313][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.10-17.37.23:313][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.10-17.37.23:313][611]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.10-17.37.23:313][611]LogAudio: Display: Audio Device (ID: 7) registered with world 'Testing_Area'.
+[2024.01.10-17.37.23:313][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.10-17.37.23:317][611]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.01.10-17.37.23:319][611]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.01.10-17.37.23
+[2024.01.10-17.37.23:320][611]LogWorld: Bringing up level for play took: 0.002327
+[2024.01.10-17.37.23:322][611]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.01.10-17.37.23:324][611]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.01.10-17.37.23:324][611]PIE: Server logged in
+[2024.01.10-17.37.23:325][611]PIE: Play in editor total start time 0.131 seconds.
+[2024.01.10-17.37.25:712][707]LogBlueprintUserMessages: [BP_Brain_C_1] AddedNotify
+[2024.01.10-17.37.25:712][707]LogBlueprintUserMessages: [BP_Brain_C_1] AddedDamage
+[2024.01.10-17.37.25:712][707]LogBlueprintUserMessages: [Anim_Notify2_C_0] Enemy
+[2024.01.10-17.37.25:712][707]LogBlueprintUserMessages: [Enemy_C_2] 10.0
+[2024.01.10-17.37.25:712][707]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2024.01.10-17.37.29:836][876]LogBlueprintUserMessages: [Anim_Notify_C_1] Enemy
+[2024.01.10-17.37.29:836][876]LogBlueprintUserMessages: [Enemy_C_2] 10.0
+[2024.01.10-17.37.29:836][876]LogBlueprintUserMessages: [Anim_Notify_C_1] No actors found
+[2024.01.10-17.37.32:712][996]LogBlueprintUserMessages: [Note_Sword2_C_0] No actors found
+[2024.01.10-17.37.33:316][ 21]LogBlueprintUserMessages: [Note_Sword2_C_0] Enemy
+[2024.01.10-17.37.33:316][ 21]LogBlueprintUserMessages: [Enemy_C_2] 15.0
+[2024.01.10-17.37.33:316][ 21]LogBlueprintUserMessages: [Note_Sword2_C_0] No actors found
+[2024.01.10-17.37.36:039][135]LogBlueprintUserMessages: [BP_Brain_C_1] AddedNotify
+[2024.01.10-17.37.36:039][135]LogBlueprintUserMessages: [BP_Brain_C_1] AddedDamage
+[2024.01.10-17.37.36:039][135]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2024.01.10-17.37.36:894][171]LogBlueprintUserMessages: [BP_Brain_C_1] AddedNotify
+[2024.01.10-17.37.36:894][171]LogBlueprintUserMessages: [BP_Brain_C_1] AddedDamage
+[2024.01.10-17.37.36:894][171]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2024.01.10-17.37.37:986][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-17.37.37:986][213]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.01.10-17.37.37:986][213]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.01.10-17.37.37:987][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-17.37.37:996][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.10-17.37.38:003][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-17.37.38:024][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.10-17.37.38:024][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.10-17.37.38:024][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.10-17.37.38:026][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.10-17.37.38:033][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-17.37.38:036][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.01.10-17.37.38:095][214]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.01.10-17.39.06:738][367]LogEditorTransaction: Undo Move Node
+[2024.01.10-17.39.44:537][624]BlueprintLog: New page: Compile Note_Sword
+[2024.01.10-17.39.44:567][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.10-17.39.45:618][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.39.45:659][683]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword
+[2024.01.10-17.39.45:660][683]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword03806BCA4C38D75A6EB157BBF374E1E8.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword.uasset'
+[2024.01.10-17.39.45:665][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 795 ms)
+[2024.01.10-17.39.45:667][683]AssetCheck: New page: Asset Save: Note_Sword
+[2024.01.10-17.39.45:667][683]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword.Note_Sword
+[2024.01.10-17.40.30:988][714]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.40.31:013][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.10-17.40.31:537][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.40.31:574][742]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword2
+[2024.01.10-17.40.31:575][742]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword27922847C46471B2174FAD59532B109C9.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword2.uasset'
+[2024.01.10-17.40.31:583][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 841 ms)
+[2024.01.10-17.40.31:585][742]AssetCheck: New page: Asset Save: Note_Sword2
+[2024.01.10-17.40.31:585][742]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
+[2024.01.10-17.45.55:286][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.45.55:328][972]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword2
+[2024.01.10-17.45.55:329][972]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword2651D26134291EBBEA76642961B6A30AD.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword2.uasset'
+[2024.01.10-17.45.55:335][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 889 ms)
+[2024.01.10-17.45.55:336][972]AssetCheck: New page: Asset Save: Note_Sword2
+[2024.01.10-17.45.55:336][972]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
+[2024.01.10-17.45.55:993][ 12]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.45.56:021][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.10-17.46.02:565][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.46.02:610][400]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword2
+[2024.01.10-17.46.02:611][400]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword2327F5377404D24FA405E6E88B88C117A.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword2.uasset'
+[2024.01.10-17.46.02:616][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 942 ms)
+[2024.01.10-17.46.02:618][400]AssetCheck: New page: Asset Save: Note_Sword2
+[2024.01.10-17.46.02:618][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
+[2024.01.10-17.46.27:923][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.46.27:964][913]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword2
+[2024.01.10-17.46.27:965][913]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword24026A8924A15F8EFE685D799652EB050.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword2.uasset'
+[2024.01.10-17.46.27:970][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 988 ms)
+[2024.01.10-17.46.27:971][913]AssetCheck: New page: Asset Save: Note_Sword2
+[2024.01.10-17.46.27:971][913]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
+[2024.01.10-17.47.42:716][279]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.47.42:720][279]LogBlueprint: Error: [AssetLog] C:\Users\giant\Desktop\Work\Github_Reps\UE_FG\UE_Fighting_Game\FightingGame\Content\Blueprints\PaperZD\Player\Note_Sword2.uasset: [Compiler] This blueprint (self) is not a PaperZDAnimInstance, therefore ' Target ' must have a connection.
+[2024.01.10-17.47.42:745][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.10-17.48.27:411][942]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.01.10-17.48.34:604][365]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.01.10-17.48.52:115][403]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.48.52:144][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.10-17.49.30:277][491]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.49.30:304][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.10-17.49.50:564][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.49.50:607][698]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword2
+[2024.01.10-17.49.50:608][698]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword263589F0A4C88CF0841BD31B0C221DB5D.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword2.uasset'
+[2024.01.10-17.49.50:614][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.03 sec)
+[2024.01.10-17.49.50:615][698]AssetCheck: New page: Asset Save: Note_Sword2
+[2024.01.10-17.49.50:615][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
+[2024.01.10-17.49.51:202][732]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.10-17.49.51:203][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-17.49.55:987][ 15]BlueprintLog: New page: Compile PZD_Player
+[2024.01.10-17.49.56:038][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.10-17.49.56:524][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.10-17.50.10:553][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
+[2024.01.10-17.50.10:553][533]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-17.50.10:553][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-17.50.13:070][673]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.50.13:099][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.10-17.50.18:923][ 20]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.50.18:955][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.10-17.51.31:056][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.51.31:096][269]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword2
+[2024.01.10-17.51.31:097][269]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword28965D8AB44E51F0A453C76B171315C56.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword2.uasset'
+[2024.01.10-17.51.31:103][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.08 sec)
+[2024.01.10-17.51.31:105][269]AssetCheck: New page: Asset Save: Note_Sword2
+[2024.01.10-17.51.31:105][269]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
+[2024.01.10-17.51.37:929][679]BlueprintLog: New page: Compile Note_Sword2
+[2024.01.10-17.51.37:960][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.10-17.51.45:158][893]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.10-17.51.45:173][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.10-17.51.45:173][893]PIE: New page: PIE session: Testing_Area (10 Jan 2024, 17:51:45)
+[2024.01.10-17.51.45:173][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.01.10-17.51.45:175][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001715s)
+[2024.01.10-17.51.45:175][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001757s)
+[2024.01.10-17.51.45:197][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.10-17.51.45:199][893]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-17.51.45:199][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-17.51.45:200][893]LogAIModule: Creating AISystem for world Testing_Area
+[2024.01.10-17.51.45:200][893]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2024.01.10-17.51.45:200][893]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.01.10-17.51.45:200][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.10-17.51.45:200][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.10-17.51.45:200][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.10-17.51.45:200][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.10-17.51.45:200][893]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.10-17.51.45:200][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.10-17.51.45:200][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.10-17.51.45:200][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.10-17.51.45:201][893]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.10-17.51.45:201][893]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.10-17.51.45:201][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.10-17.51.45:204][893]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.10-17.51.45:311][893]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.10-17.51.45:311][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.10-17.51.45:311][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.10-17.51.45:311][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.10-17.51.45:312][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.01.10-17.51.45:312][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.01.10-17.51.45:314][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.01.10-17.51.45:314][893]LogInit: FAudioDevice initialized with ID 8.
+[2024.01.10-17.51.45:314][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.01.10-17.51.45:314][893]LogAudio: Display: Audio Device (ID: 8) registered with world 'Testing_Area'.
+[2024.01.10-17.51.45:314][893]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.10-17.51.45:316][893]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.01.10-17.51.45:318][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.01.10-17.51.45
+[2024.01.10-17.51.45:318][893]LogWorld: Bringing up level for play took: 0.002026
+[2024.01.10-17.51.45:321][893]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.01.10-17.51.45:322][893]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.01.10-17.51.45:323][893]PIE: Server logged in
+[2024.01.10-17.51.45:324][893]PIE: Play in editor total start time 0.151 seconds.
+[2024.01.10-17.51.47:337][969]LogBlueprintUserMessages: [Note_Sword2_C_0] Enemy
+[2024.01.10-17.51.47:338][969]LogBlueprintUserMessages: [Enemy_C_2] 15.0
+[2024.01.10-17.51.47:338][969]LogBlueprintUserMessages: [Note_Sword2_C_0] No actors found
+[2024.01.10-17.51.48:833][ 31]LogBlueprintUserMessages: [BP_Brain_C_1] AddedNotify
+[2024.01.10-17.51.48:833][ 31]LogBlueprintUserMessages: [BP_Brain_C_1] AddedDamage
+[2024.01.10-17.51.48:833][ 31]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2024.01.10-17.51.50:145][ 85]LogBlueprintUserMessages: [BP_Brain_C_1] AddedNotify
+[2024.01.10-17.51.50:145][ 85]LogBlueprintUserMessages: [BP_Brain_C_1] AddedDamage
+[2024.01.10-17.51.50:145][ 85]LogBlueprintUserMessages: [Anim_Notify2_C_0] Enemy
+[2024.01.10-17.51.50:145][ 85]LogBlueprintUserMessages: [Enemy_C_2] 10.0
+[2024.01.10-17.51.50:145][ 85]LogBlueprintUserMessages: [Anim_Notify2_C_0] No actors found
+[2024.01.10-17.51.50:193][ 87]LogBlueprintUserMessages: [Enemy_C_2] 90.0
+[2024.01.10-17.51.52:047][163]LogBlueprintUserMessages: [Note_Sword2_C_0] Enemy
+[2024.01.10-17.51.52:048][163]LogBlueprintUserMessages: [Enemy_C_2] 15.0
+[2024.01.10-17.51.52:048][163]LogBlueprintUserMessages: [Note_Sword2_C_0] No actors found
+[2024.01.10-17.51.52:071][164]LogBlueprintUserMessages: [Enemy_C_2] 80.0
+[2024.01.10-17.51.52:884][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-17.51.52:884][196]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.01.10-17.51.52:885][196]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.01.10-17.51.52:885][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-17.51.52:889][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.10-17.51.52:894][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-17.51.52:909][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.10-17.51.52:909][196]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.10-17.51.52:909][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.10-17.51.52:911][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.10-17.51.52:920][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.10-17.51.52:972][197]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.01.10-17.56.25:338][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.56.25:380][594]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Sword2
+[2024.01.10-17.56.25:381][594]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Sword23CEB7C2B443668BC7FF34686A0E2CE4A.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Sword2.uasset'
+[2024.01.10-17.56.25:387][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.13 sec)
+[2024.01.10-17.56.25:388][594]AssetCheck: New page: Asset Save: Note_Sword2
+[2024.01.10-17.56.25:388][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Sword2.Note_Sword2
