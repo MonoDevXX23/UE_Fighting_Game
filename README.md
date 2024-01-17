@@ -41,7 +41,8 @@
 <h2>Images</h2>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/8f8de914-5746-417f-a948-08bec53a3936)
-<figcaption>Basic stage</figcaption><br>
+<figcaption>Basic stage</figcaption>
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/a7d5ccb8-56c8-46ab-b4b5-3c4da9e887cc)
 <figcaption>Player animation Graph</figcaption>
