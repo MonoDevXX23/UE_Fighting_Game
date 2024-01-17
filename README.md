@@ -38,7 +38,7 @@
 
 <br>
 
-<h3>Images</h3>
+<h2>Images</h2>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/8f8de914-5746-417f-a948-08bec53a3936)
 
