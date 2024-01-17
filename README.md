@@ -42,29 +42,32 @@
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/8f8de914-5746-417f-a948-08bec53a3936)
 <figcaption>Basic stage</figcaption>
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/a7d5ccb8-56c8-46ab-b4b5-3c4da9e887cc)
-
 <figcaption>Player animation Graph</figcaption>
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/3530776a-af96-489e-8b8e-ab4f1e96bace)<br>
 <figcaption>Player attack animation 1</figcaption>
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/c3a2c6d5-84f1-4059-8bdd-34a459f7ab24)<br>
 <figcaption>Player attack animation 2</figcaption>
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/dec00eb2-8245-4414-b595-a5b417587e44)
 <figcaption>Enemy actor</figcaption>
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/40d3b54a-027a-4752-b4ea-ed3fc2ee15ae)
 <figcaption>Movement Update - Enemy</figcaption>
-
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/bec05365-7fe9-4817-9d61-ca2d6116432c)
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/e6a0960a-1da3-4433-a1c5-a4cd339ae3c3)
 <figcaption>Creating Box collider and Checks - Enemy</figcaption>
-
-
+<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/6c8e56dc-d626-4b58-a811-67b6e9267c7a)
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/c3c204b1-4814-4493-9ada-b1e9d7c6ea08)
