@@ -10,45 +10,26 @@
   <li>Set up Github repo</li>
   <li>Added assets to the project</li>
   <li>Created the stage</li>
-</ul>
-<ul>
   <li>Looked for character assets</li>
   <li>Placed stage into viewport</li>
   <li>Found and recorded minor bug</li>
   <li>Reorganised Trello board and updated tasks</li>
-</ul>
-<ul>
   <li>Created some animations</li>
   <li>Keybinded movement and combat keys</li>
   <li>Planned for Combat system</li>
-</ul>
-
-<ul>
   <li>Converted to PaperZD and redid some animations</li>
-</ul>
-
-<ul>
   <li>Created animations of Enemy pawn</li>
   <li>Made Ai walk back and forth over certain distance</li>
-</ul>
-<ul>
   <li>Continued AI</li>
   <li>Fixed collision bug</li>
   <li>Worked with hit detection</li>
-</ul>
-
-<ul>
   <li>Damage can now be applied to both player and enemy</li>
   <li>Both enemy and player have death animations</li>
   <li>Hit dectection for both player and enemy are now working</li>
-</ul>
-<ul>
   <li>Reorganised some folders and branches ready for the next system</li>
   <li>Created, implemented charge attack (but no damage calculation)</li>
   <li>Implemented a simple spawner for enemies</li>
   <li>Blueprint cleanup</li>
-</ul>
-<ul>
   <li>Started on the UI for the player, implementing a healthbar</li>
   <li>Improved the player and enemy launch when receiving damage: Player and Enemy will now launch in the opposite direction of where each other is facing.</li>
   <li>Minor bug fixing for the enemy attack, making it only apply damage once per attack.</li>
