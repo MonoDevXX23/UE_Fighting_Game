@@ -73,6 +73,10 @@
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/c3c204b1-4814-4493-9ada-b1e9d7c6ea08)
 <figcaption>Charge Attack - Player</figcaption>
 
+<h2>January/February - 2024 </h2>
 
-
-
+<h3>Tasks</h3>
+<ul>
+  <li>Upgrade System (Ongoing)</li>
+  <li>User Interface (Ongoing)</li>
+</ul>
