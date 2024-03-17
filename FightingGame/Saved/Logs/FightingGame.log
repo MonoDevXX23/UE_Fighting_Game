@@ -3033,3 +3033,632 @@ UnknownFunction []
 [2024.03.17-11.09.49:316][885]AssetCheck: New page: Asset Save: multiple assets
 [2024.03.17-11.09.49:316][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Spawner.AI_Spawner
 [2024.03.17-11.09.49:316][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch
+[2024.03.17-11.12.32:036][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.17-11.12.32:041][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.12.32:088][ 43]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Punch
+[2024.03.17-11.12.32:088][ 43]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Punch694E7497459A75A8AEBC7C9757DE086C.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Punch.uasset'
+[2024.03.17-11.12.32:095][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 685 ms)
+[2024.03.17-11.12.32:096][ 43]AssetCheck: New page: Asset Save: Note_Punch
+[2024.03.17-11.12.32:096][ 43]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch
+[2024.03.17-11.13.18:491][556]LogEditorTransaction: Undo Move Node
+[2024.03.17-11.13.20:651][674]LogEditorTransaction: Undo Move Node
+[2024.03.17-11.13.47:439][218]BlueprintLog: New page: Compile Note_Punch
+[2024.03.17-11.13.47:470][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.17-11.13.52:792][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-11.13.52:803][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-11.13.52:804][506]PIE: New page: PIE session: Testing_Area (17 Mar 2024, 11:13:52)
+[2024.03.17-11.13.52:804][506]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.13.52:805][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001465s)
+[2024.03.17-11.13.52:805][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001515s)
+[2024.03.17-11.13.52:823][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.17-11.13.52:826][506]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.13.52:826][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.13.52:826][506]LogAIModule: Creating AISystem for world Testing_Area
+[2024.03.17-11.13.52:827][506]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2024.03.17-11.13.52:827][506]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.03.17-11.13.52:827][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-11.13.52:827][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-11.13.52:827][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-11.13.52:827][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-11.13.52:827][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-11.13.52:827][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-11.13.52:827][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-11.13.52:827][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-11.13.52:827][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-11.13.52:827][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-11.13.52:827][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-11.13.52:830][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-11.13.52:937][506]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.17-11.13.52:937][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-11.13.52:937][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-11.13.52:937][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-11.13.52:938][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.03.17-11.13.52:938][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.03.17-11.13.52:939][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.03.17-11.13.52:940][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.03.17-11.13.52:940][506]LogInit: FAudioDevice initialized with ID 19.
+[2024.03.17-11.13.52:940][506]LogAudio: Display: Audio Device (ID: 19) registered with world 'Testing_Area'.
+[2024.03.17-11.13.52:940][506]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.17-11.13.52:941][506]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.03.17-11.13.52:944][506]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.03.17-11.13.52
+[2024.03.17-11.13.52:944][506]LogWorld: Bringing up level for play took: 0.001991
+[2024.03.17-11.13.52:946][506]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.03.17-11.13.52:949][506]PIE: Server logged in
+[2024.03.17-11.13.52:950][506]PIE: Play in editor total start time 0.147 seconds.
+[2024.03.17-11.13.55:293][600]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.13.57:806][703]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.13.58:814][745]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.13.59:506][774]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.00:172][802]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.00:316][808]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.14.00:317][808]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.02:823][913]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.03:096][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.14.03:096][923]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.14.03:096][923]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.14.03:096][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.14.03:124][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-11.14.03:129][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.14.03:145][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.14.03:145][923]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.03.17-11.14.03:145][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.17-11.14.03:147][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.03.17-11.14.03:156][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.17-11.14.03:212][924]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.03.17-11.14.05:294][996]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-11.14.05:310][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-11.14.05:310][996]PIE: New page: PIE session: Testing_Area (17 Mar 2024, 11:14:05)
+[2024.03.17-11.14.05:310][996]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.14.05:314][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003230s)
+[2024.03.17-11.14.05:314][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.003301s)
+[2024.03.17-11.14.05:335][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.17-11.14.05:337][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.14.05:338][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.14.05:338][996]LogAIModule: Creating AISystem for world Testing_Area
+[2024.03.17-11.14.05:339][996]LogPlayLevel: PIE: World Init took: (0.001651s)
+[2024.03.17-11.14.05:339][996]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.03.17-11.14.05:339][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-11.14.05:339][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-11.14.05:339][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-11.14.05:339][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-11.14.05:339][996]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-11.14.05:339][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-11.14.05:339][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-11.14.05:339][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-11.14.05:340][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-11.14.05:340][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-11.14.05:340][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-11.14.05:344][996]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-11.14.05:452][996]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.17-11.14.05:453][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-11.14.05:453][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-11.14.05:453][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-11.14.05:453][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.03.17-11.14.05:453][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.03.17-11.14.05:455][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.03.17-11.14.05:455][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.03.17-11.14.05:455][996]LogInit: FAudioDevice initialized with ID 20.
+[2024.03.17-11.14.05:455][996]LogAudio: Display: Audio Device (ID: 20) registered with world 'Testing_Area'.
+[2024.03.17-11.14.05:455][996]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.17-11.14.05:457][996]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.03.17-11.14.05:458][996]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.03.17-11.14.05
+[2024.03.17-11.14.05:458][996]LogWorld: Bringing up level for play took: 0.001456
+[2024.03.17-11.14.05:461][996]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.17-11.14.05:463][996]PIE: Server logged in
+[2024.03.17-11.14.05:464][996]PIE: Play in editor total start time 0.154 seconds.
+[2024.03.17-11.14.07:788][ 89]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.14.08:815][132]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.09:506][161]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.10:292][194]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.10:339][196]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.14.10:410][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch_C:ExecuteUbergraph_Note_Punch'!
+[2024.03.17-11.14.10:410][199]LogScript: Warning: Script Msg called by: Note_Punch_C /Game/Blueprints/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2:Anim_Notify_C_1
+[2024.03.17-11.14.11:615][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.14.11:615][248]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.14.11:615][248]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.14.11:615][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.14.11:620][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-11.14.11:626][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.14.11:643][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.14.11:643][248]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.03.17-11.14.11:643][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.17-11.14.11:645][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.03.17-11.14.11:654][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.17-11.14.11:710][249]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.17-11.14.13:379][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-11.14.13:393][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-11.14.13:393][306]PIE: New page: PIE session: Testing_Area (17 Mar 2024, 11:14:13)
+[2024.03.17-11.14.13:393][306]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.14.13:395][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2024.03.17-11.14.13:395][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001938s)
+[2024.03.17-11.14.13:420][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.17-11.14.13:422][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.14.13:422][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.14.13:423][306]LogAIModule: Creating AISystem for world Testing_Area
+[2024.03.17-11.14.13:423][306]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2024.03.17-11.14.13:423][306]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.03.17-11.14.13:423][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-11.14.13:423][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-11.14.13:423][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-11.14.13:423][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-11.14.13:423][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-11.14.13:423][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-11.14.13:423][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-11.14.13:423][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-11.14.13:424][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-11.14.13:424][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-11.14.13:424][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-11.14.13:428][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-11.14.13:534][306]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.17-11.14.13:534][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-11.14.13:534][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-11.14.13:534][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-11.14.13:534][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.03.17-11.14.13:534][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.03.17-11.14.13:536][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.03.17-11.14.13:537][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.03.17-11.14.13:537][306]LogInit: FAudioDevice initialized with ID 21.
+[2024.03.17-11.14.13:537][306]LogAudio: Display: Audio Device (ID: 21) registered with world 'Testing_Area'.
+[2024.03.17-11.14.13:537][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.17-11.14.13:538][306]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.03.17-11.14.13:541][306]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.03.17-11.14.13
+[2024.03.17-11.14.13:541][306]LogWorld: Bringing up level for play took: 0.002083
+[2024.03.17-11.14.13:543][306]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.17-11.14.13:546][306]PIE: Server logged in
+[2024.03.17-11.14.13:547][306]PIE: Play in editor total start time 0.153 seconds.
+[2024.03.17-11.14.15:875][401]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.14.17:263][459]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.18:316][501]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.18:388][504]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.19:127][535]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 0 (Found bundle for host: 0x99551950180 [serially])
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 6 (Closing connection)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C5452D-4687-FEA9-F492-DE8C1BF719FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ebe905940cca263928fdf9fbee954df%7C7215e8c196f74a129128ec38bc685c28%7C4ff12869-c186-46db-b82e-c19a7debf2df&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 9 (  Trying 34.227.241.117:443...)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.227.241.117) port 443)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 34 (Closing connection)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: 00000995CE846900: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-11.14.20:125][577]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C5452D-4687-FEA9-F492-DE8C1BF719FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ebe905940cca263928fdf9fbee954df%7C7215e8c196f74a129128ec38bc685c28%7C4ff12869-c186-46db-b82e-c19a7debf2df&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-11.14.20:889][609]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.23:411][715]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.23:792][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch_C:ExecuteUbergraph_Note_Punch'!
+[2024.03.17-11.14.23:792][731]LogScript: Warning: Script Msg called by: Note_Punch_C /Game/Blueprints/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2:Anim_Notify_C_1
+[2024.03.17-11.14.25:767][814]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch_C:ExecuteUbergraph_Note_Punch'!
+[2024.03.17-11.14.25:767][814]LogScript: Warning: Script Msg called by: Note_Punch_C /Game/Blueprints/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2:Anim_Notify_C_1
+[2024.03.17-11.14.25:933][821]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.26:960][864]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch_C:ExecuteUbergraph_Note_Punch'!
+[2024.03.17-11.14.26:960][864]LogScript: Warning: Script Msg called by: Note_Punch_C /Game/Blueprints/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2:Anim_Notify_C_1
+[2024.03.17-11.14.27:627][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch_C:ExecuteUbergraph_Note_Punch'!
+[2024.03.17-11.14.27:627][892]LogScript: Warning: Script Msg called by: Note_Punch_C /Game/Blueprints/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2:Anim_Notify_C_1
+[2024.03.17-11.14.28:292][919]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch_C:ExecuteUbergraph_Note_Punch'!
+[2024.03.17-11.14.28:292][919]LogScript: Warning: Script Msg called by: Note_Punch_C /Game/Blueprints/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2:Anim_Notify_C_1
+[2024.03.17-11.14.28:448][925]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.30:959][ 30]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.31:926][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.14.31:926][ 70]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.14.31:926][ 70]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.14.31:926][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.14.31:932][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-11.14.31:937][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.14.31:954][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.14.31:954][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.03.17-11.14.31:954][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.17-11.14.31:956][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.03.17-11.14.31:965][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.17-11.14.32:012][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.17-11.14.49:202][ 46]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-11.14.49:215][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-11.14.49:215][ 46]PIE: New page: PIE session: Testing_Area (17 Mar 2024, 11:14:49)
+[2024.03.17-11.14.49:215][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.14.49:216][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001391s)
+[2024.03.17-11.14.49:216][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001418s)
+[2024.03.17-11.14.49:233][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.17-11.14.49:234][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.14.49:234][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.14.49:235][ 46]LogAIModule: Creating AISystem for world Testing_Area
+[2024.03.17-11.14.49:235][ 46]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2024.03.17-11.14.49:235][ 46]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.17-11.14.49:235][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-11.14.49:235][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-11.14.49:235][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-11.14.49:235][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-11.14.49:235][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-11.14.49:235][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-11.14.49:235][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-11.14.49:235][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-11.14.49:236][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-11.14.49:236][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-11.14.49:236][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-11.14.49:238][ 46]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-11.14.49:345][ 46]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.17-11.14.49:346][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-11.14.49:346][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-11.14.49:346][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-11.14.49:346][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.17-11.14.49:347][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.03.17-11.14.49:348][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.17-11.14.49:348][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.17-11.14.49:348][ 46]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.17-11.14.49:348][ 46]LogAudio: Display: Audio Device (ID: 22) registered with world 'Testing_Area'.
+[2024.03.17-11.14.49:348][ 46]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.17-11.14.49:350][ 46]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.03.17-11.14.49:353][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.03.17-11.14.49
+[2024.03.17-11.14.49:353][ 46]LogWorld: Bringing up level for play took: 0.002347
+[2024.03.17-11.14.49:356][ 46]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.03.17-11.14.49:359][ 46]PIE: Server logged in
+[2024.03.17-11.14.49:360][ 46]PIE: Play in editor total start time 0.145 seconds.
+[2024.03.17-11.14.51:699][139]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.14.52:791][185]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.53:715][224]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.14.54:212][245]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.54:543][259]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.14.55:110][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch_C:ExecuteUbergraph_Note_Punch'!
+[2024.03.17-11.14.55:110][283]LogScript: Warning: Script Msg called by: Note_Punch_C /Game/Blueprints/PaperZD/Player/AnimSequences/AS_Attack2.AS_Attack2:Anim_Notify_C_1
+[2024.03.17-11.14.56:723][351]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.14.59:234][457]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.15.02:223][576]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.15.04:729][682]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.15.07:235][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.15.09:745][894]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.15.10:791][937]LogBlueprintUserMessages: [Anim_Notify_C_1] 80.0
+[2024.03.17-11.15.10:947][943]LogBlueprintUserMessages: [Anim_Notify_C_1] 85.0
+[2024.03.17-11.15.11:076][948]LogBlueprintUserMessages: [Anim_Notify_C_1] 90.0
+[2024.03.17-11.15.11:208][953]LogBlueprintUserMessages: [Anim_Notify_C_1] 95.0
+[2024.03.17-11.15.11:357][959]LogBlueprintUserMessages: [Anim_Notify_C_1] 100.0
+[2024.03.17-11.15.11:643][971]LogBlueprintUserMessages: [Anim_Notify_C_1] 105.0
+[2024.03.17-11.15.11:691][973]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.15.12:265][997]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.15.13:816][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.15.13:816][ 60]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.15.13:816][ 60]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.15.13:817][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.15.13:842][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-11.15.13:847][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.15.13:863][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.15.13:863][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.17-11.15.13:863][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.17-11.15.13:865][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.17-11.15.13:874][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.17-11.15.13:921][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.03.17-11.16.16:059][719]BlueprintLog: New page: Compile Note_Punch
+[2024.03.17-11.16.16:089][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.17-11.16.17:465][773]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-11.16.17:477][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-11.16.17:477][773]PIE: New page: PIE session: Testing_Area (17 Mar 2024, 11:16:17)
+[2024.03.17-11.16.17:477][773]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.16.17:479][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001353s)
+[2024.03.17-11.16.17:479][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001379s)
+[2024.03.17-11.16.17:496][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.17-11.16.17:498][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.16.17:499][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.16.17:499][773]LogAIModule: Creating AISystem for world Testing_Area
+[2024.03.17-11.16.17:499][773]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2024.03.17-11.16.17:499][773]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.17-11.16.17:499][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-11.16.17:499][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-11.16.17:499][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-11.16.17:499][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-11.16.17:499][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-11.16.17:499][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-11.16.17:499][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-11.16.17:499][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-11.16.17:500][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-11.16.17:500][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-11.16.17:500][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-11.16.17:502][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-11.16.17:609][773]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.17-11.16.17:609][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-11.16.17:609][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-11.16.17:609][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-11.16.17:609][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.17-11.16.17:609][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.17-11.16.17:611][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.17-11.16.17:611][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.17-11.16.17:611][773]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.17-11.16.17:611][773]LogAudio: Display: Audio Device (ID: 23) registered with world 'Testing_Area'.
+[2024.03.17-11.16.17:611][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.17-11.16.17:613][773]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.03.17-11.16.17:614][773]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.03.17-11.16.17
+[2024.03.17-11.16.17:615][773]LogWorld: Bringing up level for play took: 0.001655
+[2024.03.17-11.16.17:617][773]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.03.17-11.16.17:620][773]PIE: Server logged in
+[2024.03.17-11.16.17:621][773]PIE: Play in editor total start time 0.144 seconds.
+[2024.03.17-11.16.19:973][869]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.16.20:499][891]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.16.21:164][919]LogBlueprintUserMessages: [Anim_Notify_C_1] Widget not available
+[2024.03.17-11.16.21:332][926]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.16.22:496][975]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.16.25:017][ 79]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.16.26:787][152]LogBlueprintUserMessages: [Anim_Notify_C_1] 110.0
+[2024.03.17-11.16.26:932][158]LogBlueprintUserMessages: [Anim_Notify_C_1] 115.0
+[2024.03.17-11.16.27:050][163]LogBlueprintUserMessages: [Anim_Notify_C_1] 120.0
+[2024.03.17-11.16.27:288][173]LogBlueprintUserMessages: [Anim_Notify_C_1] 125.0
+[2024.03.17-11.16.27:337][175]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.16.27:530][183]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.16.28:446][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.16.28:446][220]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.16.28:446][220]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.16.28:447][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.16.28:476][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-11.16.28:482][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.16.28:497][220]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.17-11.16.28:497][220]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.17-11.16.28:497][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.17-11.16.28:499][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.17-11.16.28:505][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.16.28:508][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.17-11.16.28:557][221]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.03.17-11.17.00:771][ 99]BlueprintLog: New page: Compile Note_Punch
+[2024.03.17-11.17.00:805][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.03.17-11.17.03:717][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.03.17-11.17.03:723][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.17.03:767][265]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Punch
+[2024.03.17-11.17.03:768][265]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Punch1D46AFD7416E56F7DBFDFE888452D48B.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Punch.uasset'
+[2024.03.17-11.17.03:773][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 735 ms)
+[2024.03.17-11.17.03:774][265]AssetCheck: New page: Asset Save: Note_Punch
+[2024.03.17-11.17.03:774][265]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch
+[2024.03.17-11.17.52:571][105]BlueprintLog: New page: Compile AI_Spawner
+[2024.03.17-11.17.52:630][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.17-11.18.14:241][384]BlueprintLog: New page: Compile Note_Punch
+[2024.03.17-11.18.14:279][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.17-11.18.16:338][478]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-11.18.16:358][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-11.18.16:358][478]PIE: New page: PIE session: Testing_Area (17 Mar 2024, 11:18:16)
+[2024.03.17-11.18.16:358][478]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.18.16:360][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002282s)
+[2024.03.17-11.18.16:361][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.002358s)
+[2024.03.17-11.18.16:386][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.03.17-11.18.16:392][478]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.18.16:392][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.18.16:392][478]LogAIModule: Creating AISystem for world Testing_Area
+[2024.03.17-11.18.16:393][478]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2024.03.17-11.18.16:393][478]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.17-11.18.16:393][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-11.18.16:393][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-11.18.16:393][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-11.18.16:393][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-11.18.16:393][478]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-11.18.16:393][478]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-11.18.16:393][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-11.18.16:393][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-11.18.16:394][478]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-11.18.16:394][478]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-11.18.16:394][478]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-11.18.16:396][478]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-11.18.16:507][478]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.17-11.18.16:507][478]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-11.18.16:507][478]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-11.18.16:507][478]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-11.18.16:508][478]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.17-11.18.16:508][478]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.03.17-11.18.16:510][478]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.17-11.18.16:510][478]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.17-11.18.16:510][478]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.17-11.18.16:510][478]LogAudio: Display: Audio Device (ID: 24) registered with world 'Testing_Area'.
+[2024.03.17-11.18.16:510][478]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.17-11.18.16:512][478]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.03.17-11.18.16:514][478]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.03.17-11.18.16
+[2024.03.17-11.18.16:514][478]LogWorld: Bringing up level for play took: 0.001976
+[2024.03.17-11.18.16:516][478]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.03.17-11.18.16:520][478]PIE: Server logged in
+[2024.03.17-11.18.16:521][478]PIE: Play in editor total start time 0.164 seconds.
+[2024.03.17-11.18.18:826][565]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 0 (Found bundle for host: 0x99551950690 [serially])
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 6 (Closing connection)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C5452D-4687-FEA9-F492-DE8C1BF719FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ebe905940cca263928fdf9fbee954df%7C7215e8c196f74a129128ec38bc685c28%7C4ff12869-c186-46db-b82e-c19a7debf2df&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 9 (  Trying 3.95.75.107:443...)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.95.75.107) port 443)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 25 (Server certificate:)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 34 (Closing connection)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: 00000995B3D35500: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-11.18.20:171][617]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3C5452D-4687-FEA9-F492-DE8C1BF719FF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=3ebe905940cca263928fdf9fbee954df%7C7215e8c196f74a129128ec38bc685c28%7C4ff12869-c186-46db-b82e-c19a7debf2df&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-11.18.20:687][637]LogBlueprintUserMessages: [AI_Spawner_C_2] no more enemies left
+[2024.03.17-11.18.21:355][662]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.18.22:035][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.18.22:035][686]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.18.22:035][686]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.18.22:035][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.18.22:068][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-11.18.22:077][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.18.22:099][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.18.22:099][686]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.17-11.18.22:099][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.17-11.18.22:101][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.17-11.18.22:112][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.03.17-11.18.22:178][687]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.03.17-11.18.24:395][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.17-11.18.24:400][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.18.24:422][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawner" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset" SILENT=true
+[2024.03.17-11.18.24:439][766]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Spawner
+[2024.03.17-11.18.24:439][766]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AI_SpawnerF0F589114FCE2528B012B18E92FE89F6.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset'
+[2024.03.17-11.18.24:462][766]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Punch
+[2024.03.17-11.18.24:462][766]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Punch145DE705428FA7074EAF449A22EEEDE7.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Punch.uasset'
+[2024.03.17-11.18.24:470][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 804 ms)
+[2024.03.17-11.18.24:470][766]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.17-11.18.24:470][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Spawner.AI_Spawner
+[2024.03.17-11.18.24:470][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch
+[2024.03.17-11.19.03:539][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.17-11.19.03:541][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.020
+[2024.03.17-11.19.03:541][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PaperZD/Player/Note_Punch] ([2] browsable assets)...
+[2024.03.17-11.19.03:541][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PaperZD/Player/Note_Punch]
+[2024.03.17-11.19.03:559][ 99]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/PaperZD/Player/Note_Punch_Auto3
+[2024.03.17-11.19.03:560][ 99]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Punch_Auto3FA15446A4215E54AC2960FA5EE7CC5EF.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Blueprints/PaperZD/Player/Note_Punch_Auto3.uasset'
+[2024.03.17-11.19.03:563][ 99]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.03.17-11.20.45:455][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.17-11.20.45:459][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.20.45:502][943]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Player/Note_Punch
+[2024.03.17-11.20.45:503][943]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Note_Punch33EED3D749E1BEDC21D454891BE3F7E2.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Player/Note_Punch.uasset'
+[2024.03.17-11.20.45:509][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 853 ms)
+[2024.03.17-11.20.45:510][943]AssetCheck: New page: Asset Save: Note_Punch
+[2024.03.17-11.20.45:510][943]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Player/Note_Punch.Note_Punch
+[2024.03.17-11.20.52:472][247]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PaperZD/Enemy/Enemy.Enemy
+[2024.03.17-11.20.52:473][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.20.52:473][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.20.52:851][247]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.17-11.21.12:840][437]LogDerivedDataCache: C:/Users/giant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 437 files in 805 folders with total size 3 MiB.
+[2024.03.17-11.23.23:658][275]BlueprintLog: New page: Compile Enemy
+[2024.03.17-11.23.23:723][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.17-11.23.24:324][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.17-11.23.24:329][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.23.24:401][294]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Enemy/Enemy
+[2024.03.17-11.23.24:402][294]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Enemy0FA613094314300ADF0103A925C98551.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Enemy/Enemy.uasset'
+[2024.03.17-11.23.24:410][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 934 ms)
+[2024.03.17-11.23.24:413][294]AssetCheck: New page: Asset Save: Enemy
+[2024.03.17-11.23.24:413][294]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Enemy/Enemy.Enemy
+[2024.03.17-11.23.26:642][380]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.17-11.23.26:656][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.17-11.23.26:656][380]PIE: New page: PIE session: Testing_Area (17 Mar 2024, 11:23:26)
+[2024.03.17-11.23.26:656][380]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.23.26:658][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001676s)
+[2024.03.17-11.23.26:658][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.001712s)
+[2024.03.17-11.23.26:682][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.17-11.23.26:683][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.17-11.23.26:683][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.23.26:684][380]LogAIModule: Creating AISystem for world Testing_Area
+[2024.03.17-11.23.26:684][380]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2024.03.17-11.23.26:684][380]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.03.17-11.23.26:684][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.17-11.23.26:684][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.17-11.23.26:684][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.17-11.23.26:684][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.17-11.23.26:684][380]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.17-11.23.26:684][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.17-11.23.26:684][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.17-11.23.26:685][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.17-11.23.26:685][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.17-11.23.26:686][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.17-11.23.26:686][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.17-11.23.26:690][380]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.17-11.23.26:792][380]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.17-11.23.26:793][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.17-11.23.26:793][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.17-11.23.26:793][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.17-11.23.26:793][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.03.17-11.23.26:793][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.03.17-11.23.26:795][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.03.17-11.23.26:795][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.03.17-11.23.26:795][380]LogInit: FAudioDevice initialized with ID 25.
+[2024.03.17-11.23.26:795][380]LogAudio: Display: Audio Device (ID: 25) registered with world 'Testing_Area'.
+[2024.03.17-11.23.26:795][380]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.17-11.23.26:797][380]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.03.17-11.23.26:799][380]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.03.17-11.23.26
+[2024.03.17-11.23.26:799][380]LogWorld: Bringing up level for play took: 0.001867
+[2024.03.17-11.23.26:802][380]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.03.17-11.23.26:805][380]PIE: Server logged in
+[2024.03.17-11.23.26:805][380]PIE: Play in editor total start time 0.15 seconds.
+[2024.03.17-11.23.29:121][473]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.03.17-11.23.31:643][579]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=716.290 Y=1.419 Z=-439.500] for [Enemy_C]
+[2024.03.17-11.23.32:456][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.23.32:456][612]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.03.17-11.23.32:456][612]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.23.32:456][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.23.32:470][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.17-11.23.32:476][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.23.32:495][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.17-11.23.32:496][612]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.17-11.23.32:496][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.17-11.23.32:497][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.17-11.23.32:506][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.03.17-11.23.32:560][613]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.17-11.23.37:598][862]BlueprintLog: New page: Compile Enemy
+[2024.03.17-11.23.37:646][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.17-11.23.57:401][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.17-11.23.57:405][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.23.57:468][ 20]LogSavePackage: Moving output files for package: /Game/Blueprints/PaperZD/Enemy/Enemy
+[2024.03.17-11.23.57:469][ 20]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/EnemyF07956134C628BDA2A51CBB06450CBD4.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/PaperZD/Enemy/Enemy.uasset'
+[2024.03.17-11.23.57:475][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.00 sec)
+[2024.03.17-11.23.57:476][ 20]AssetCheck: New page: Asset Save: Enemy
+[2024.03.17-11.23.57:476][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PaperZD/Enemy/Enemy.Enemy
+[2024.03.17-11.24.22:605][516]BlueprintLog: New page: Compile AI_Spawner
+[2024.03.17-11.24.22:654][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.17-11.24.29:253][903]BlueprintLog: New page: Compile AI_Spawner
+[2024.03.17-11.24.29:294][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.17-11.26.16:512][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.17-11.26.16:517][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.26.16:545][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawner" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset" SILENT=true
+[2024.03.17-11.26.16:561][310]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Spawner
+[2024.03.17-11.26.16:562][310]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AI_SpawnerFE4CD3464B2845A6D8B042B8AAC6E46F.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset'
+[2024.03.17-11.26.16:568][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.05 sec)
+[2024.03.17-11.26.16:569][310]AssetCheck: New page: Asset Save: AI_Spawner
+[2024.03.17-11.26.16:569][310]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Spawner.AI_Spawner
+[2024.03.17-11.27.19:786][ 79]LogEditorTransaction: Undo Move Node
+[2024.03.17-11.27.19:952][ 82]LogEditorTransaction: Undo Create Pin Link
+[2024.03.17-11.27.20:111][ 84]LogEditorTransaction: Undo Move Node
+[2024.03.17-11.27.20:745][114]LogEditorTransaction: Undo Break Pin Links
+[2024.03.17-11.27.20:984][123]LogEditorTransaction: Undo Break Pin Links
+[2024.03.17-11.27.22:394][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.17-11.27.23:202][250]BlueprintLog: New page: Compile Note_Punch
+[2024.03.17-11.27.23:232][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.17-11.27.31:102][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.17-11.27.31:425][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
