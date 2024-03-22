@@ -93,3 +93,33 @@
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/31b2f7b7-9013-4620-ba45-263e7b90a85b)<br>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/b0fc64ed-4531-44bf-85d4-4d4f2288612a)<br>
+
+<br>
+
+<h2>March - 2024 </h2>
+
+<h3>Tasks</h3>
+<ul>
+  <li>Upgrade System (completed)</li>
+  <li>Enemy Counter (completed)</li>
+</ul>
+
+<h2>Images</h2>
+<br>
+
+<figcaption>Upgrade System - Updates</figcaption>
+
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/f957821a-3fe2-47af-8890-7bf0dd6478bf)
+
+<figcaption> Upgrade System - Widget Creator</figcaption>
+
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/3cea88de-7ab9-4e8f-b72f-4abd91f59078)
+
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/6748bdb3-bc81-4525-aaa8-dac0d85c0a95)
+
+<figcaption> Enemy Counter System </figcaption>
+
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/aea1705e-1848-4296-aaed-be7fe28a1f9e)
+
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/b1738065-1d60-4e7e-bb8b-94725f306407)
+
