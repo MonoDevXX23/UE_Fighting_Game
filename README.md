@@ -107,6 +107,10 @@
 <h2>Images</h2>
 <br>
 
+<figcaption>Widget Event Dispatcher </figcaption>
+
+![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/f117c754-a8b4-4ea6-958f-2a4338c68782)
+
 <figcaption>Upgrade System - Updates</figcaption>
 
 ![image](https://github.com/MonoDevXX23/UE_Fighting_Game/assets/141320840/f957821a-3fe2-47af-8890-7bf0dd6478bf)
