@@ -1799,3 +1799,38 @@ UnknownFunction []
 [2024.03.29-10.17.47:831][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 469 ms)
 [2024.03.29-10.17.47:832][725]AssetCheck: New page: Asset Save: AI_Spawner
 [2024.03.29-10.17.47:832][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Spawner.AI_Spawner
+[2024.03.29-10.19.02:947][725]BlueprintLog: New page: Compile AI_Spawner
+[2024.03.29-10.19.02:985][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.29-10.19.09:164][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.29-10.19.09:169][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.19.09:186][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawner" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset" SILENT=true
+[2024.03.29-10.19.09:216][932]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Spawner
+[2024.03.29-10.19.09:216][932]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AI_SpawnerC88D2B2C462CCDE168D4CCACFDC27FC9.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset'
+[2024.03.29-10.19.09:223][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 522 ms)
+[2024.03.29-10.19.09:224][932]AssetCheck: New page: Asset Save: AI_Spawner
+[2024.03.29-10.19.09:224][932]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Spawner.AI_Spawner
+[2024.03.29-10.19.45:400][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.29-10.19.45:401][ 84]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Testing_Area' took 0.013
+[2024.03.29-10.19.45:401][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI_Spawner] ([2] browsable assets)...
+[2024.03.29-10.19.45:401][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Spawner]
+[2024.03.29-10.19.45:429][ 84]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI_Spawner_Auto1
+[2024.03.29-10.19.45:430][ 84]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AI_Spawner_Auto10170F92A4A3AE0A093ED15B99F67B4FD.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Blueprints/AI_Spawner_Auto1.uasset'
+[2024.03.29-10.19.45:432][ 84]LogFileHelpers: Auto-saving content packages took 0.030
+[2024.03.29-10.20.08:315][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.29-10.20.08:319][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.20.08:342][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawner" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset" SILENT=true
+[2024.03.29-10.20.08:371][341]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Spawner
+[2024.03.29-10.20.08:372][341]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AI_Spawner578C5727436D00A2BBA8B2891CC7E029.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset'
+[2024.03.29-10.20.08:379][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 583 ms)
+[2024.03.29-10.20.08:380][341]AssetCheck: New page: Asset Save: AI_Spawner
+[2024.03.29-10.20.08:380][341]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Spawner.AI_Spawner
+[2024.03.29-10.20.19:110][983]BlueprintLog: New page: Compile AI_Spawner
+[2024.03.29-10.20.19:154][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.03.29-10.20.20:394][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.29-10.20.20:399][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-10.20.20:422][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Spawner" FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset" SILENT=true
+[2024.03.29-10.20.20:451][ 47]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Spawner
+[2024.03.29-10.20.20:452][ 47]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/AI_Spawner2C0A0B234554E2C110C0C5809D0BB90D.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Blueprints/AI_Spawner.uasset'
+[2024.03.29-10.20.20:458][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 642 ms)
+[2024.03.29-10.20.20:460][ 47]AssetCheck: New page: Asset Save: AI_Spawner
+[2024.03.29-10.20.20:460][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Spawner.AI_Spawner
