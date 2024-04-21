@@ -1162,3 +1162,1411 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.04.21-09.31.22:482][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
 [2024.04.21-09.31.22:483][  1]Running Python start-up script 'C:/Users/giant/Documents/UE/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.029269 secs
+[2024.04.21-09.31.33:260][176]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.21-09.31.37:852][349]LogLinker: Warning: Failed to load '/Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Stage_2': Can't find file.
+[2024.04.21-09.31.37:852][349]LogLinker: Warning: Failed to load '/Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Stage_2': Can't find file.
+[2024.04.21-09.31.37:852][349]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Stage_2.TM-Stage_2'
+[2024.04.21-09.31.37:867][349]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM_Stage_2.TM_Stage_2
+[2024.04.21-09.31.37:885][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.31.37:885][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.31.37:974][349]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP.TS-KP
+[2024.04.21-09.31.37:978][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.31.37:978][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.31.38:028][349]LogLinker: Warning: Failed to load '/Game/Assets/Textures/Backgrounds/Tilesets/Character_Idle_48x48_TileSet': Can't find file.
+[2024.04.21-09.31.38:028][349]LogLinker: Warning: Failed to load '/Game/Assets/Textures/Backgrounds/Tilesets/Character_Idle_48x48_TileSet': Can't find file.
+[2024.04.21-09.31.38:028][349]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/Textures/Backgrounds/Tilesets/Character_Idle_48x48_TileSet.Character_Idle_48x48_TileSet'
+[2024.04.21-09.31.38:054][349]LogSlate: Took 0.000468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.21-09.31.38:060][349]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.31.38:080][349]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.31.38:084][349]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.21-09.31.39:956][406]LogViewport: Scene viewport resized to 422x718, mode Windowed.
+[2024.04.21-09.31.39:959][406]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2024.04.21-09.31.39:988][406]LogViewport: Scene viewport resized to 1139x855, mode Windowed.
+[2024.04.21-09.31.39:991][406]LogViewport: Scene viewport resized to 759x408, mode Windowed.
+[2024.04.21-09.31.40:084][408]LogViewport: Scene viewport resized to 467x255, mode Windowed.
+[2024.04.21-09.31.40:088][408]LogViewport: Scene viewport resized to 312x108, mode Windowed.
+[2024.04.21-09.31.40:221][416]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.31.40:225][416]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.31.40:287][417]LogViewport: Scene viewport resized to 1139x855, mode Windowed.
+[2024.04.21-09.31.40:291][417]LogViewport: Scene viewport resized to 759x408, mode Windowed.
+[2024.04.21-09.31.40:363][419]LogViewport: Scene viewport resized to 505x289, mode Windowed.
+[2024.04.21-09.31.40:368][419]LogViewport: Scene viewport resized to 337x125, mode Windowed.
+[2024.04.21-09.31.40:390][420]LogViewport: Scene viewport resized to 467x255, mode Windowed.
+[2024.04.21-09.31.40:397][420]LogViewport: Scene viewport resized to 312x108, mode Windowed.
+[2024.04.21-09.31.40:585][431]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.31.40:589][431]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.31.40:997][453]LogViewport: Scene viewport resized to 1139x855, mode Windowed.
+[2024.04.21-09.31.41:000][453]LogViewport: Scene viewport resized to 759x408, mode Windowed.
+[2024.04.21-09.31.41:078][455]LogViewport: Scene viewport resized to 487x272, mode Windowed.
+[2024.04.21-09.31.41:082][455]LogViewport: Scene viewport resized to 325x117, mode Windowed.
+[2024.04.21-09.31.41:107][456]LogViewport: Scene viewport resized to 467x255, mode Windowed.
+[2024.04.21-09.31.41:114][456]LogViewport: Scene viewport resized to 312x108, mode Windowed.
+[2024.04.21-09.31.41:366][471]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.31.41:369][471]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.31.41:433][472]LogViewport: Scene viewport resized to 1139x855, mode Windowed.
+[2024.04.21-09.31.41:437][472]LogViewport: Scene viewport resized to 759x408, mode Windowed.
+[2024.04.21-09.31.41:509][474]LogViewport: Scene viewport resized to 505x288, mode Windowed.
+[2024.04.21-09.31.41:513][474]LogViewport: Scene viewport resized to 336x125, mode Windowed.
+[2024.04.21-09.31.41:535][475]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.31.41:545][475]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.31.41:731][484]LogViewport: Scene viewport resized to 1139x855, mode Windowed.
+[2024.04.21-09.31.41:735][484]LogViewport: Scene viewport resized to 759x408, mode Windowed.
+[2024.04.21-09.31.41:814][486]LogViewport: Scene viewport resized to 510x293, mode Windowed.
+[2024.04.21-09.31.41:819][486]LogViewport: Scene viewport resized to 340x127, mode Windowed.
+[2024.04.21-09.31.41:843][487]LogViewport: Scene viewport resized to 467x255, mode Windowed.
+[2024.04.21-09.31.41:850][487]LogViewport: Scene viewport resized to 312x108, mode Windowed.
+[2024.04.21-09.31.41:871][488]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.31.41:876][488]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.31.44:114][590]LogViewport: Scene viewport resized to 964x742, mode Windowed.
+[2024.04.21-09.31.44:152][590]LogViewport: Scene viewport resized to 642x352, mode Windowed.
+[2024.04.21-09.31.45:224][609]LogViewport: Scene viewport resized to 354x634, mode Windowed.
+[2024.04.21-09.31.45:262][609]LogViewport: Scene viewport resized to 984x774, mode Windowed.
+[2024.04.21-09.31.45:349][610]LogViewport: Scene viewport resized to 353x663, mode Windowed.
+[2024.04.21-09.31.45:354][610]LogViewport: Scene viewport resized to 981x804, mode Windowed.
+[2024.04.21-09.31.45:425][612]LogViewport: Scene viewport resized to 168x195, mode Windowed.
+[2024.04.21-09.31.45:429][612]LogViewport: Scene viewport resized to 489x336, mode Windowed.
+[2024.04.21-09.31.45:455][613]LogViewport: Scene viewport resized to 163x183, mode Windowed.
+[2024.04.21-09.31.45:459][613]LogViewport: Scene viewport resized to 475x324, mode Windowed.
+[2024.04.21-09.31.45:605][622]LogViewport: Scene viewport resized to 422x718, mode Windowed.
+[2024.04.21-09.31.45:609][622]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2024.04.21-09.31.46:925][667]LogViewport: Scene viewport resized to 961x772, mode Windowed.
+[2024.04.21-09.31.46:929][667]LogViewport: Scene viewport resized to 641x367, mode Windowed.
+[2024.04.21-09.31.46:998][669]LogViewport: Scene viewport resized to 467x292, mode Windowed.
+[2024.04.21-09.31.47:002][669]LogViewport: Scene viewport resized to 312x127, mode Windowed.
+[2024.04.21-09.31.47:219][682]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.31.47:222][682]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.31.47:451][696]LogSlate: Window 'TS-KP' being destroyed
+[2024.04.21-09.32.01:394][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.32.02:277][261]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.21-09.32.55:672][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.21-09.32.55:731][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.32.55:733][467]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Stage-1.Stage-1
+[2024.04.21-09.32.55:734][467]Cmd: MAP LOAD FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Stage-1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-09.32.55:734][467]LightingResults: New page: Lighting Build
+[2024.04.21-09.32.55:734][467]LoadErrors: New page: Loading map: Stage-1.umap
+[2024.04.21-09.32.55:769][467]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.32.55:769][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.32.55:770][467]MapCheck: New page: Map Check
+[2024.04.21-09.32.55:770][467]LightingResults: New page: Lighting Build
+[2024.04.21-09.32.55:773][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.32.55:775][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.21-09.32.55:776][467]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.32.55:776][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.32.55:781][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.21-09.32.55:785][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.21-09.32.55:787][467]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage-1'.
+[2024.04.21-09.32.55:787][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.32.55:787][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.32.55:788][467]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.32.55:802][467]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-09.32.55:808][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.21-09.32.55:816][467]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-09.32.55:816][467]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2024.04.21-09.33.12:736][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.33.12:736][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.33.12:742][125]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_0
+[2024.04.21-09.33.12:743][125]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_0
+[2024.04.21-09.33.13:512][157]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.33.13:512][157]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.33.13:515][157]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_1
+[2024.04.21-09.33.13:516][157]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_1
+[2024.04.21-09.33.13:708][157]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.33.13:862][158]LogViewport: Scene viewport resized to 449x167, mode Windowed.
+[2024.04.21-09.33.14:439][175]LogDerivedDataCache: C:/Users/giant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 648 files in 1183 folders with total size 11 MiB.
+[2024.04.21-09.33.17:252][248]Cmd: DELETE
+[2024.04.21-09.33.17:252][248]Cmd: ACTOR DELETE
+[2024.04.21-09.33.17:253][248]LogEditorActor: Deleted Actor: PZD_Player_C
+[2024.04.21-09.33.17:320][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.21-09.33.17:321][248]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.04.21-09.33.45:647][ 51]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.21-09.33.45:652][ 51]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.21-09.33.45:660][ 51]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.21-09.33.45:664][ 51]LogAutomationController: Ignoring very large delta of 13.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.21-09.33.45:671][ 52]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.21-09.33.47:546][119]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.04.21-09.33.47:558][119]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.21-09.33.49:057][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.21-09.33.49:913][176]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.21-09.33.49:923][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.21-09.33.49:928][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.04.21-09.33.49:933][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.21-09.33.56:856][459]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.21-09.33.56:856][459]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.21-09.34.31:445][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.34.31:530][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.21-09.34.31:537][808]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.005692 seconds
+[2024.04.21-09.34.31:541][808]LogSavePackage: Moving output files for package: /Game/Maps/Stage-1
+[2024.04.21-09.34.31:542][808]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Stage-1C78C1EEF49A7533C17E04D8CCD8F5D6A.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Stage-1.umap'
+[2024.04.21-09.34.31:552][808]LogFileHelpers: Saving map 'Stage-1' took 0.062
+[2024.04.21-09.34.31:559][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms
+[2024.04.21-09.34.31:560][808]AssetCheck: New page: Asset Save: Stage-1
+[2024.04.21-09.34.31:560][808]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Stage-1.Stage-1
+[2024.04.21-09.34.49:623][ 49]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.21-09.34.49:628][ 49]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.21-09.34.49:634][ 49]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.21-09.34.49:636][ 49]LogAutomationController: Ignoring very large delta of 8.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.21-09.34.49:641][ 50]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.21-09.34.54:327][225]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerStart
+[2024.04.21-09.34.54:337][225]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.21-09.34.55:471][268]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerStart.PlayerStart
+[2024.04.21-09.34.55:472][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.34.55:472][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.34.55:486][268]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.21-09.34.56:458][268]LogViewport: Scene viewport resized to 1147x639, mode Windowed.
+[2024.04.21-09.35.02:959][590]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.35.02:959][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.35.06:090][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.21-09.35.06:890][718]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.21-09.35.06:919][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.21-09.35.06:932][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.21-09.35.06:946][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.21-09.35.38:831][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player
+[2024.04.21-09.35.38:831][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.35.38:831][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.35.39:244][209]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.35.55:728][743]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.04.21-09.35.55:728][743]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.04.21-09.35.55:730][743]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/Stage-1.Stage-1:PersistentLevel.PlayerStart_0
+[2024.04.21-09.35.55:730][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.35.55:733][743]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/Stage-1.Stage-1:PersistentLevel.PlayerStart_0
+[2024.04.21-09.35.55:733][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.35.55:753][743]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.36.00:447][911]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.36.15:072][426]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.36.21:835][666]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.36.32:820][ 56]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.36.35:039][134]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.36.35:060][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.36.35:060][134]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:36:35)
+[2024.04.21-09.36.35:064][134]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.21-09.36.35:064][134]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.04.21-09.36.35:064][134]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.36.35:065][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001136s)
+[2024.04.21-09.36.35:065][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001230s)
+[2024.04.21-09.36.35:079][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.21-09.36.35:080][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.36.35:080][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.36.35:081][134]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.36.35:081][134]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2024.04.21-09.36.35:081][134]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.21-09.36.35:081][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.36.35:081][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.36.35:081][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.36.35:081][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.36.35:081][134]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.36.35:081][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.36.35:081][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.36.35:081][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.36.35:082][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.36.35:082][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.36.35:082][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.36.35:084][134]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.36.35:184][134]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.36.35:185][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.36.35:185][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.36.35:185][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.36.35:185][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.21-09.36.35:185][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.21-09.36.35:187][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.21-09.36.35:187][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.21-09.36.35:187][134]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.21-09.36.35:187][134]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage-1'.
+[2024.04.21-09.36.35:187][134]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.21-09.36.35:189][134]LogLoad: Game class is 'GameModeBase'
+[2024.04.21-09.36.35:190][134]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.36.35
+[2024.04.21-09.36.35:190][134]LogWorld: Bringing up level for play took: 0.001172
+[2024.04.21-09.36.35:192][134]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.04.21-09.36.35:199][134]PIE: Server logged in
+[2024.04.21-09.36.35:200][134]PIE: Play in editor total start time 0.149 seconds.
+[2024.04.21-09.36.39:526][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.36.39:526][303]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.36.39:526][303]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.36.39:526][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.36.39:529][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.36.39:534][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.36.39:550][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.36.39:550][303]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.21-09.36.39:550][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.21-09.36.39:552][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.21-09.36.39:560][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.21-09.36.39:616][304]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.04.21-09.36.43:178][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.21-09.37.15:661][536]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.37.34:812][  4]Cmd: SELECT NONE
+[2024.04.21-09.37.46:783][434]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.37.46:799][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.37.46:799][434]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:37:46)
+[2024.04.21-09.37.46:799][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.37.46:800][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001268s)
+[2024.04.21-09.37.46:800][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001309s)
+[2024.04.21-09.37.46:842][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.21-09.37.46:844][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.37.46:844][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.37.46:844][434]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.37.46:845][434]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2024.04.21-09.37.46:845][434]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.21-09.37.46:845][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.37.46:845][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.37.46:845][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.37.46:845][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.37.46:845][434]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.37.46:845][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.37.46:845][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.37.46:845][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.37.46:846][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.37.46:846][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.37.46:846][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.37.46:847][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.37.46:947][434]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.37.46:948][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.37.46:948][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.37.46:948][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.37.46:948][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.21-09.37.46:948][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.21-09.37.46:950][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.21-09.37.46:950][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.21-09.37.46:950][434]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.21-09.37.46:950][434]LogAudio: Display: Audio Device (ID: 3) registered with world 'Stage-1'.
+[2024.04.21-09.37.46:950][434]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.21-09.37.46:952][434]LogLoad: Game class is 'GameModeBase'
+[2024.04.21-09.37.46:952][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.37.46
+[2024.04.21-09.37.46:952][434]LogWorld: Bringing up level for play took: 0.000710
+[2024.04.21-09.37.46:954][434]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.04.21-09.37.46:955][434]PIE: Server logged in
+[2024.04.21-09.37.46:956][434]PIE: Play in editor total start time 0.158 seconds.
+[2024.04.21-09.37.50:446][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.37.50:446][576]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.37.50:446][576]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.37.50:446][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.37.50:458][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.37.50:463][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.37.50:483][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.37.50:483][576]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.21-09.37.50:483][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.21-09.37.50:484][576]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.21-09.37.50:491][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.37.50:493][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.21-09.37.50:549][577]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.04.21-09.37.56:985][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2024.04.21-09.37.56:990][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.37.57:073][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.21-09.37.57:080][827]LogSavePackage: Moving output files for package: /Game/Maps/Stage-1
+[2024.04.21-09.37.57:081][827]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Stage-13726C9C741024972F425778C6858AD8F.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Stage-1.umap'
+[2024.04.21-09.37.57:092][827]LogFileHelpers: Saving map 'Stage-1' took 0.069
+[2024.04.21-09.37.57:102][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 226 ms)
+[2024.04.21-09.37.57:103][827]AssetCheck: New page: Asset Save: Stage-1
+[2024.04.21-09.37.57:103][827]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Stage-1.Stage-1
+[2024.04.21-09.38.01:076][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.04.21-09.38.01:126][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.38.01:129][971]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Testing_Area.Testing_Area
+[2024.04.21-09.38.01:129][971]Cmd: MAP LOAD FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Testing_Area.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-09.38.01:129][971]LightingResults: New page: Lighting Build
+[2024.04.21-09.38.01:129][971]LoadErrors: New page: Loading map: Testing_Area.umap
+[2024.04.21-09.38.01:165][971]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.38.01:165][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.38.01:165][971]MapCheck: New page: Map Check
+[2024.04.21-09.38.01:165][971]LightingResults: New page: Lighting Build
+[2024.04.21-09.38.01:179][971]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.38.01:181][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.21-09.38.01:182][971]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.38.01:182][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.38.01:196][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.21-09.38.01:213][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.21-09.38.01:220][971]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testing_Area'.
+[2024.04.21-09.38.01:220][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.38.01:220][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.38.01:220][971]LogAIModule: Creating AISystem for world Testing_Area
+[2024.04.21-09.38.01:234][971]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-09.38.01:250][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.21-09.38.01:258][971]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-09.38.01:259][971]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2024.04.21-09.38.05:577][125]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.04.21-09.38.09:707][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.38.09:724][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.38.09:724][273]PIE: New page: PIE session: Testing_Area (21 Apr 2024, 11:38:09)
+[2024.04.21-09.38.09:725][273]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Testing_Area
+[2024.04.21-09.38.09:730][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004923s)
+[2024.04.21-09.38.09:730][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Testing_Area.Testing_Area to /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area (0.004998s)
+[2024.04.21-09.38.09:747][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.21-09.38.09:749][273]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.38.09:749][273]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.38.09:750][273]LogAIModule: Creating AISystem for world Testing_Area
+[2024.04.21-09.38.09:750][273]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2024.04.21-09.38.09:750][273]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.21-09.38.09:751][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.38.09:751][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.38.09:751][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.38.09:751][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.38.09:751][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.38.09:751][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.38.09:751][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.38.09:751][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.38.09:752][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.38.09:752][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.38.09:752][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.38.09:754][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.38.09:861][273]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.38.09:861][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.38.09:861][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.38.09:861][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.38.09:861][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.21-09.38.09:861][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.21-09.38.09:863][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.21-09.38.09:863][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.21-09.38.09:863][273]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.21-09.38.09:863][273]LogAudio: Display: Audio Device (ID: 4) registered with world 'Testing_Area'.
+[2024.04.21-09.38.09:864][273]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.21-09.38.09:865][273]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-09.38.09:867][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Testing_Area.Testing_Area up for play (max tick rate 60) at 2024.04.21-10.38.09
+[2024.04.21-09.38.09:867][273]LogWorld: Bringing up level for play took: 0.001519
+[2024.04.21-09.38.09:869][273]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.04.21-09.38.09:882][273]PIE: Server logged in
+[2024.04.21-09.38.09:883][273]PIE: Play in editor total start time 0.161 seconds.
+[2024.04.21-09.38.11:545][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.38.11:545][341]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Testing_Area
+[2024.04.21-09.38.11:545][341]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.38.11:546][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.38.11:548][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.38.11:553][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.38.11:565][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.38.11:565][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.21-09.38.11:565][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.21-09.38.11:567][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.21-09.38.11:576][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.21-09.38.11:621][342]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.04.21-09.38.17:089][567]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.38.18:859][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.04.21-09.38.19:768][658]LogSlate: Window 'Save Content' being destroyed
+[2024.04.21-09.38.19:774][658]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Stage-1.Stage-1
+[2024.04.21-09.38.19:774][658]Cmd: MAP LOAD FILE="../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Stage-1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.21-09.38.19:774][658]LightingResults: New page: Lighting Build
+[2024.04.21-09.38.19:774][658]LoadErrors: New page: Loading map: Stage-1.umap
+[2024.04.21-09.38.19:815][658]LogWorld: UWorld::CleanupWorld for Testing_Area, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.38.19:815][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.38.19:815][658]MapCheck: New page: Map Check
+[2024.04.21-09.38.19:815][658]LightingResults: New page: Lighting Build
+[2024.04.21-09.38.19:827][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.38.19:831][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.04.21-09.38.19:832][658]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.38.19:832][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.38.19:846][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.21-09.38.19:865][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.04.21-09.38.19:867][658]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage-1'.
+[2024.04.21-09.38.19:868][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.38.19:868][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.38.19:868][658]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.38.19:883][658]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.21-09.38.19:903][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.21-09.38.19:912][658]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.21-09.38.19:912][658]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.234ms to complete.
+[2024.04.21-09.39.33:577][531]LogViewport: Scene viewport resized to 1147x639, mode Windowed.
+[2024.04.21-09.40.37:384][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.40.37:384][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.40.37:387][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_0
+[2024.04.21-09.40.37:388][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_0
+[2024.04.21-09.40.38:067][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.40.38:067][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player_C
+[2024.04.21-09.40.38:071][603]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_1
+[2024.04.21-09.40.38:072][603]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PaperZD/Player/PZD_Player.PZD_Player as actor: PZD_Player_C /Game/Maps/Stage-1.Stage-1:PersistentLevel.PZD_Player_C_1
+[2024.04.21-09.40.38:098][603]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.40.38:244][604]LogViewport: Scene viewport resized to 449x167, mode Windowed.
+[2024.04.21-09.40.44:647][769]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.40.44:798][770]LogViewport: Scene viewport resized to 449x167, mode Windowed.
+[2024.04.21-09.40.56:370][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.40.56:404][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.40.56:404][ 55]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:40:56)
+[2024.04.21-09.40.56:404][ 55]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.40.56:406][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001487s)
+[2024.04.21-09.40.56:406][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001554s)
+[2024.04.21-09.40.56:420][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.21-09.40.56:421][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.40.56:421][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.40.56:422][ 55]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.40.56:422][ 55]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2024.04.21-09.40.56:422][ 55]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.21-09.40.56:422][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.40.56:422][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.40.56:422][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.40.56:422][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.40.56:422][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.40.56:423][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.40.56:423][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.40.56:423][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.40.56:423][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.40.56:423][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.40.56:423][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.40.56:425][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.40.56:523][ 55]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.40.56:524][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.40.56:524][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.40.56:524][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.40.56:524][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.21-09.40.56:524][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.21-09.40.56:526][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.21-09.40.56:526][ 55]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.21-09.40.56:526][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.21-09.40.56:526][ 55]LogAudio: Display: Audio Device (ID: 5) registered with world 'Stage-1'.
+[2024.04.21-09.40.56:526][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.21-09.40.56:528][ 55]LogLoad: Game class is 'GameModeBase'
+[2024.04.21-09.40.56:528][ 55]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.40.56
+[2024.04.21-09.40.56:531][ 55]LogWorld: Bringing up level for play took: 0.002823
+[2024.04.21-09.40.56:533][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.21-09.40.56:534][ 55]PIE: Server logged in
+[2024.04.21-09.40.56:535][ 55]PIE: Play in editor total start time 0.153 seconds.
+[2024.04.21-09.40.57:835][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.40.57:835][103]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.40.57:844][103]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.40.57:844][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.40.57:848][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.40.57:852][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.40.57:865][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.40.57:865][103]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.21-09.40.57:865][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.21-09.40.57:867][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.21-09.40.57:876][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.21-09.40.57:930][104]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.40.57:997][104]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.21-09.40.58:001][104]LogViewport: Scene viewport resized to 449x167, mode Windowed.
+[2024.04.21-09.41.03:938][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.21-09.41.23:699][206]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.41.23:711][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.41.23:711][206]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:41:23)
+[2024.04.21-09.41.23:711][206]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.41.23:713][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001572s)
+[2024.04.21-09.41.23:713][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001620s)
+[2024.04.21-09.41.23:733][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.21-09.41.23:734][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.41.23:735][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.41.23:735][206]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.41.23:735][206]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2024.04.21-09.41.23:736][206]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.21-09.41.23:736][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.41.23:736][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.41.23:736][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.41.23:736][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.41.23:736][206]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.41.23:736][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.41.23:736][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.41.23:736][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.41.23:736][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.41.23:736][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.41.23:736][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.41.23:738][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.41.23:836][206]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.41.23:837][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.41.23:837][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.41.23:837][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.41.23:837][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.21-09.41.23:837][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.21-09.41.23:839][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.21-09.41.23:839][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.21-09.41.23:839][206]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.21-09.41.23:839][206]LogAudio: Display: Audio Device (ID: 6) registered with world 'Stage-1'.
+[2024.04.21-09.41.23:839][206]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.21-09.41.23:842][206]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-09.41.23:843][206]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.41.23
+[2024.04.21-09.41.23:844][206]LogWorld: Bringing up level for play took: 0.001415
+[2024.04.21-09.41.23:846][206]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.21-09.41.23:848][206]PIE: Server logged in
+[2024.04.21-09.41.23:848][206]PIE: Play in editor total start time 0.137 seconds.
+[2024.04.21-09.41.25:265][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.41.25:266][261]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.41.25:266][261]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.41.25:266][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.41.25:274][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.41.25:280][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.41.25:290][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.41.25:290][261]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.21-09.41.25:290][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.21-09.41.25:292][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.21-09.41.25:299][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.41.25:301][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.21-09.41.25:354][262]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.41.25:421][262]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.21-09.41.25:424][262]LogViewport: Scene viewport resized to 449x167, mode Windowed.
+[2024.04.21-09.41.29:184][369]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.41.29:268][370]LogViewport: Scene viewport resized to 449x167, mode Windowed.
+[2024.04.21-09.41.29:962][389]Cmd: DELETE
+[2024.04.21-09.41.29:962][389]Cmd: ACTOR DELETE
+[2024.04.21-09.41.29:963][389]LogEditorActor: Deleted Actor: PZD_Player_C
+[2024.04.21-09.41.30:012][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.04.21-09.41.30:014][389]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2024.04.21-09.41.51:443][577]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.41.51:454][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.41.51:454][577]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:41:51)
+[2024.04.21-09.41.51:454][577]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.41.51:455][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000902s)
+[2024.04.21-09.41.51:455][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.000966s)
+[2024.04.21-09.41.51:481][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.21-09.41.51:481][577]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.41.51:482][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.41.51:482][577]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.41.51:482][577]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2024.04.21-09.41.51:482][577]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.21-09.41.51:482][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.41.51:482][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.41.51:482][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.41.51:483][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.41.51:483][577]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.41.51:483][577]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.41.51:483][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.41.51:483][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.41.51:483][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.41.51:483][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.41.51:483][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.41.51:485][577]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.41.51:583][577]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.41.51:583][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.41.51:583][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.41.51:583][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.41.51:584][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.21-09.41.51:584][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.21-09.41.51:586][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.21-09.41.51:586][577]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.21-09.41.51:586][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.21-09.41.51:586][577]LogAudio: Display: Audio Device (ID: 7) registered with world 'Stage-1'.
+[2024.04.21-09.41.51:586][577]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.21-09.41.51:588][577]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-09.41.51:589][577]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.41.51
+[2024.04.21-09.41.51:589][577]LogWorld: Bringing up level for play took: 0.000860
+[2024.04.21-09.41.51:591][577]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.04.21-09.41.51:593][577]PIE: Server logged in
+[2024.04.21-09.41.51:594][577]PIE: Play in editor total start time 0.14 seconds.
+[2024.04.21-09.41.52:696][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.41.52:696][620]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.41.52:696][620]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.41.52:696][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.41.52:699][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.41.52:706][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.41.52:719][620]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.41.52:719][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.21-09.41.52:719][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.21-09.41.52:721][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.21-09.41.52:727][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.41.52:728][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.21-09.41.52:782][623]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.21-09.43.02:432][429]LogTexture: Display: Building textures: /Game/Assets/Textures/Backgrounds/Terrain__32x32_.Terrain__32x32_ (BGRA8, 608x416 x1x1x1) (Required Memory Estimate: 7.459629 MB), EncodeSpeed: Fast
+[2024.04.21-09.43.05:429][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.43.05:485][534]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Terrain__32x32_
+[2024.04.21-09.43.05:486][534]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Terrain__32x32_A5681A254B40E33ACC2B3DA59FB3CE36.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Terrain__32x32_.uasset'
+[2024.04.21-09.43.05:496][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 292 ms)
+[2024.04.21-09.43.05:496][534]AssetCheck: New page: Asset Save: Terrain__32x32_
+[2024.04.21-09.43.05:496][534]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Backgrounds/Terrain__32x32_.Terrain__32x32_
+[2024.04.21-09.43.41:559][713]LogContentBrowser: Attempting asset rename: Terrain__32x32__TileSet -> TS-KP
+[2024.04.21-09.43.41:603][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.43.41:666][713]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/TS-KP
+[2024.04.21-09.43.41:666][713]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP77173CFA48413201A657A8B228992AD2.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/TS-KP.uasset'
+[2024.04.21-09.43.41:675][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 364 ms)
+[2024.04.21-09.43.41:699][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.21-09.43.41:715][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.21-09.43.41:730][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.21-09.43.41:731][713]AssetCheck: New page: Asset Save: TS-KP
+[2024.04.21-09.43.41:732][713]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/TS-KP.TS-KP
+[2024.04.21-09.43.50:527][114]LogSlate: Window 'Failed Renames' being destroyed
+[2024.04.21-09.43.54:849][261]LogContentBrowser: Attempting asset rename: TS-KP -> TS-KP
+[2024.04.21-09.44.04:443][593]LogContentBrowser: Attempting asset rename: TS-KP -> TS-KP2
+[2024.04.21-09.44.04:482][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.44.04:541][593]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/TS-KP2
+[2024.04.21-09.44.04:541][593]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP23AFD73344726E0D7ED55CB9F74C91B7B.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/TS-KP2.uasset'
+[2024.04.21-09.44.04:549][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 430 ms)
+[2024.04.21-09.44.04:569][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.21-09.44.04:585][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.21-09.44.04:597][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.21-09.44.04:599][593]AssetCheck: New page: Asset Save: TS-KP2
+[2024.04.21-09.44.04:599][593]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/TS-KP2.TS-KP2
+[2024.04.21-09.44.14:480][972]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.44.14:481][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.44.14:481][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.44.14:594][972]LogViewport: Scene viewport resized to 422x718, mode Windowed.
+[2024.04.21-09.44.14:606][972]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2024.04.21-09.44.42:540][161]Cmd: TRANSACTION UNDO
+[2024.04.21-09.44.42:540][161]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-09.44.42:927][172]Cmd: TRANSACTION UNDO
+[2024.04.21-09.44.42:927][172]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-09.44.43:357][187]Cmd: TRANSACTION UNDO
+[2024.04.21-09.44.43:357][187]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-09.44.43:776][202]Cmd: TRANSACTION UNDO
+[2024.04.21-09.44.43:776][202]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-09.46.02:362][615]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.21-09.46.13:643][984]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.21-09.46.13:669][984]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.21-09.46.14:609][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.46.14:738][ 12]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.46.14:739][ 12]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-125B1F3424C45E5265B40D3B6A2317656.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.46.14:748][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 570 ms)
+[2024.04.21-09.46.14:749][ 12]AssetCheck: New page: Asset Save: TM-Lvl-1
+[2024.04.21-09.46.14:749][ 12]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.46.22:328][103]LogEditorViewport: Clicking Background
+[2024.04.21-09.46.51:452][941]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.04.21-09.46.51:452][941]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.04.21-09.46.51:464][941]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/Stage-1.Stage-1:PersistentLevel.PostProcessVolume_0
+[2024.04.21-09.46.51:468][941]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/Stage-1.Stage-1:PersistentLevel.PostProcessVolume_0
+[2024.04.21-09.49.29:426][816]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.49.29:438][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.49.29:438][816]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:49:29)
+[2024.04.21-09.49.29:438][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.49.29:441][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002341s)
+[2024.04.21-09.49.29:441][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.002389s)
+[2024.04.21-09.49.29:466][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.21-09.49.29:470][816]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.49.29:470][816]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.49.29:470][816]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.49.29:471][816]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2024.04.21-09.49.29:471][816]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.21-09.49.29:471][816]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.49.29:471][816]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.49.29:471][816]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.49.29:471][816]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.49.29:471][816]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.49.29:471][816]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.49.29:471][816]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.49.29:471][816]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.49.29:471][816]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.49.29:471][816]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.49.29:471][816]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.49.29:473][816]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.49.29:586][816]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.49.29:586][816]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.49.29:586][816]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.49.29:586][816]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.49.29:587][816]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.21-09.49.29:587][816]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.21-09.49.29:589][816]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.21-09.49.29:589][816]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.21-09.49.29:589][816]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.21-09.49.29:589][816]LogAudio: Display: Audio Device (ID: 8) registered with world 'Stage-1'.
+[2024.04.21-09.49.29:589][816]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.21-09.49.29:591][816]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-09.49.29:592][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.49.29
+[2024.04.21-09.49.29:592][816]LogWorld: Bringing up level for play took: 0.001219
+[2024.04.21-09.49.29:595][816]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.21-09.49.29:597][816]PIE: Server logged in
+[2024.04.21-09.49.29:598][816]PIE: Play in editor total start time 0.16 seconds.
+[2024.04.21-09.49.30:674][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.49.30:675][855]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.49.30:675][855]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.49.30:675][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.49.30:680][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.49.30:686][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.49.30:700][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-09.49.30:700][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.21-09.49.30:701][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.21-09.49.30:702][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.21-09.49.30:709][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.49.30:712][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.04.21-09.49.30:867][856]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.21-09.50.20:857][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.04.21-09.50.20:867][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Stage-1_Auto1
+[2024.04.21-09.50.20:867][806]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Stage-1_Auto17A49CA064E9CDF8B780428A2090B416E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Maps/Stage-1_Auto1.umap'
+[2024.04.21-09.50.20:870][806]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Autosaves/Game/Maps/Stage-1_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.21-09.50.20:870][806]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Stage-1_Auto1 is in the /Temp path, will not scan.
+[2024.04.21-09.50.20:870][806]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Stage-1_Auto1 is in the /Temp path, will not scan.
+[2024.04.21-09.50.20:870][806]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Stage-1' took 0.032
+[2024.04.21-09.50.20:870][806]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.04.21-09.51.03:225][159]LogSlate: Window 'World Settings' being destroyed
+[2024.04.21-09.51.03:231][159]LogSlate: Window 'World Settings' being destroyed
+[2024.04.21-09.51.09:017][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.51.09:099][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.21-09.51.09:107][496]LogSavePackage: Moving output files for package: /Game/Maps/Stage-1
+[2024.04.21-09.51.09:107][496]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Stage-1347D66D24C5243DA9F5B6791E25047F6.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Stage-1.umap'
+[2024.04.21-09.51.09:119][496]LogFileHelpers: Saving map 'Stage-1' took 0.074
+[2024.04.21-09.51.09:125][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 677 ms)
+[2024.04.21-09.51.09:126][496]AssetCheck: New page: Asset Save: Stage-1
+[2024.04.21-09.51.09:126][496]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Stage-1.Stage-1
+[2024.04.21-09.51.43:418][244]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/Textures/Backgrounds/TS-KP2.TS-KP2
+[2024.04.21-09.51.43:423][244]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.51.43:424][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.51.43:493][244]LogViewport: Scene viewport resized to 1142x825, mode Windowed.
+[2024.04.21-09.51.43:504][244]LogViewport: Scene viewport resized to 761x393, mode Windowed.
+[2024.04.21-09.52.52:995][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.04.21-09.52.53:002][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.52.53:112][966]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.52.53:113][966]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1AF1892E3421B3B41AEBF178D2A76E63F.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.52.53:153][966]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/TS-KP2
+[2024.04.21-09.52.53:153][966]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP281F2C638476AD420BA92C4BD0E8CBB17.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/TS-KP2.uasset'
+[2024.04.21-09.52.53:159][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 835 ms)
+[2024.04.21-09.52.53:161][966]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.52.53:161][966]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.52.53:161][966]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/TS-KP2.TS-KP2
+[2024.04.21-09.52.53:965][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.52.54:020][  7]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/TS-KP2
+[2024.04.21-09.52.54:021][  7]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP2D9D9EC804FD1043C0B208FAC10C95235.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/TS-KP2.uasset'
+[2024.04.21-09.52.54:027][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 897 ms)
+[2024.04.21-09.52.54:029][  7]AssetCheck: New page: Asset Save: TS-KP2
+[2024.04.21-09.52.54:029][  7]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/TS-KP2.TS-KP2
+[2024.04.21-09.53.01:869][401]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.53.01:869][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.54.29:047][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.04.21-09.54.29:054][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.54.29:177][235]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.54.29:178][235]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-191C5B4B54C1F9FD4A54384A6975EC8E4.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.54.29:184][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 1.02 sec)
+[2024.04.21-09.54.29:185][235]AssetCheck: New page: Asset Save: TM-Lvl-1
+[2024.04.21-09.54.29:185][235]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.54.30:297][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.54.30:414][287]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.54.30:415][287]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-12F899F244497810AB6FA149BA396F778.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.54.30:420][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 1.15 sec)
+[2024.04.21-09.54.30:421][287]AssetCheck: New page: Asset Save: TM-Lvl-1
+[2024.04.21-09.54.30:421][287]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.54.31:366][335]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.54.31:377][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.54.31:377][335]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:54:31)
+[2024.04.21-09.54.31:377][335]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.54.31:379][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001326s)
+[2024.04.21-09.54.31:379][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001353s)
+[2024.04.21-09.54.31:394][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.21-09.54.31:395][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.54.31:395][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.54.31:395][335]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.54.31:396][335]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.04.21-09.54.31:396][335]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.21-09.54.31:396][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.54.31:396][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.54.31:396][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.54.31:396][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.54.31:396][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.54.31:396][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.54.31:396][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.54.31:396][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.54.31:396][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.54.31:396][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.54.31:396][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.54.31:398][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.54.31:508][335]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.54.31:508][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.54.31:508][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.54.31:508][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.54.31:510][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.21-09.54.31:510][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.21-09.54.31:511][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.21-09.54.31:511][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.21-09.54.31:511][335]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.21-09.54.31:511][335]LogAudio: Display: Audio Device (ID: 9) registered with world 'Stage-1'.
+[2024.04.21-09.54.31:511][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.21-09.54.31:513][335]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-09.54.31:514][335]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.54.31
+[2024.04.21-09.54.31:514][335]LogWorld: Bringing up level for play took: 0.000956
+[2024.04.21-09.54.31:517][335]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.04.21-09.54.31:519][335]PIE: Server logged in
+[2024.04.21-09.54.31:520][335]PIE: Play in editor total start time 0.144 seconds.
+[2024.04.21-09.54.33:869][434]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.54.36:378][545]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.54.37:903][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.54.37:903][611]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.54.37:903][611]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.54.37:904][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.54.37:909][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.54.37:914][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.54.37:931][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.54.37:931][611]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.21-09.54.37:931][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.21-09.54.37:933][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.21-09.54.37:942][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.21-09.54.38:103][612]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.04.21-09.54.45:802][ 61]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.54.45:813][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.54.45:813][ 61]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:54:45)
+[2024.04.21-09.54.45:813][ 61]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.54.45:815][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001231s)
+[2024.04.21-09.54.45:815][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001272s)
+[2024.04.21-09.54.45:830][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.21-09.54.45:831][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.54.45:831][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.54.45:831][ 61]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.54.45:832][ 61]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2024.04.21-09.54.45:832][ 61]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.21-09.54.45:832][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.54.45:832][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.54.45:832][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.54.45:832][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.54.45:832][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.54.45:832][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.54.45:832][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.54.45:832][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.54.45:832][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.54.45:832][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.54.45:832][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.54.45:834][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.54.45:941][ 61]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.54.45:941][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.54.45:942][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.54.45:942][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.54.45:942][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.21-09.54.45:942][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.21-09.54.45:944][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.21-09.54.45:944][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.21-09.54.45:944][ 61]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.21-09.54.45:944][ 61]LogAudio: Display: Audio Device (ID: 10) registered with world 'Stage-1'.
+[2024.04.21-09.54.45:944][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.21-09.54.45:945][ 61]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-09.54.45:946][ 61]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.54.45
+[2024.04.21-09.54.45:946][ 61]LogWorld: Bringing up level for play took: 0.000841
+[2024.04.21-09.54.45:948][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.04.21-09.54.45:950][ 61]PIE: Server logged in
+[2024.04.21-09.54.45:951][ 61]PIE: Play in editor total start time 0.138 seconds.
+[2024.04.21-09.54.48:306][162]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.54.50:821][273]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.54.53:327][383]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.54.55:841][494]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.54.58:355][604]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.55.00:135][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.55.00:135][681]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.55.00:135][681]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.55.00:136][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.55.00:146][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.55.00:152][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.55.00:169][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.55.00:170][681]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.21-09.55.00:170][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.21-09.55.00:172][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.21-09.55.00:182][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.21-09.55.00:237][682]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.04.21-09.55.01:995][776]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.04.21-09.55.18:256][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.21-09.55.18:265][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.55.18:334][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.21-09.55.18:341][437]LogSavePackage: Moving output files for package: /Game/Maps/Stage-1
+[2024.04.21-09.55.18:342][437]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Stage-130C61E5841D1513D01375D911C3A0476.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Maps/Stage-1.umap'
+[2024.04.21-09.55.18:353][437]LogFileHelpers: Saving map 'Stage-1' took 0.071
+[2024.04.21-09.55.18:449][437]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.55.18:450][437]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1B44B16C0449A9ED6516306AC341426C5.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.55.18:456][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 1.34 sec)
+[2024.04.21-09.55.18:458][437]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.55.18:458][437]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Stage-1.Stage-1
+[2024.04.21-09.55.18:458][437]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.55.25:169][793]LogContentBrowser: Attempting asset rename: TS-KP -> TS-KP
+[2024.04.21-09.55.49:024][771]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.49:024][771]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.49:236][777]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.49:236][777]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.49:445][783]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.49:445][783]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.49:619][790]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.49:619][790]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.49:799][797]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.49:799][797]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.49:978][804]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.49:978][804]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.50:126][809]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.50:126][809]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.50:300][816]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.50:301][816]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.50:455][822]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.50:455][822]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.50:638][829]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.50:638][829]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.51:080][846]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.51:080][846]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.51:339][856]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.51:339][856]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.51:522][863]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.51:522][863]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.55.52:068][882]Cmd: TRANSACTION UNDO
+[2024.04.21-09.55.52:068][882]LogEditorTransaction: Undo Tile Erasing
+[2024.04.21-09.56.08:946][598]Cmd: TRANSACTION UNDO
+[2024.04.21-09.56.08:946][598]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-09.56.15:841][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.21-09.56.15:848][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.56.15:967][887]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.56.15:968][887]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1CC8C3F17417DB46552B7879DE0EAF6C9.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.56.15:973][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 1.46 sec)
+[2024.04.21-09.56.15:975][887]AssetCheck: New page: Asset Save: TM-Lvl-1
+[2024.04.21-09.56.15:975][887]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.56.26:444][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.21-09.56.26:451][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.56.26:568][388]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.56.26:569][388]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1030A2DE145915519341FFA88CF553757.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.56.26:575][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 1.58 sec)
+[2024.04.21-09.56.26:576][388]AssetCheck: New page: Asset Save: TM-Lvl-1
+[2024.04.21-09.56.26:576][388]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.56.29:619][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-09.56.29:630][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-09.56.29:630][550]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 11:56:29)
+[2024.04.21-09.56.29:630][550]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.56.29:632][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001952s)
+[2024.04.21-09.56.29:632][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001988s)
+[2024.04.21-09.56.29:649][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.21-09.56.29:649][550]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.56.29:650][550]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.56.29:650][550]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-09.56.29:650][550]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2024.04.21-09.56.29:650][550]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.04.21-09.56.29:650][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-09.56.29:650][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-09.56.29:650][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-09.56.29:651][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-09.56.29:651][550]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-09.56.29:651][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-09.56.29:651][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-09.56.29:651][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-09.56.29:651][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-09.56.29:651][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-09.56.29:651][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-09.56.29:653][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-09.56.29:764][550]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-09.56.29:765][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-09.56.29:765][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-09.56.29:765][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-09.56.29:765][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.04.21-09.56.29:765][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.04.21-09.56.29:767][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.04.21-09.56.29:767][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.04.21-09.56.29:767][550]LogInit: FAudioDevice initialized with ID 11.
+[2024.04.21-09.56.29:767][550]LogAudio: Display: Audio Device (ID: 11) registered with world 'Stage-1'.
+[2024.04.21-09.56.29:767][550]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.21-09.56.29:769][550]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-09.56.29:770][550]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-10.56.29
+[2024.04.21-09.56.29:770][550]LogWorld: Bringing up level for play took: 0.000955
+[2024.04.21-09.56.29:772][550]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.21-09.56.29:774][550]PIE: Server logged in
+[2024.04.21-09.56.29:775][550]PIE: Play in editor total start time 0.146 seconds.
+[2024.04.21-09.56.32:123][652]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-09.56.34:293][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.56.34:293][747]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-09.56.34:293][747]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.56.34:293][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.56.34:297][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-09.56.34:302][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.56.34:321][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-09.56.34:322][747]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.04.21-09.56.34:322][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.21-09.56.34:323][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.04.21-09.56.34:332][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.21-09.56.34:382][748]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.21-09.56.41:344][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.21-09.56.52:141][130]LogSlate: Window 'Replace References?' being destroyed
+[2024.04.21-09.56.52:145][130]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with TS-KP2; and then delete them.
+
+Are you sure?
+[2024.04.21-09.56.52:145][130]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.21-09.56.52:161][130]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.56.52:162][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.56.52:218][130]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.56.52:218][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.56.52:273][130]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.56.52:273][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.56.52:309][130]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.56.52:309][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.56.52:579][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.21-09.56.54:249][130]LogSlate: Window 'Save Content' being destroyed
+[2024.04.21-09.56.54:257][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.56.54:373][130]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.56.54:374][130]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-150E4941F4EED8772EE98D39F3602ACA7.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.56.54:379][130]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP
+[2024.04.21-09.56.54:380][130]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KPC255765349F1CD819874AF8E29D1D957.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KP.uasset'
+[2024.04.21-09.56.54:390][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1.72 sec)
+[2024.04.21-09.56.54:393][130]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.56.54:393][130]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.56.54:393][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP.TS-KP
+[2024.04.21-09.56.54:400][131]LogAutomationController: Ignoring very large delta of 13.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.21-09.56.59:449][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.21-09.56.59:466][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.21-09.56.59:481][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.21-09.56.59:498][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.56.59:531][425]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP
+[2024.04.21-09.56.59:532][425]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP538460AF44669FBC86E1369DFA4485F0.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KP.uasset'
+[2024.04.21-09.56.59:626][425]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.56.59:626][425]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1AAAB3D8645E263A4A808678CD09F9094.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.56.59:666][425]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/TS-KP2
+[2024.04.21-09.56.59:667][425]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP27D8EC3784B72E200A59EF58F11ACD508.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/TS-KP2.uasset'
+[2024.04.21-09.56.59:673][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1.89 sec)
+[2024.04.21-09.56.59:691][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.21-09.56.59:708][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.21-09.56.59:724][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.21-09.56.59:731][425]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.56.59:731][425]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP.TS-KP
+[2024.04.21-09.56.59:731][425]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.56.59:731][425]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/TS-KP2.TS-KP2
+[2024.04.21-09.57.02:281][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.57.02:314][563]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP
+[2024.04.21-09.57.02:315][563]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP966B90AE49C8EFD75BD9EB9AFC9FA4FA.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KP.uasset'
+[2024.04.21-09.57.02:403][563]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.57.02:404][563]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-16026E88248BE8FE60AAB75A1050ADC01.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.57.02:444][563]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP2
+[2024.04.21-09.57.02:444][563]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP25CC404D547A7F983F5AD12B481AA00B9.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KP2.uasset'
+[2024.04.21-09.57.02:449][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 2.06 sec)
+[2024.04.21-09.57.02:473][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.21-09.57.02:490][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.21-09.57.02:504][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.21-09.57.02:510][563]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.57.02:510][563]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP.TS-KP
+[2024.04.21-09.57.02:510][563]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.57.02:510][563]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP2.TS-KP2
+[2024.04.21-09.57.12:271][134]LogContentBrowser: Attempting asset rename: TS-KP2 -> TS-KP2
+[2024.04.21-09.57.15:880][349]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.57.15:881][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.57.15:881][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.57.15:950][349]LogViewport: Scene viewport resized to 422x718, mode Windowed.
+[2024.04.21-09.57.15:959][349]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2024.04.21-09.57.22:065][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.21-09.57.29:753][ 89]LogContentBrowser: Attempting asset rename: TS-KP2 -> TS-KingNPigs
+[2024.04.21-09.57.29:805][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.57.29:836][ 89]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP
+[2024.04.21-09.57.29:837][ 89]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KPCFA9A1C947475DFCE71D21A1B6795260.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KP.uasset'
+[2024.04.21-09.57.29:929][ 89]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.57.29:929][ 89]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1138CC4344C98BF07229054AB35FBBC07.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.57.29:969][ 89]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KingNPigs
+[2024.04.21-09.57.29:969][ 89]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KingNPigs4056F42149EB408894439A939788BB86.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KingNPigs.uasset'
+[2024.04.21-09.57.29:977][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 2.23 sec)
+[2024.04.21-09.57.30:001][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.21-09.57.30:018][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.21-09.57.30:030][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.21-09.57.30:033][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.57.30:033][ 89]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP.TS-KP
+[2024.04.21-09.57.30:033][ 89]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.57.30:033][ 89]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-KingNPigs.TS-KingNPigs
+[2024.04.21-09.57.37:611][538]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-KingNPigs.TS-KingNPigs
+[2024.04.21-09.57.37:618][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-09.57.37:618][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-09.57.37:718][538]LogViewport: Scene viewport resized to 965x744, mode Windowed.
+[2024.04.21-09.57.37:728][538]LogViewport: Scene viewport resized to 643x353, mode Windowed.
+[2024.04.21-09.57.40:132][605]LogSlate: Window 'TS-KingNPigs' being destroyed
+[2024.04.21-09.57.40:171][605]LogSlate: Window 'TS-KingNPigs' being destroyed
+[2024.04.21-09.57.40:197][605]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-09.57.40:197][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-09.57.46:172][960]LogContentBrowser: Attempting asset rename: TS-KingNPigs -> TS-Lvl1
+[2024.04.21-09.57.46:222][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.57.46:242][960]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP
+[2024.04.21-09.57.46:243][960]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP249DD8BF464AAD40B8A4CFB23987CD37.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KP.uasset'
+[2024.04.21-09.57.46:338][960]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.57.46:339][960]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1AF1BACFF41BD204265AD76BAF384E9CF.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.57.46:379][960]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-Lvl1
+[2024.04.21-09.57.46:379][960]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-Lvl1EFC731814BA5768036CA0DA383FFD828.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-Lvl1.uasset'
+[2024.04.21-09.57.46:385][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 2.40 sec)
+[2024.04.21-09.57.46:410][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.21-09.57.46:425][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.21-09.57.46:437][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.21-09.57.46:440][960]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.57.46:440][960]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP.TS-KP
+[2024.04.21-09.57.46:441][960]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.57.46:441][960]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-Lvl1.TS-Lvl1
+[2024.04.21-09.59.00:663][446]Cmd: TRANSACTION UNDO
+[2024.04.21-09.59.00:663][446]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-09.59.01:075][459]Cmd: TRANSACTION UNDO
+[2024.04.21-09.59.01:075][459]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-09.59.11:103][978]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Textures/Backgrounds/Decorations__32x32_.Decorations__32x32_
+[2024.04.21-09.59.11:263][978]LogViewport: Scene viewport resized to 1198x773, mode Windowed.
+[2024.04.21-09.59.16:766][221]LogSlate: Window 'Decorations__32x32_' being destroyed
+[2024.04.21-09.59.16:785][221]LogSlate: Window 'Decorations__32x32_' being destroyed
+[2024.04.21-09.59.19:523][361]LogTexture: Display: Building textures: /Game/Assets/Textures/Backgrounds/Decorations__32x32_.Decorations__32x32_ (BGRA8, 224x192 x1x1x1) (Required Memory Estimate: 1.320312 MB), EncodeSpeed: Final
+[2024.04.21-09.59.21:766][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.59.21:797][489]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Decorations__32x32_
+[2024.04.21-09.59.21:798][489]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/Decorations__32x32_8147F5AC44DBDBD71CF1BD8385CE6F3A.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Decorations__32x32_.uasset'
+[2024.04.21-09.59.21:804][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 2.43 sec)
+[2024.04.21-09.59.21:806][489]AssetCheck: New page: Asset Save: Decorations__32x32_
+[2024.04.21-09.59.21:806][489]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Textures/Backgrounds/Decorations__32x32_.Decorations__32x32_
+[2024.04.21-09.59.34:264][202]LogContentBrowser: Attempting asset rename: Decorations__32x32__TileSet -> TS-DecorLvl1
+[2024.04.21-09.59.34:292][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.59.34:326][202]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/TS-DecorLvl1
+[2024.04.21-09.59.34:326][202]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-DecorLvl10C0CD11C49C6AEF5A69539BD501A2F3E.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/TS-DecorLvl1.uasset'
+[2024.04.21-09.59.34:331][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 2.47 sec)
+[2024.04.21-09.59.34:357][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.21-09.59.34:374][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.21-09.59.34:390][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.21-09.59.34:393][202]AssetCheck: New page: Asset Save: TS-DecorLvl1
+[2024.04.21-09.59.34:393][202]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/TS-DecorLvl1.TS-DecorLvl1
+[2024.04.21-09.59.37:007][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.59.37:039][348]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-DecorLvl1
+[2024.04.21-09.59.37:039][348]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-DecorLvl149D9A0384CA0858FC2F86487EE6A5659.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-DecorLvl1.uasset'
+[2024.04.21-09.59.37:044][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 2.51 sec)
+[2024.04.21-09.59.37:066][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.21-09.59.37:083][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.21-09.59.37:099][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.21-09.59.37:107][348]AssetCheck: New page: Asset Save: TS-DecorLvl1
+[2024.04.21-09.59.37:107][348]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-DecorLvl1.TS-DecorLvl1
+[2024.04.21-09.59.39:707][493]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.21-09.59.39:746][493]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.21-09.59.39:756][494]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.21-09.59.45:985][868]LogContentBrowser: Attempting asset rename: NewFolder -> TS-LVL1
+[2024.04.21-09.59.45:986][868]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.21-09.59.50:406][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-09.59.50:435][121]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP
+[2024.04.21-09.59.50:437][121]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-KP3C927D824ABD398892AFDB98227770FD.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-KP.uasset'
+[2024.04.21-09.59.50:531][121]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-09.59.50:532][121]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-10AFC441D47808C3E23838893F7F8E026.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-09.59.50:572][121]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-LVL1/TS-Lvl1
+[2024.04.21-09.59.50:572][121]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-Lvl118BCF2784FBC49ADC2AC93B046B846F3.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-LVL1/TS-Lvl1.uasset'
+[2024.04.21-09.59.50:583][121]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TS-LVL1/TS-DecorLvl1
+[2024.04.21-09.59.50:583][121]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TS-DecorLvl150098DD040066C34E05063B3C03C138D.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TS-LVL1/TS-DecorLvl1.uasset'
+[2024.04.21-09.59.50:590][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 2.69 sec)
+[2024.04.21-09.59.50:618][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.21-09.59.50:631][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.21-09.59.50:646][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.21-09.59.50:655][121]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.21-09.59.50:655][121]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Textures/Backgrounds/Tilesets/TS-KP.TS-KP
+[2024.04.21-09.59.50:655][121]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-09.59.50:655][121]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-LVL1/TS-Lvl1.TS-Lvl1
+[2024.04.21-09.59.50:655][121]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileSet /Game/Assets/Textures/Backgrounds/Tilesets/TS-LVL1/TS-DecorLvl1.TS-DecorLvl1
+[2024.04.21-09.59.56:955][421]Cmd: TRANSACTION UNDO
+[2024.04.21-09.59.56:955][421]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.00.16:511][250]Cmd: TRANSACTION UNDO
+[2024.04.21-10.00.16:511][250]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.00.16:913][262]Cmd: TRANSACTION UNDO
+[2024.04.21-10.00.16:913][262]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.00.17:337][278]Cmd: TRANSACTION UNDO
+[2024.04.21-10.00.17:338][278]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.02.41:693][566]Cmd: TRANSACTION UNDO
+[2024.04.21-10.02.41:693][566]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.04.37:870][429]Cmd: TRANSACTION UNDO
+[2024.04.21-10.04.37:870][429]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.04.38:315][443]Cmd: TRANSACTION UNDO
+[2024.04.21-10.04.38:315][443]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.04.38:758][460]Cmd: TRANSACTION UNDO
+[2024.04.21-10.04.38:759][460]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.04.39:184][476]Cmd: TRANSACTION UNDO
+[2024.04.21-10.04.39:184][476]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.06.31:498][ 50]Cmd: TRANSACTION UNDO
+[2024.04.21-10.06.31:498][ 50]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.06.31:806][ 59]Cmd: TRANSACTION UNDO
+[2024.04.21-10.06.31:806][ 59]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.06.32:008][ 65]Cmd: TRANSACTION UNDO
+[2024.04.21-10.06.32:008][ 65]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.07.51:276][225]Cmd: TRANSACTION UNDO
+[2024.04.21-10.07.51:276][225]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.07.51:755][240]Cmd: TRANSACTION UNDO
+[2024.04.21-10.07.51:755][240]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.07.52:124][254]Cmd: TRANSACTION UNDO
+[2024.04.21-10.07.52:124][254]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.08.15:669][202]Cmd: TRANSACTION UNDO
+[2024.04.21-10.08.15:669][202]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.08.15:891][208]Cmd: TRANSACTION UNDO
+[2024.04.21-10.08.15:891][208]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.08.16:124][215]Cmd: TRANSACTION UNDO
+[2024.04.21-10.08.16:124][215]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.08.32:995][894]Cmd: TRANSACTION UNDO
+[2024.04.21-10.08.32:995][894]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.09.12:316][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.21-10.09.12:326][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-10.09.12:496][527]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-10.09.12:497][527]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1C32146BF46EFE80991A1678D78511598.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-10.09.12:501][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 2.87 sec)
+[2024.04.21-10.09.12:502][527]AssetCheck: New page: Asset Save: TM-Lvl-1
+[2024.04.21-10.09.12:503][527]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
+[2024.04.21-10.09.14:762][635]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-10.09.14:776][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-10.09.14:777][635]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 12:09:14)
+[2024.04.21-10.09.14:777][635]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-10.09.14:778][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001465s)
+[2024.04.21-10.09.14:778][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001496s)
+[2024.04.21-10.09.14:793][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.21-10.09.14:794][635]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-10.09.14:794][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-10.09.14:794][635]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-10.09.14:795][635]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2024.04.21-10.09.14:795][635]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.04.21-10.09.14:795][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-10.09.14:795][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-10.09.14:795][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-10.09.14:795][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-10.09.14:795][635]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-10.09.14:795][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-10.09.14:795][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-10.09.14:795][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-10.09.14:796][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-10.09.14:796][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-10.09.14:796][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-10.09.14:798][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-10.09.14:907][635]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-10.09.14:907][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-10.09.14:907][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-10.09.14:907][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-10.09.14:908][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.04.21-10.09.14:908][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.04.21-10.09.14:909][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.04.21-10.09.14:909][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.04.21-10.09.14:909][635]LogInit: FAudioDevice initialized with ID 12.
+[2024.04.21-10.09.14:909][635]LogAudio: Display: Audio Device (ID: 12) registered with world 'Stage-1'.
+[2024.04.21-10.09.14:909][635]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.21-10.09.14:911][635]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-10.09.14:912][635]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-11.09.14
+[2024.04.21-10.09.14:913][635]LogWorld: Bringing up level for play took: 0.001112
+[2024.04.21-10.09.14:915][635]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.04.21-10.09.14:917][635]PIE: Server logged in
+[2024.04.21-10.09.14:918][635]PIE: Play in editor total start time 0.141 seconds.
+[2024.04.21-10.09.17:258][737]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-10.09.18:303][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.09.18:303][783]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-10.09.18:303][783]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-10.09.18:303][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.09.18:318][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-10.09.18:322][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.09.18:341][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.09.18:341][783]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.04.21-10.09.18:341][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.21-10.09.18:343][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.04.21-10.09.18:351][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.21-10.09.18:400][784]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.04.21-10.09.27:674][102]Cmd: TRANSACTION UNDO
+[2024.04.21-10.09.27:674][102]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.09.28:294][123]Cmd: TRANSACTION UNDO
+[2024.04.21-10.09.28:294][123]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.09.29:347][163]Cmd: TRANSACTION UNDO
+[2024.04.21-10.09.29:347][163]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.09.30:382][201]Cmd: TRANSACTION UNDO
+[2024.04.21-10.09.30:382][201]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.09.31:262][233]Cmd: TRANSACTION UNDO
+[2024.04.21-10.09.31:262][233]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.09.35:771][402]Cmd: TRANSACTION UNDO
+[2024.04.21-10.09.35:771][402]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.10.07:043][627]Cmd: TRANSACTION UNDO
+[2024.04.21-10.10.07:044][627]LogEditorTransaction: Undo Tile Painting
+[2024.04.21-10.10.17:472][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.21-10.10.17:484][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.21-10.10.17:484][ 54]PIE: New page: PIE session: Stage-1 (21 Apr 2024, 12:10:17)
+[2024.04.21-10.10.17:484][ 54]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-10.10.17:485][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001628s)
+[2024.04.21-10.10.17:486][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage-1.Stage-1 to /Game/Maps/UEDPIE_0_Stage-1.Stage-1 (0.001669s)
+[2024.04.21-10.10.17:498][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.21-10.10.17:500][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-10.10.17:500][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-10.10.17:500][ 54]LogAIModule: Creating AISystem for world Stage-1
+[2024.04.21-10.10.17:500][ 54]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2024.04.21-10.10.17:501][ 54]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.21-10.10.17:501][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.21-10.10.17:501][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.21-10.10.17:501][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.21-10.10.17:501][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.21-10.10.17:501][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.21-10.10.17:501][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.21-10.10.17:501][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.21-10.10.17:501][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.21-10.10.17:501][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.21-10.10.17:501][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.21-10.10.17:501][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.21-10.10.17:503][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.21-10.10.17:609][ 54]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.04.21-10.10.17:609][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.21-10.10.17:609][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.21-10.10.17:609][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.21-10.10.17:609][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.21-10.10.17:609][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.21-10.10.17:611][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.21-10.10.17:611][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.21-10.10.17:611][ 54]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.21-10.10.17:611][ 54]LogAudio: Display: Audio Device (ID: 13) registered with world 'Stage-1'.
+[2024.04.21-10.10.17:611][ 54]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.21-10.10.17:613][ 54]LogLoad: Game class is 'BP_Gamemode_C'
+[2024.04.21-10.10.17:614][ 54]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage-1.Stage-1 up for play (max tick rate 60) at 2024.04.21-11.10.17
+[2024.04.21-10.10.17:614][ 54]LogWorld: Bringing up level for play took: 0.000986
+[2024.04.21-10.10.17:616][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.04.21-10.10.17:618][ 54]PIE: Server logged in
+[2024.04.21-10.10.17:619][ 54]PIE: Play in editor total start time 0.135 seconds.
+[2024.04.21-10.10.19:960][156]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-10.10.22:466][268]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.04.21-10.10.23:261][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.10.23:261][302]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage-1
+[2024.04.21-10.10.23:261][302]LogWorld: UWorld::CleanupWorld for Stage-1, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-10.10.23:262][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.10.23:264][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.21-10.10.23:269][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-10.10.23:289][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.21-10.10.23:289][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.21-10.10.23:289][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.21-10.10.23:291][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.21-10.10.23:297][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.21-10.10.23:300][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.21-10.10.23:350][303]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.04.21-10.10.36:880][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.21-10.10.36:884][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-10.10.37:054][106]LogSavePackage: Moving output files for package: /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1
+[2024.04.21-10.10.37:055][106]LogSavePackage: Moving '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Saved/TM-Lvl-1E4DB7A7E43C7184A3BCF70B87DA3388A.tmp' to '../../../../../../Desktop/Work/Github_Reps/UE_FG/UE_Fighting_Game/FightingGame/Content/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.uasset'
+[2024.04.21-10.10.37:060][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 3.05 sec)
+[2024.04.21-10.10.37:061][106]AssetCheck: New page: Asset Save: TM-Lvl-1
+[2024.04.21-10.10.37:061][106]LogContentValidation: Display: Validating /Script/Paper2D.PaperTileMap /Game/Assets/Textures/Backgrounds/Tilesets/TileMaps/TM-Lvl-1.TM-Lvl-1
